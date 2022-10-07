@@ -6,6 +6,7 @@
     left: 0;
     position: absolute;
     width: 64px;
+    background-color: red;
 }
 .double-line-bottom-theme-colored-2:before {
     border-radius: 8px;
@@ -15,7 +16,11 @@
     left: 10px;
     position: absolute;
     width: 24px;
-}
-body{
-    background-color: black;
+    background-color: red;
+}     
+.double-line-bottom-theme-colored-2 {
+    margin-bottom: 20px;
+    margin-top: 8px;
+    padding-bottom: 5px;
+    position: relative;
 }
