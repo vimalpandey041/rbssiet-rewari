@@ -55,3 +55,6 @@
     width: 64px;
     background-color: red;
 }
+.list{
+    list-style: none;
+}
