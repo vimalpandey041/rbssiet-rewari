@@ -1,0 +1,21 @@
+.double-line-bottom-theme-colored-2:after {
+    border-radius: 8px;
+    bottom: 1px;
+    content: "";
+    height: 2px;
+    left: 0;
+    position: absolute;
+    width: 64px;
+}
+.double-line-bottom-theme-colored-2:before {
+    border-radius: 8px;
+    bottom: -1px;
+    content: "";
+    height: 6px;
+    left: 10px;
+    position: absolute;
+    width: 24px;
+}
+body{
+    background-color: black;
+}
