@@ -58,3 +58,19 @@
 .list{
     list-style: none;
 }
+
+  
+  
+.target{
+    animation: flowing 8s linear infinite;
+    transform: translateX(100%);
+  }
+  
+  @keyframes flowing {
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  
+  
