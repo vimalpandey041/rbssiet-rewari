@@ -69,6 +69,24 @@
       transform: translateX(-100%);
     }
   }
+  .navbar-wrapper {
+    position:relative;
+}
+.carousel {
+    position:absolute;
+    top:60px;
+}
+.carousel-inner {
+    width: 100%; 
+    overflow: hidden;
+}
+.navbar {
+    position:absolute;
+    top:0;
+    z-index:10;
+    background: rgb(0, 0, 0); opacity: 0.85;
+    width:100%;
+}
   
   
   

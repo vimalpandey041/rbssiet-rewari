@@ -14,6 +14,8 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
     integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="/rbssiet-rewari/owlcarousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="/rbssiet-rewari/owlcarousel/owl.theme.default.min.css">
 </head>
 
 <body>
@@ -43,7 +45,20 @@
       </div>
     </div>
   </div>
-
+  <div class="owl-carousel owl-theme">
+    <div class="item" style="width: 1550px;">
+    <img src="/rbssiet-rewari/img/slider/IMG_20220511_204335-scaled.jpg" alt="">
+    </div>
+    <div class="item" style="width: 1550px;">
+    <img src="/rbssiet-rewari/img/slider/IMG_20220511_204335-scaled.jpg" alt="">
+    </div>
+    <div class="item" style="width: 1550px;">
+    <img src="/rbssiet-rewari/img/slider/IMG_20220511_204335-scaled.jpg" alt="">
+    </div>
+    <div class="item" style="width: 1550px;">
+    <img src="/rbssiet-rewari/img/slider/IMG_20220511_204335-scaled.jpg" alt="">
+    </div>
+</div>
   <div class="container-fluid bg-danger ">
     <div class="row">
       <div class="col-sm-2 bg-warning justify-content-center align-items-center d-flex" style="z-index: 999;">
@@ -365,5 +380,18 @@
     </div>
   </div>
 </body>
-
+<script src="/rbssiet-rewari/owlcarousel/jquery.min.js"></script>
+<script src="/rbssiet-rewari/owlcarousel/owl.carousel.min.js"></script>
+<script>
+  $('.owl-carousel').owlCarousel({
+   margin:10,
+   loop:true,
+   autoWidth:true,
+   items:4,
+   autoplay:true,
+   lazyLoad: true,
+   autoplayTimeout:3000,
+   autoplayHoverPause:true
+})
+</script>
 </html>
