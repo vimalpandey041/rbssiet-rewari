@@ -59,8 +59,6 @@
     list-style: none;
 }
 
-  
-  
 .target{
     animation: flowing 8s linear infinite;
     transform: translateX(100%);
