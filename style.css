@@ -60,7 +60,7 @@
 }
 
 .target{
-    animation: flowing 8s linear infinite;
+    animation: flowing 10s linear infinite;
     transform: translateX(100%);
   }
   
