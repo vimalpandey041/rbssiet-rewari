@@ -143,9 +143,9 @@ body{
     z-index: 999999;
   }
 
-  header .sticky{
+  header.sticky{
     padding: 5px 100px;
-    background-color: #fff;
+    background-color: rgb(255, 255, 255);
   }
 
   header .logo{
@@ -179,6 +179,13 @@ body{
     font-weight: 500px;
     transition: 0.6;
 
+  }
+
+  header.sticky .logo{
+    color: #000;
+  }
+  header.sticky ul li a{
+    color: #000;
   }
 
   

@@ -43,28 +43,77 @@
     </div>
   </div>
   <header>
-    <a href="#" class="logo">Logo</a>
-    <ul>
-      <li><a href="#">Home</a></li>
-      <li><a href="#">About</a></li>
-      <li><a href="#">Services</a></li>
-      <li><a href="#">Portfolio</a></li>
-      <li><a href="#"">Team</a></li>
-      <li><a href="#">Contact</a></li>
-    </ul>
+    <a href="#" class="logo">
+      <img src="/img/rbssiet new logo.png" class="img-fluid " width="80px" alt="">
+    </a>
+    <ul class="navbar-nav text-uppercase d-flex flex-row">
+      <li class="nav-list"><a href="#" class="nav-link active">Home</a></li>
+      <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">About us</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">School Profile</a></li>
+            <li><a class="dropdown-item" href="#">Vision & Mission</a></li>
+            <li><a class="dropdown-item" href="#">Objective & Philosophy</a></li>
+          </ul>
+        </li>
+      <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">ADMISSION</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Admission Enquiry</a></li>
+            <li><a class="dropdown-item" href="#">Admission Procedure</a></li>
+            <li><a class="dropdown-item" href="#">Discipline</a></li>
+          </ul>
+        </li>
+      <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">FACILITIES</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Library</a></li>
+            <li><a class="dropdown-item" href="#">Laboratory</a></li>
+            <li><a class="dropdown-item" href="#">Sports</a></li>
+            <li><a class="dropdown-item" href="#">Transport</a></li>
+          </ul>
+        </li>
+      <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">GALLERY</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Photo Gallery</a></li>
+            <li><a class="dropdown-item" href="#">Video Gallery</a></li>
+            <li><a class="dropdown-item" href="#">Infrastructure Gallery</a></li>
+          </ul>
+        </li>
+      <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">MESSAGES</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Principal Desk</a></li>
+            <li><a class="dropdown-item" href="#">Chairman Desk</a></li>
+          </ul>
+        </li>
+      <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">OFFICE BEARER</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Management</a></li>
+            <li><a class="dropdown-item" href="#">Teaching</a></li>
+            <li><a class="dropdown-item" href="#">Non Teaching</a></li>
+            <li><a class="dropdown-item" href="#">Consolidated</a></li>
+          </ul>
+        </li>
+        <li class="nav-item"><a href="#" class="nav-link">CAREER</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">CONTACT US
+      </a></li>
+     </ul>
   </header>
   <div class="owl-carousel owl-theme">
-    <div class="item h-75" style="width: auto; object-fit: cover;">
-    <img src="/img/slider/IMG_20220511_204335-scaled.jpg" class="img-fluid" alt="">
+    <div class="item h-75" style="width: auto; ">
+    <img src="/img/slider/IMG_20220511_204335-scaled.jpg" class="img-fluid" alt="" style="object-fit: cover;">
     </div>
-    <div class="item h-75" style="width: auto;object-fit: cover;">
-    <img src="/img/slider/IMG_20220511_204335-scaled.jpg" class="img-fluid" alt="">
+    <div class="item h-75" style="width: auto;">
+    <img src="/img/slider/IMG_20220511_204335-scaled.jpg" class="img-fluid" alt="" style="object-fit: cover;">
     </div>
-    <div class="item h-75" style="width: auto;object-fit: cover;">
-    <img src="/img/slider/IMG_20220511_204335-scaled.jpg"  class="img-fluid"alt="">
+    <div class="item h-75" style="width: auto;">
+    <img src="/img/slider/IMG_20220511_204335-scaled.jpg"  class="img-fluid"alt="" style="object-fit: cover;">
     </div>
-    <div class="item h-75" style="width: auto;object-fit: cover;">
-    <img src="/img/slider/IMG_20220511_204335-scaled.jpg" class="img-fluid"alt="">
+    <div class="item h-75" style="width: auto;">
+    <img src="/img/slider/IMG_20220511_204335-scaled.jpg" class="img-fluid"alt="" style="object-fit: cover;">
     </div>
 </div>
   <div class="container-fluid bg-danger ">
@@ -474,10 +523,10 @@
     integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
     crossorigin="anonymous"></script>
 <script>
-window.addEventListener("scroll",function()){
+window.addEventListener("scroll", function(){
   var header = document.querySelector("header");
-  header.classList.toggle("sticky",window.scrollY > 0);
-}
+  header.classList.toggle("sticky", window.scrollY > 0);
+})
 </script>
 <script src="/owlcarousel/jquery.min.js"></script>
 <script src="/owlcarousel/owl.carousel.min.js"></script>
