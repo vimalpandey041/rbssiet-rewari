@@ -144,7 +144,7 @@ body{
   }
 
   header.sticky{
-    padding: 5px 100px;
+    padding: 8px 100px;
     background-color: rgb(48, 10, 58);
   }
 
@@ -186,6 +186,63 @@ body{
   }
   header.sticky ul li a{
     color: rgb(255, 255, 255);
+  }
+
+  .myName {
+    color: rgb(228, 179, 179);
+    font-size: 22px;
+    font-family: cursive;
+  }
+  .item1 {
+    background-color: rgba(187, 161, 161, 0.267);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+    padding: 12px 18px;
+    font-size: 20px;
+    opacity: 0.8;
+    box-shadow: 4px 8px 20px rgba(255, 255, 255, 0.2);
+    border-radius: 6px;
+    overflow: hidden;
+    height: 50px;
+    transition: all 0.4s;
+    margin: 16px 0;
+  }
+  
+  .ye {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+  }
+  
+  .img1 {
+    width: 30px;
+    transition: all 0.3s;
+    cursor: pointer;
+  }
+  
+  .active1 {
+    height: 130px;
+  }
+  
+  .act_img {
+    transform: rotate(45deg);
+  }
+  
+  @media screen and (max-width: 668px) {
+    .item1 {
+      font-size: 17px;
+    }
+  }
+  
+  @media screen and (max-width: 608px) {
+    .item1 {
+      font-size: 15px;
+    }
   }
 
   
