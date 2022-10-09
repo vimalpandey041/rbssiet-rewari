@@ -227,7 +227,7 @@ body{
     font-family: cursive;
   }
   .item1 {
-    background-color: rgba(187, 161, 161, 0.267);
+    background-color: rgba(255, 255, 255, 0.8);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -276,6 +276,18 @@ body{
     .item1 {
       font-size: 15px;
     }
+  }
+
+  .vimal{
+    background-image: linear-gradient(
+    to right bottom,
+    #051937,
+    #181f36,
+    #242636,
+    #2e2d35,
+    #353535
+  );
+  transition: background-color 0.3s;
   }
 
   
