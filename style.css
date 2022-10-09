@@ -145,7 +145,7 @@ body{
 
   header.sticky{
     padding: 5px 100px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(48, 10, 58);
   }
 
   header .logo{
@@ -182,10 +182,10 @@ body{
   }
 
   header.sticky .logo{
-    color: #000;
+    color: rgb(255, 255, 255);
   }
   header.sticky ul li a{
-    color: #000;
+    color: rgb(255, 255, 255);
   }
 
   
