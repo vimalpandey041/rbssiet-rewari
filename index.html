@@ -460,55 +460,55 @@
       </div>
     </div>
   </div>
-  <section class="service__faq">
-    <div class="column">
+  <section class="service__faq ">
+    <div class="column ">
       <div class="row justify-content-center">
         <div class="service__faq__wrapper">
           <span class="service__faq__wrapper__circle">?</span>
           <h3 class="service__faq__wrapper__title">FAQ: What Do You Want  To know?</h3>
+          
         </div>
+        <div class="container">
+          <div class="item1">
+            <div class="ye">
+              <h4>Do You Accept All Major Credit Cards?</h4>
+              <img src="https://www.freepnglogos.com/uploads/plus-icon/plus-icon-plus-svg-png-icon-download-1.png" class="img1" />
+            </div>
+            <p>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat,
+              eos! Et, molestias! Veritatis hic officia beatae culpa iste maiores,
+              quia ad rerum, suscipit blanditiis iusto nihil reiciendis ab
+              distinctio voluptate.
+            </p>
+          </div>
+          <div class="item1">
+            <div class="ye">
+              <h4>Do You Support Local Farmers?</h4>
+              <img src="https://www.freepnglogos.com/uploads/plus-icon/plus-icon-plus-svg-png-icon-download-1.png" class="img1" />
+            </div>
+            <p>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat,
+              eos! Et, ms iusto nihil reiciendis ab distinctio onsectetur
+              adipisicing elit. Placeat, eos! Et, ms iusto nihil reiciendis ab
+              distinctvoluptate.
+            </p>
+          </div>
+          <div class="item1">
+            <div class="ye">
+              <h4>Do You Use Organic ingredients?</h4>
+              <img src="https://www.freepnglogos.com/uploads/plus-icon/plus-icon-plus-svg-png-icon-download-1.png"  class="img1"/>
+            </div>
+            <p>
+              Lorecipit blanditiis iusto blanditiis iusto blanditiis iusto
+              blanditiis iusto cvblanditiis iusto blanditiis iusto nihil reiciendis
+              ab distinctio blanditiis iusto cvblanditiis iusto blanditiis iusto
+              nihil reiciendis ab distinctio voluptate.
+            </p>
+          </div>
+        </div> 
       </div>
     </div>
 
-    
-    <div class="container-this">
-      <div class="item">
-        <div class="ye">
-          <h4>Do You Accept All Major Credit Cards?</h4>
-          <img src="https://img.icons8.com/ios/50/F1C40F/plus-math.png" />
-        </div>
-        <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat,
-          eos! Et, molestias! Veritatis hic officia beatae culpa iste maiores,
-          quia ad rerum, suscipit blanditiis iusto nihil reiciendis ab
-          distinctio voluptate.
-        </p>
-      </div>
-      <div class="item">
-        <div class="ye">
-          <h4>Do You Support Local Farmers?</h4>
-          <img src="https://img.icons8.com/ios/50/F1C40F/plus-math.png" />
-        </div>
-        <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat,
-          eos! Et, ms iusto nihil reiciendis ab distinctio onsectetur
-          adipisicing elit. Placeat, eos! Et, ms iusto nihil reiciendis ab
-          distinctvoluptate.
-        </p>
-      </div>
-      <div class="item">
-        <div class="ye">
-          <h4>Do You Use Organic ingredients?</h4>
-          <img src="https://img.icons8.com/ios/50/F1C40F/plus-math.png" />
-        </div>
-        <p>
-          Lorecipit blanditiis iusto blanditiis iusto blanditiis iusto
-          blanditiis iusto cvblanditiis iusto blanditiis iusto nihil reiciendis
-          ab distinctio blanditiis iusto cvblanditiis iusto blanditiis iusto
-          nihil reiciendis ab distinctio voluptate.
-        </p>
-      </div>
-    </div>
     </section>
 <footer class="text-center text-lg-start bg-dark text-light fw-bold">
   <div class="text-center p-3" style="background-color: rgb(36, 7, 54);">
@@ -538,6 +538,18 @@ window.addEventListener("scroll", function(){
    autoplayTimeout:3000,
    autoplayHoverPause:true
 })
+</script>
+<script>
+  const $ = document;
+let img_btn = $.querySelectorAll(".img1");
+let items = $.querySelectorAll(".item");
+
+img_btn.forEach((item) => {
+  item.addEventListener("click", (e) => {
+    item.classList.toggle("act_img");
+    e.target.parentElement.parentElement.classList.toggle("active1");
+  });
+});
 </script>
 </body>
 </html>
