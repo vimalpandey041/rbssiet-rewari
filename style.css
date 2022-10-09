@@ -174,7 +174,7 @@ body{
     position:relative;
     margin: 0 15px;
     text-decoration: none;
-    color: #fff;
+    color: rgb(235, 8, 8);
     letter-spacing: 2px;
     font-weight: 500px;
     transition: 0.6;
@@ -184,7 +184,33 @@ body{
   header.sticky .logo{
     color: rgb(255, 255, 255);
   }
+  header ul{
+    color: #051937;
+    background-color: rgba(255, 255, 255, 0.404);
+  }
+  header.sticky ul{
+    color: #051937;
+    padding: 3px 5px;
+    /* background-color: rgba(255, 255, 255, 0.404); */
+  }
+  /* header.sticky ul li:hover{
+    color: #051937;
+    padding: 3px 5px;
+    background-color: rgb(207, 252, 9);
+  } */
   header.sticky ul li a{
+    color: rgb(235, 227, 227);
+  }
+  header.sticky ul li :hover{
+    color: rgb(38, 3, 41);
+    padding: 12px 10px;
+    background-color: rgba(143, 219, 20, 0.849);
+    border-radius: 11px;
+  }
+  header h3{
+    color: rgb(245, 2, 2);
+  }
+  header.sticky h3{
     color: rgb(255, 255, 255);
   }
   .holder { 
@@ -278,11 +304,7 @@ body{
     }
   }
 
-<<<<<<< HEAD
   .gradient11{
-=======
-  .hue{
->>>>>>> 5f36295b02b99fee8e52d1a10dd8789387276615
     background-image: linear-gradient(
     to right bottom,
     #051937,
