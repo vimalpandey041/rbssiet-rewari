@@ -187,6 +187,39 @@ body{
   header.sticky ul li a{
     color: rgb(255, 255, 255);
   }
+  .holder { 
+    
+    width:300px;
+    height:250px;
+    overflow:hidden;
+    padding:10px;
+    font-family:Helvetica;
+  }
+  .holder .mask {
+    position: relative;
+    left: 0px;
+    top: 10px;
+    width:500px;
+    height:240px;
+    overflow: hidden;
+  }
+  .holder ul {
+    list-style:none;
+    margin:0;
+    padding:0;
+    position: relative;
+    
+
+  }
+  .holder ul li {
+    padding:10px 0px;
+    justify-content: center;
+  }
+  .holder ul li a {
+    color:darkred;
+    text-decoration:none;
+    
+  }
 
   
   
