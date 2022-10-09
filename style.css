@@ -82,7 +82,7 @@ body{
   .service__faq {
     margin: 50px 20px 100px;
     border: 4px solid #c1af61;
-    padding: 0 40px;
+    padding: 20px 40px;
   }
   
   .service__faq__wrapper {
@@ -106,7 +106,7 @@ body{
     border-radius: 50%;
     line-height: 50px;
     position: relative;
-    top: -25px;
+    top: -45px;
   }
   
   .service__faq__wrapper__title {
@@ -145,7 +145,7 @@ body{
 
   header.sticky{
     padding: 8px 100px;
-    background-color: rgb(48, 10, 58);
+    background-color: rgb(58, 12, 10);
   }
 
   header .logo{
@@ -278,7 +278,7 @@ body{
     }
   }
 
-  .vimal{
+  .gradient11{
     background-image: linear-gradient(
     to right bottom,
     #051937,
@@ -288,6 +288,36 @@ body{
     #353535
   );
   transition: background-color 0.3s;
+  }
+
+  .holder { 
+    background-color:#ccc;
+    width:300px;
+    height:250px;
+    overflow:hidden;
+    padding:10px;
+    font-family:Helvetica;
+  }
+  .holder .mask {
+    position: relative;
+    left: 0px;
+    top: 10px;
+    width:300px;
+    height:240px;
+    overflow: hidden;
+  }
+  .holder ul {
+    list-style:none;
+    margin:0;
+    padding:0;
+    position: relative;
+  }
+  .holder ul li {
+    padding:10px 0px;
+  }
+  .holder ul li a {
+    color:darkred;
+    text-decoration:none;
   }
 
   

@@ -44,64 +44,37 @@
     </div>
   </div>
   <header>
-    <a href="#" class="logo">
-      <img src="/img/rbssiet new logo.png" class="img-fluid " width="60px" alt="">
-    </a>
-    <ul class="navbar-nav text-uppercase d-flex flex-row">
-      <li class="nav-list"><a href="#" class="nav-link active">Home</a></li>
-      <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">About us</a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">School Profile</a></li>
-            <li><a class="dropdown-item" href="#">Vision & Mission</a></li>
-            <li><a class="dropdown-item" href="#">Objective & Philosophy</a></li>
-          </ul>
-        </li>
-      <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">ADMISSION</a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Admission Enquiry</a></li>
-            <li><a class="dropdown-item" href="#">Admission Procedure</a></li>
-            <li><a class="dropdown-item" href="#">Discipline</a></li>
-          </ul>
-        </li>
-      <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">FACILITIES</a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Library</a></li>
-            <li><a class="dropdown-item" href="#">Laboratory</a></li>
-            <li><a class="dropdown-item" href="#">Sports</a></li>
-            <li><a class="dropdown-item" href="#">Transport</a></li>
-          </ul>
-        </li>
-      <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">GALLERY</a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Photo Gallery</a></li>
-            <li><a class="dropdown-item" href="#">Video Gallery</a></li>
-            <li><a class="dropdown-item" href="#">Infrastructure Gallery</a></li>
-          </ul>
-        </li>
-      <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">MESSAGES</a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Principal Desk</a></li>
-            <li><a class="dropdown-item" href="#">Chairman Desk</a></li>
-          </ul>
-        </li>
-      <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">OFFICE BEARER</a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Management</a></li>
-            <li><a class="dropdown-item" href="#">Teaching</a></li>
-            <li><a class="dropdown-item" href="#">Non Teaching</a></li>
-            <li><a class="dropdown-item" href="#">Consolidated</a></li>
-          </ul>
-        </li>
-        <li class="nav-item"><a href="#" class="nav-link">CAREER</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">CONTACT US
-      </a></li>
-     </ul>
+    <div class="container-fluid text-white">
+      <div class="row">
+        <div class="col-2 d-flex justify-content-center">
+          <a href="#" class="logo">
+            <img src="/img/rbssiet new logo.png" class="img-fluid " width="90px" alt="">
+          </a>
+        </div>
+        <div class="col-10  d-flex justify-content-center flex-column align-items-center">
+          <h2>
+            Rao Birender Singh State Institute Of Engineering And Technology
+          </h2>
+          <h4>Zainabad, Rewari (Haryana)</h4>
+        </div>
+      </div>
+      <div class="row ">
+        <div class="col-12 py-2">
+          <ul class="navbar-nav text-uppercase d-flex flex-row justify-content-center">
+            <li class="nav-list"><a href="#" class="nav-link active">Home</a></li>
+              <li class="nav-item"><a href="#" class="nav-link">CAREER</a></li>
+              <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
+              <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
+              <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
+              <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
+              <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
+              <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
+              <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
+           </ul>
+        </div>
+      </div>
+    </div>
+    
   </header>
   <div class="owl-carousel owl-theme">
     <div class="item h-75" style="width: auto; ">
@@ -460,7 +433,7 @@
       </div>
     </div>
   </div>
-  <section class="service__faq  vimal">
+  <section class="service__faq gradient11">
     <div class="column ">
       <div class="row justify-content-center">
         <div class="service__faq__wrapper">
@@ -552,15 +525,41 @@ img_btn.forEach((item) => {
 });
 </script>
 <script>
-  const $ = document;
-let img_btn = $.querySelectorAll("img");
-let items = $.querySelectorAll(".item");
+  jQuery.fn.liScroll = function(settings) {
+	settings = jQuery.extend({
+		travelocity: 0.03
+		}, settings);		
+		return this.each(function(){
+				var $strip = jQuery(this);
+				$strip.addClass("newsticker")
+				var stripHeight = 1;
+				$strip.find("li").each(function(i){
+					stripHeight += jQuery(this, i).outerHeight(true); // thanks to Michael Haszprunar and Fabien Volpi
+				});
+				var $mask = $strip.wrap("<div class='mask'></div>");
+				var $tickercontainer = $strip.parent().wrap("<div class='tickercontainer'></div>");								
+				var containerHeight = $strip.parent().parent().height();	//a.k.a. 'mask' width 	
+				$strip.height(stripHeight);			
+				var totalTravel = stripHeight;
+				var defTiming = totalTravel/settings.travelocity;	// thanks to Scott Waye		
+				function scrollnews(spazio, tempo){
+				$strip.animate({top: '-='+ spazio}, tempo, "linear", function(){$strip.css("top", containerHeight); scrollnews(totalTravel, defTiming);});
+				}
+				scrollnews(totalTravel, defTiming);				
+				$strip.hover(function(){
+				  jQuery(this).stop();
+				},
+				function(){
+				  var offset = jQuery(this).offset();
+				  var residualSpace = offset.top + stripHeight;
+				  var residualTime = residualSpace/settings.travelocity;
+				  scrollnews(residualSpace, residualTime);
+				});			
+		});	
+};
 
-img_btn.forEach((item) => {
-  item.addEventListener("click", (e) => {
-    item.classList.toggle("act_img");
-    e.target.parentElement.parentElement.classList.toggle("active");
-  });
+$(function(){
+    $("ul#ticker01").liScroll();
 });
 </script>
 </body>
