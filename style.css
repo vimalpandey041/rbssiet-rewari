@@ -278,7 +278,11 @@ body{
     }
   }
 
+<<<<<<< HEAD
   .gradient11{
+=======
+  .hue{
+>>>>>>> 5f36295b02b99fee8e52d1a10dd8789387276615
     background-image: linear-gradient(
     to right bottom,
     #051937,
