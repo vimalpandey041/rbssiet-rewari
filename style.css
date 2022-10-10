@@ -189,10 +189,16 @@ body{
     background-color: rgba(255, 255, 255, 0.404);
   }
   header.sticky ul{
-    color: #051937;
-    padding: 3px 5px;
-    /* background-color: rgba(255, 255, 255, 0.404); */
+    color: #ececec;
+    padding: 2px 6px;
+    background-color: rgba(255, 255, 255, 0);
   }
+  header.sticky ul li{
+    color: #ececec;
+    padding: 2px 2px;
+    background-color: rgba(238, 2, 2, 0);
+  }
+ 
   /* header.sticky ul li:hover{
     color: #051937;
     padding: 3px 5px;
@@ -203,9 +209,9 @@ body{
   }
   header.sticky ul li :hover{
     color: rgb(38, 3, 41);
-    padding: 12px 10px;
+    padding: 10px 6px;
     background-color: rgba(143, 219, 20, 0.849);
-    border-radius: 11px;
+    border-radius: 6px;
   }
   header h3{
     color: rgb(245, 2, 2);
@@ -345,6 +351,10 @@ body{
     color:darkred;
     text-decoration:none;
   }
+
+  /* swiper js code */
+
+  
 
   
   
