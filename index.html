@@ -103,7 +103,6 @@
   <div class="container-fluid bg-danger ">
     <div class="row">
       <div class="col-sm-2 bg-warning justify-content-center align-items-center d-flex" style="z-index: 999;">
-        <!-- <i class="fa-solid fa-right-from-line text-danger"></i> -->
         <h4>Announcement <i class="fa-sharp fa-solid fa-arrow-right px-3"></i></h4>
         
       </div>
@@ -273,21 +272,28 @@
             <h3 class="card-title text-center">Forms</h3>
           </div>
           <div class="card-body">
-            <div class="news-alerts holder">
-              <ul id="news-alerts" class="news-alert-list">
-                <li><a href="#">The first thing that most Javascript programmers</a></li>
-                <li><a href="#">End up doing is adding some code</a></li>
-                <li><a href="#">The code that you want to run</a></li>
-                <li><a href="#">Inside of which is the code that you want to run</a></li>
-                <li><a href="#">Right when the page is loaded</a></li>
-                <li><a href="#">Problematically, however, the Javascript code</a></li>
-                <li><a href="#">The first thing that most Javascript programmers</a></li>
-                <li><a href="#">End up doing is adding some code</a></li>
-                <li><a href="#">The code that you want to run</a></li>
-                <li><a href="#">Inside of which is the code that you want to run</a></li>
-                <li><a href="#">Right when the page is loaded</a></li>
-                <li><a href="#">Problematically, however, the Javascript code</a></li>
-              </ul>
+            <div class="holder">
+              <!-- <ul id="ticker01">
+                          <li><a href="#">The first thing that most Javascript programmers</a></li>
+                          <li><a href="#">End up doing is adding some code</a></li>
+                          <li><a href="#">The code that you want to run</a></li>
+                          <li><a href="#">Inside of which is the code that you want to run</a></li>
+                          <li><a href="#">Right when the page is loaded</a></li>
+                          <li><a href="#">Problematically, however, the Javascript code</a></li>
+                          <li><a href="#">The first thing that most Javascript programmers</a></li>
+                          <li><a href="#">End up doing is adding some code</a></li>
+                          <li><a href="#">The code that you want to run</a></li>
+                          <li><a href="#">Inside of which is the code that you want to run</a></li>
+                          <li><a href="#">Right when the page is loaded</a></li>
+                          <li><a href="#">Problematically, however, the Javascript code</a></li>
+                    </ul> -->
+                    <marquee height="100" width="100%" behavior="scroll" direction="up" scrollamount="2" onmouseover="this.stop();" onmouseout="this.start();">
+                      <ul>
+                        <li>Hello I am Testing 1</li>
+                        <li>Hello I am Testing 2</li>
+                        <li>Hello I am Testing 3</li>
+                        <li>Hello I am Testing 4</li>
+                    </marquee>
             </div>
           </div>
         </div>
@@ -925,8 +931,14 @@ Haryana
     <a class="text-reset  text-decoration-none" style="" href="http://rbssietrewari.ac.in/">Rbssietrewari.ac.in</a>
   </div>
 </footer>
+<<<<<<< HEAD
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+=======
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'>
+</script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+>>>>>>> 1e9c9c90e187b95a1ab258a8c6982a6814cca01f
     integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
     crossorigin="anonymous"></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
@@ -964,5 +976,87 @@ img_btn.forEach((item) => {
   });
 });
 </script>
+<<<<<<< HEAD
+=======
+
+<script>
+  jQuery.fn.liScroll = function(settings) {
+	settings = jQuery.extend({
+		travelocity: 0.03
+		}, settings);		
+		return this.each(function(){
+				var $strip = jQuery(this);
+				$strip.addClass("newsticker")
+				var stripHeight = 1;
+				$strip.find("li").each(function(i){
+					stripHeight += jQuery(this, i).outerHeight(true); // thanks to Michael Haszprunar and Fabien Volpi
+				});
+				var $mask = $strip.wrap("<div class='mask'></div>");
+				var $tickercontainer = $strip.parent().wrap("<div class='tickercontainer'></div>");								
+				var containerHeight = $strip.parent().parent().height();	//a.k.a. 'mask' width 	
+				$strip.height(stripHeight);			
+				var totalTravel = stripHeight;
+				var defTiming = totalTravel/settings.travelocity;	// thanks to Scott Waye		
+				function scrollnews(spazio, tempo){
+				$strip.animate({top: '-='+ spazio}, tempo, "linear", function(){$strip.css("top", containerHeight); scrollnews(totalTravel, defTiming);});
+				}
+				scrollnews(totalTravel, defTiming);				
+				$strip.hover(function(){
+				  jQuery(this).stop();
+				},
+				function(){
+				  var offset = jQuery(this).offset();
+				  var residualSpace = offset.top + stripHeight;
+				  var residualTime = residualSpace/settings.travelocity;
+				  scrollnews(residualSpace, residualTime);
+				});			
+		});	
+};
+
+$(function(){
+    $("ul#ticker01").liScroll();
+});
+</script>
+<script>
+  jQuery.fn.liScroll = function(settings) {
+	settings = jQuery.extend({
+		travelocity: 50
+		}, settings);		
+		return this.each(function(){
+				var $strip = jQuery(this);
+				$strip.addClass("newsticker")
+				var stripHeight = 1;
+				$strip.find("li").each(function(i){
+					stripHeight += jQuery(this, i).outerHeight(true); // thanks to Michael Haszprunar and Fabien Volpi
+				});
+				var $mask = $strip.wrap("<div class='mask'></div>");
+				var $tickercontainer = $strip.parent().wrap("<div class='tickercontainer'></div>");								
+				var containerHeight = $strip.parent().parent().height();	//a.k.a. 'mask' width 	
+				$strip.height(stripHeight);			
+				var totalTravel = stripHeight;
+				var defTiming = totalTravel/settings.travelocity;	// thanks to Scott Waye		
+				function scrollnews(spazio, tempo){
+				$strip.animate({top: '-='+ spazio}, tempo, "linear", function(){$strip.css("top", containerHeight); scrollnews(totalTravel, defTiming);});
+				}
+				scrollnews(totalTravel, defTiming);				
+				$strip.hover(function(){
+				  jQuery(this).stop();
+				},
+				function(){
+				  var offset = jQuery(this).offset();
+				  var residualSpace = offset.top + stripHeight;
+				  var residualTime = residualSpace/settings.travelocity;
+				  scrollnews(residualSpace, residualTime);
+				});			
+		});	
+};
+
+$(function(){
+    $("ul#ticker01").liScroll();
+});
+</script>
+
+
+>>>>>>> 1e9c9c90e187b95a1ab258a8c6982a6814cca01f
 </body>
 </html>
