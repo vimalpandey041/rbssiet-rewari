@@ -16,15 +16,15 @@
 </head>
 
 <body>
-  <div class="container-fluid  bg-primary">
+  <div class="container-fluid  bg-primary d-none d-sm-block">
     <div class="row">
-      <div class="col-sm-3 py-2  d-flex justify-content-center align-items-center text-white">
+      <div class="col-sm-4  py-2  d-flex justify-content-center align-items-center text-white">
 
         <i class="fa-solid fa-phone px-3"></i>
         <a href="tel:+91987654321" class="nav-link">+91 987654321</a>
 
       </div>
-      <div class="col-sm-3 py-2  d-flex justify-content-center align-items-center text-white">
+      <div class="col-sm-5 py-2  d-flex justify-content-center align-items-center text-white">
         <i class="fa-solid fa-envelope px-3"></i>
         <a href="mailto:support@rbssietrewari.ac.in" class="nav-link">support@rbssietrewari.ac.in</a>
 
@@ -37,42 +37,54 @@
 
       </div>
       
-      <div class="col-sm-3 py-2  d-flex justify-content-center align-items-center text-white">
+      <!-- <div class="col-sm-3 py-2 d-none d-flex justify-content-center align-items-center text-white">
         <i class="fa-solid fa-user-large px-3"></i>
         <a href="#" class="nav-link">My Account </a>
-      </div>
+      </div> -->
     </div>
   </div>
   <header>
-    <div class="container-fluid text-white">
+    <div class="container-fluid text-white text-center">
       <div class="row">
-        <div class="col-1 d-flex justify-content-end">
+        <div class="col-sm-1 d-flex justify-content-end">
           <a href="#" class="logo">
             <img src="/img/rbssiet new logo.png" class="img-fluid " width="90px" alt="">
           </a>
         </div>
-        <div class="col-11  d-flex justify-content-center flex-column align-items-center">
-         <div class="container-fluid d-flex justify-content-center">
-          <h3 class="h2 ">
+        <div class="col-sm-11  d-flex justify-content-start flex-column align-items-center">
+       <div class="row">
+        <div class="col">
+          <h3 class="h4 " style="font-size:26px ; ">
             Rao Birender Singh State Institute Of Engineering And Technology, Zainabad, Rewari
-          </h3 class="h2">
+          </h3 >
+          
         </div>
-        <ul class="navbar-nav text-uppercase d-flex flex-row justify-content-center h6  rounded-3">
-          <li class="nav-list"><a href="#" class="nav-link active">Home</a></li>
-            <li class="nav-item "><a href="#" class="nav-link ">CAREER</a></li>
-            <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
-            <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
-            <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
-            <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
-            <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
-            <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
-            <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
-         </ul>
-         </div>
+       </div>
+        <div class="row">
+          <div class="col">
+            <ul class="navbar-nav text-uppercase d-flex flex-row justify-content-center rounded-3" style="font-size:12px ; font-weight: 600;">
+              <li class="nav-list"><a href="#" class="nav-link active">Home</a></li>
+                <li class="nav-item "><a href="#" class="nav-link ">CAREER</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">CONTACT US</a></li>
+             </ul>
+          </div>
+        </div>
+      </div>
+         
       </div>
     </div>
     
   </header>
+  <!-- <div class="container-fluid px-0">
+    <img src="/img/slider/IMG_20220511_204335-scaled.jpg" class="img-fluid" alt="">
+  </div> -->
+<div class="container-fluid px-0  ">
   <div class="owl-carousel owl-theme">
     <div class="item h-75" style="width: auto; ">
     <img src="/img/slider/IMG_20220511_204335-scaled.jpg" class="img-fluid" alt="" style="object-fit: cover;">
@@ -87,6 +99,7 @@
     <img src="/img/slider/IMG_20220511_204335-scaled.jpg" class="img-fluid"alt="" style="object-fit: cover;">
     </div>
 </div>
+</div>
   <div class="container-fluid bg-danger ">
     <div class="row">
       <div class="col-sm-2 bg-warning justify-content-center align-items-center d-flex" style="z-index: 999;">
@@ -94,11 +107,18 @@
         <h4>Announcement <i class="fa-sharp fa-solid fa-arrow-right px-3"></i></h4>
         
       </div>
-      <div class="col-sm-9 target d-flex text-white h5 py-1 ">
-      <span class="px-4">Lorem ipsum dolor </span>
-      <span class="px-4">Lorem ipsum dolor </span>
-      <span class="px-4" >Lorem ipsum dolor </span>
-      <span class="px-4" >Lorem ipsum dolorer </span>
+      <div class="col-sm-10 text-white h5 py-0 d-flex align-items-center justify-content-center">
+        <div class="marquee-w">
+          <div class="marquee">
+              <span>This is an infinitely sliding text example This is an infinitely sliding text example</span>
+          </div>
+          <div class="marquee marquee2">
+              <span>This is an infinitely sliding text example This is an infinitely sliding text example</span>
+          </div>
+          <div class="marquee marquee2">
+              <span>This is an infinitely sliding text example This is an infinitely sliding text example</span>
+          </div>
+      </div>
       </div>
     </div>
   </div>
@@ -168,10 +188,10 @@
           exercitationem sapiente! Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium voluptatibus
           impedit totam autem quis iusto inventore est doloribus itaque molestiae dolore </p>
         <div class="text-center">
-          <button type="button" class="btn btn-danger "> View More</button>
+          <button type="button" class="btn btn-danger py-2  px-4 my-3"> View More</button>
         </div>
       </div>
-      <div class="col-md-6 px-4">
+      <div class="col-md-6 px-4 my-3">
         <h2 class="h2 text-uppercase">Director's
           <span class="text-danger text-uppercase ">Corner</span>
         </h2>
@@ -180,18 +200,18 @@
           <div class="col-md-4">
             <div class="card ">
               <div class="card-body">
-                <img src="http://rbssietrewari.ac.in/wp-content/uploads/2022/02/51.png" class="card-img" alt="">
+                <img src="http://rbssietrewari.ac.in/wp-content/uploads/2022/02/51.png" class="card-img img-fluid" alt="">
               </div>
             </div>
           </div>
           <div class="col-md-8">
-            <p style="text-align:justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, possimus qui
+            <p style="text-align:justify; " class="my-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, possimus qui
               velit consectetur, odit eum impedit quos, ullam consequuntur vero perferendis quo magnam dolorum quod
               maiores omnis. Veritatis, illo voluptatem! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit
               qui aliquam quae corrupti ea illo quod libero provident, sint recusandae omnis non dolores optio non
               dolores optio </p>
             <div class="text-center">
-              <button type="button" class="btn btn-danger "> View More</button>
+              <button type="button" class="btn btn-danger py-2  px-4 "> View More</button>
             </div>
           </div>
         </div>
@@ -199,8 +219,8 @@
     </div>
   </div>
   <div class="container-fluid">
-    <div class="row">
-      <div class="col-3 px-2">
+    <div class="row ">
+      <div class="col-sm-12 col-md-6 px-5 col-lg-4 my-3">
         <div class="card">
           <div class="card-header">
             <h3 class="card-title text-center">Newsfeed</h3>
@@ -225,61 +245,56 @@
           </div>
         </div>
       </div>
-      <div class="col-3 px-2">
+      <div class="col-sm-12 col-md-6 px-5 col-lg-3 my-3">
         <div class="card">
           <div class="card-header">
             <h3 class="card-title text-center">Notice Board</h3>
           </div>
           <div class="card-body">
-            <div class="holder">
-              <ul id="ticker01">
-                          <li><a href="#">The first thing that most Javascript programmers</a></li>
-                          <li><a href="#">End up doing is adding some code</a></li>
-                          <li><a href="#">The code that you want to run</a></li>
-                          <li><a href="#">Inside of which is the code that you want to run</a></li>
-                          <li><a href="#">Right when the page is loaded</a></li>
-                          <li><a href="#">Problematically, however, the Javascript code</a></li>
-                          <li><a href="#">The first thing that most Javascript programmers</a></li>
-                          <li><a href="#">End up doing is adding some code</a></li>
-                          <li><a href="#">The code that you want to run</a></li>
-                          <li><a href="#">Inside of which is the code that you want to run</a></li>
-                          <li><a href="#">Right when the page is loaded</a></li>
-                          <li><a href="#">Problematically, however, the Javascript code</a></li>
-                    </ul>
-            </div>
+            <div class="marquee-w-1">
+              <div class="marquee-1">
+                  <span>This is an infinitely sliding text example This is an infinitely sliding text example</span>
+              </div>
+              <!-- <div class="marquee-1 marquee2-1">
+                  <span>This is an infinitely sliding text example This is an infinitely sliding text example</span>
+              </div>
+              <div class="marquee-1 marquee2-1">
+                  <span>This is an infinitely sliding text example This is an infinitely sliding text example</span>
+              </div> -->
+          </div>
           </div>
         </div>
 
       </div>
 
-      <div class="col-3 px-2">
+      <div class="col-sm-12 col-md-6 px-md-2 col-lg-3 my-3">
         <div class="card">
           <div class="card-header">
             <h3 class="card-title text-center">Forms</h3>
           </div>
           <div class="card-body">
-            <div class="holder">
-              <ul id="ticker01">
-                          <li><a href="#">The first thing that most Javascript programmers</a></li>
-                          <li><a href="#">End up doing is adding some code</a></li>
-                          <li><a href="#">The code that you want to run</a></li>
-                          <li><a href="#">Inside of which is the code that you want to run</a></li>
-                          <li><a href="#">Right when the page is loaded</a></li>
-                          <li><a href="#">Problematically, however, the Javascript code</a></li>
-                          <li><a href="#">The first thing that most Javascript programmers</a></li>
-                          <li><a href="#">End up doing is adding some code</a></li>
-                          <li><a href="#">The code that you want to run</a></li>
-                          <li><a href="#">Inside of which is the code that you want to run</a></li>
-                          <li><a href="#">Right when the page is loaded</a></li>
-                          <li><a href="#">Problematically, however, the Javascript code</a></li>
-                    </ul>
+            <div class="news-alerts holder">
+              <ul id="news-alerts" class="news-alert-list">
+                <li><a href="#">The first thing that most Javascript programmers</a></li>
+                <li><a href="#">End up doing is adding some code</a></li>
+                <li><a href="#">The code that you want to run</a></li>
+                <li><a href="#">Inside of which is the code that you want to run</a></li>
+                <li><a href="#">Right when the page is loaded</a></li>
+                <li><a href="#">Problematically, however, the Javascript code</a></li>
+                <li><a href="#">The first thing that most Javascript programmers</a></li>
+                <li><a href="#">End up doing is adding some code</a></li>
+                <li><a href="#">The code that you want to run</a></li>
+                <li><a href="#">Inside of which is the code that you want to run</a></li>
+                <li><a href="#">Right when the page is loaded</a></li>
+                <li><a href="#">Problematically, however, the Javascript code</a></li>
+              </ul>
             </div>
           </div>
         </div>
 
       </div>
 
-      <div class="col-3 px-2">
+      <div class="col-sm-12 col-md-6 px-md-2 col-lg-3 my-3">
         <div class="card">
           <div class="card-header">
             <h3 class="card-title text-center">Important Links</h3>
@@ -287,7 +302,7 @@
           <div class="card-body">
             <div class="holder">
               <ul id="ticker01">
-                          <li><a href="#">The first thing that most Javascript programmers</a></li>
+                          <li ><a href="#">The first thing that most Javascript programmers</a></li>
                           <li><a href="#">End up doing is adding some code</a></li>
                           <li><a href="#">The code that you want to run</a></li>
                           <li><a href="#">Inside of which is the code that you want to run</a></li>
@@ -911,17 +926,20 @@ Haryana
   </div>
 </footer>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
     crossorigin="anonymous"></script>
-<script>
-window.addEventListener("scroll", function(){
-  var header = document.querySelector("header");
-  header.classList.toggle("sticky", window.scrollY > 0);
-})
-</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="/owlcarousel/jquery.min.js"></script>
 <script src="/owlcarousel/owl.carousel.min.js"></script>
+<script src="/pandey.js"></script>  
+<script>
+  window.addEventListener("scroll", function(){
+    var header = document.querySelector("header");
+    header.classList.toggle("sticky", window.scrollY > 0);
+  })
+  </script>
 <script>
   $('.owl-carousel').owlCarousel({
    margin:10,
@@ -946,84 +964,5 @@ img_btn.forEach((item) => {
   });
 });
 </script>
-<script>
-  jQuery.fn.liScroll = function(settings) {
-	settings = jQuery.extend({
-		travelocity: 0.03
-		}, settings);		
-		return this.each(function(){
-				var $strip = jQuery(this);
-				$strip.addClass("newsticker")
-				var stripHeight = 1;
-				$strip.find("li").each(function(i){
-					stripHeight += jQuery(this, i).outerHeight(true); // thanks to Michael Haszprunar and Fabien Volpi
-				});
-				var $mask = $strip.wrap("<div class='mask'></div>");
-				var $tickercontainer = $strip.parent().wrap("<div class='tickercontainer'></div>");								
-				var containerHeight = $strip.parent().parent().height();	//a.k.a. 'mask' width 	
-				$strip.height(stripHeight);			
-				var totalTravel = stripHeight;
-				var defTiming = totalTravel/settings.travelocity;	// thanks to Scott Waye		
-				function scrollnews(spazio, tempo){
-				$strip.animate({top: '-='+ spazio}, tempo, "linear", function(){$strip.css("top", containerHeight); scrollnews(totalTravel, defTiming);});
-				}
-				scrollnews(totalTravel, defTiming);				
-				$strip.hover(function(){
-				  jQuery(this).stop();
-				},
-				function(){
-				  var offset = jQuery(this).offset();
-				  var residualSpace = offset.top + stripHeight;
-				  var residualTime = residualSpace/settings.travelocity;
-				  scrollnews(residualSpace, residualTime);
-				});			
-		});	
-};
-
-$(function(){
-    $("ul#ticker01").liScroll();
-});
-</script>
-<script>
-  jQuery.fn.liScroll = function(settings) {
-	settings = jQuery.extend({
-		travelocity: 50
-		}, settings);		
-		return this.each(function(){
-				var $strip = jQuery(this);
-				$strip.addClass("newsticker")
-				var stripHeight = 1;
-				$strip.find("li").each(function(i){
-					stripHeight += jQuery(this, i).outerHeight(true); // thanks to Michael Haszprunar and Fabien Volpi
-				});
-				var $mask = $strip.wrap("<div class='mask'></div>");
-				var $tickercontainer = $strip.parent().wrap("<div class='tickercontainer'></div>");								
-				var containerHeight = $strip.parent().parent().height();	//a.k.a. 'mask' width 	
-				$strip.height(stripHeight);			
-				var totalTravel = stripHeight;
-				var defTiming = totalTravel/settings.travelocity;	// thanks to Scott Waye		
-				function scrollnews(spazio, tempo){
-				$strip.animate({top: '-='+ spazio}, tempo, "linear", function(){$strip.css("top", containerHeight); scrollnews(totalTravel, defTiming);});
-				}
-				scrollnews(totalTravel, defTiming);				
-				$strip.hover(function(){
-				  jQuery(this).stop();
-				},
-				function(){
-				  var offset = jQuery(this).offset();
-				  var residualSpace = offset.top + stripHeight;
-				  var residualTime = residualSpace/settings.travelocity;
-				  scrollnews(residualSpace, residualTime);
-				});			
-		});	
-};
-
-$(function(){
-    $("ul#ticker01").liScroll();
-});
-</script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'>
-</script>
-
 </body>
 </html>

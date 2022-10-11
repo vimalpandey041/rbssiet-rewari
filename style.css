@@ -72,6 +72,7 @@ body{
 .target{
     animation: flowing 10s linear infinite;
     transform: translateX(100%);
+
   }
   
   @keyframes flowing {
@@ -176,7 +177,6 @@ body{
     text-decoration: none;
     color: rgb(235, 8, 8);
     letter-spacing: 2px;
-    font-weight: 500px;
     transition: 0.6;
 
   }
@@ -206,6 +206,7 @@ body{
   } */
   header.sticky ul li a{
     color: rgb(235, 227, 227);
+    font-size: 11px;
   }
   header.sticky ul li :hover{
     color: rgb(38, 3, 41);
@@ -214,43 +215,11 @@ body{
     border-radius: 6px;
   }
   header h3{
-    color: rgb(245, 2, 2);
+    color: #19103e;
   }
   header.sticky h3{
+    font-size: 26px;
     color: rgb(255, 255, 255);
-  }
-  .holder { 
-    
-    width:300px;
-    height:250px;
-    overflow:hidden;
-    padding:10px;
-    font-family:Helvetica;
-  }
-  .holder .mask {
-    position: relative;
-    left: 0px;
-    top: 10px;
-    width:500px;
-    height:240px;
-    overflow: hidden;
-  }
-  .holder ul {
-    list-style:none;
-    margin:0;
-    padding:0;
-    position: relative;
-    
-
-  }
-  .holder ul li {
-    padding:10px 0px;
-    justify-content: center;
-  }
-  .holder ul li a {
-    color:darkred;
-    text-decoration:none;
-    
   }
 
   .myName {
@@ -322,39 +291,131 @@ body{
   transition: background-color 0.3s;
   }
 
-  .holder { 
-   
-    width:300px;
-    height:250px;
-    overflow:hidden;
-    padding:10px;
-    font-family:Helvetica;
-  }
-  .holder .mask {
-    position: relative;
-    left: 0px;
-    top: 10px;
-    width:300px;
-    height:240px;
-    overflow: hidden;
-  }
-  .holder ul {
-    list-style:none;
-    margin:0;
-    padding:0;
-    position: relative;
-  }
-  .holder ul li {
-    padding:10px 0px;
-  }
-  .holder ul li a {
-    color:darkred;
-    text-decoration:none;
-  }
-
   /* swiper js code */
 
+  .news-alerts {
+    width: 100%;
+    height: 300px;
+    padding: 5px;
+    overflow: hidden;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    font-family: "Archivo", sans-serif;
+  }
   
+  .news-alerts ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+  }
+  
+  .news-alerts ul li {
+    padding: 10px 0px;
+  }
+  
+  .news-alerts ul li a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  .news-alerts ul li a:hover {
+    color: #333;
+    text-decoration: underline;
+  }
+
+  .marquee-w {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 24px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: hidden;
+}
+.marquee {
+    position: absolute;
+    display: block;
+    margin: auto auto;
+    white-space: nowrap;
+    overflow: hidden;
+    min-width: 100%;
+    height: 100%;
+}
+.marquee span {
+    display: inline-block;  
+    padding-left: 100%;
+    text-align: center;
+    font-weight: 100;
+    -webkit-text-stroke: 1px #f0d2d2;
+    white-space: nowrap;
+    min-width: 100%;
+    height: 100%;
+    line-height: 25px;
+    font-size: 20px;
+    animation: marquee 10s linear infinite;
+}
+.marquee2 span {
+    animation-delay: 3.5s;
+}
+.marquee3 span {
+    animation-delay: 3.5s;
+}
+@keyframes marquee {
+    0% {
+        transform: translate(0, 0);
+    }
+    100% {
+        transform: translate(-100%, 0);
+    }
+}
+  .marquee-w-1 {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 24px;
+    top: 50%;
+    left: 50%;
+    transform:translateY(-100%)
+    overflow: hidden;
+}
+.marquee-1 {
+    position: absolute;
+    display: block;
+    margin: auto auto;
+    white-space: nowrap;
+    overflow: hidden;
+    min-width: 100%;
+    height: 100%;
+}
+.marquee-1 span {
+    display: inline-block;  
+    padding-left: 100%;
+    text-align: center;
+    font-weight: 100;
+    -webkit-text-stroke: 1px #f0d2d2;
+    white-space: nowrap;
+    min-width: 100%;
+    height: 100%;
+    line-height: 25px;
+    font-size: 20px;
+    animation: marquee 10s linear infinite;
+}
+.marquee2-1 span {
+    animation-delay: 3.5s;
+}
+.marquee3 span {
+    animation-delay: 3.5s;
+}
+@keyframes marquee-1 {
+    0% {
+        transform: translateY(0, 0);
+    }
+    100% {
+        transform: translateY(-100%);
+    }
+}
 
   
   
