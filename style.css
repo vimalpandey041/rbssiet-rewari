@@ -130,10 +130,13 @@ body{
     color: #c1af61;
     font-weight: 600;
   }
+  .main-heading{
+    font-size: 25px;
+  }
   
   header{
     position: fixed;
-    top: 0;
+    top: 40px;
     left: 0;
     width: 100%;
     display: flex;
@@ -175,7 +178,8 @@ body{
     position:relative;
     margin: 0 15px;
     text-decoration: none;
-    color: rgb(235, 8, 8);
+    color: rgb(11, 2, 36);
+    font-weight: bold;
     letter-spacing: 2px;
     transition: 0.6;
 
@@ -185,7 +189,7 @@ body{
     color: rgb(255, 255, 255);
   }
   header ul{
-    color: #a6a0a0;
+    color: #000000;
     /* color: #051937; */
     /* background-color: rgba(255, 255, 255, 0.404); */
   }
@@ -196,7 +200,7 @@ body{
   }
   header.sticky ul li{
     color: #ececec;
-    padding: 2px 2px;
+    padding: 2px 1px;
     background-color: rgba(238, 2, 2, 0);
   }
  
@@ -219,9 +223,12 @@ body{
     color: #19103e;
   }
   header.sticky h3{
-    font-size: 26px;
+    font-size: 15px;
     color: rgb(255, 255, 255);
   }
+ 
+
+  
 
   .myName {
     color: rgb(228, 179, 179);
@@ -591,7 +598,120 @@ footer{
   height: 100%;
   object-fit: cover;
 }
+.direc-img img {
+  width: 200px;
+}
+
   
+
+@media only screen and (max-width: 575px) {
+  .height-slider{
+    width: 600px;
+  }
+ 
+  header{
+    top: 0;
+    padding: 10px 0px;
+    background-color: rgba(255, 251, 251, 0.384);
+  }
+  .main-heading{
+    font-size: 15px;
+  }
+  header h3{
+    color: #19103e;
+    font-size: 2px;
+  }
+  header.sticky h3{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+  }
+  .bars{
+    color: #051937;
+  }
+  header.sticky .bars{
+    color: white;
+  }
+}
+@media only screen and (min-width: 576px) {
+  .height-slider{
+    width: 720px;
+  }
+  
+  header{
+    top: 37px;
+    padding: 10px 0px;
+    background-color: rgba(255, 251, 251, 0.384);
+  }
+  header.sticky{
+    top: 0;
+  }
+  .main-heading{
+    font-size: 15px;
+  }
+  header h3{
+    color: #19103e;
+    font-size: 2px;
+  }
+  header.sticky h3{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+  }
+  .bars{
+    color: #051937;
+  }
+  header.sticky .bars{
+    color: white;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .height-slider{
+    width: 1500px;
+  }
+  
+  
+  header{
+    top: 37px;
+    padding: 0px 0px;
+    /* background-color: rgba(255, 251, 251, 0.384); */
+  }
+  header .logo img{
+    width: 60px;
+    margin: 10px 100px;
+  }
+  header.sticky .logo img{
+    width: 60px;
+    margin: 10px 100px;
+  }
+  header.sticky{
+    top: 0;
+    padding: 0px 15px;
+  }
+  .main-heading{
+    font-size: 25px;
+  }
+  header h3{
+    color: #19103e;
+    font-size: 2px;
+  }
+  header.sticky h3{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+  }
+  header ul li a{
+   color: rgb(0, 0, 0);
+  }
+  header ul{
+   color: rgb(8, 8, 8);
+   background-color: rgba(245, 245, 248, 0.801);
+   
+  }
+  .bars{
+    color: #051937;
+  }
+  header.sticky .bars{
+    color: white;
+  }
+}
   
   
   
