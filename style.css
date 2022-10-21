@@ -210,7 +210,7 @@ body{
     background-color: rgb(207, 252, 9);
   } */
   header.sticky ul li a{
-    color: rgb(235, 227, 227);
+    color: rgb(255, 255, 255);
     font-size: 9px;
   }
   /* header.sticky ul li :hover{
@@ -698,6 +698,9 @@ footer{
     font-size: 25px;
     color: rgb(255, 255, 255);
   }
+  header.sticky ul li a{
+   color: rgb(255, 255, 255);
+  }
   header ul li a{
    color: rgb(0, 0, 0);
   }
@@ -706,6 +709,11 @@ footer{
    /* background-color: rgba(5, 5, 44, 0.459); */
    padding: 0px;
    
+  }
+  header.sticky .white a{
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
   }
   .bars{
     color: #051937;
