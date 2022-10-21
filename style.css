@@ -211,14 +211,15 @@ body{
   } */
   header.sticky ul li a{
     color: rgb(235, 227, 227);
-    font-size: 11px;
+    font-size: 9px;
   }
-  header.sticky ul li :hover{
+  /* header.sticky ul li :hover{
     color: rgb(38, 3, 41);
-    padding: 10px 6px;
+    /* padding: 10px 6px;  */
+    padding: 8px 1px;
     background-color: rgba(143, 219, 20, 0.849);
     border-radius: 6px;
-  }
+  } */
   header h3{
     color: #19103e;
   }
@@ -670,12 +671,12 @@ footer{
   
   
   header{
-    top: 37px;
+    top: 45px;
     padding: 0px 0px;
     /* background-color: rgba(255, 251, 251, 0.384); */
   }
   header .logo img{
-    width: 60px;
+    width: 80px;
     margin: 10px 100px;
   }
   header.sticky .logo img{
@@ -701,8 +702,9 @@ footer{
    color: rgb(0, 0, 0);
   }
   header ul{
-   color: rgb(8, 8, 8);
-   background-color: rgba(245, 245, 248, 0.801);
+   color: rgb(2, 1, 17);
+   /* background-color: rgba(5, 5, 44, 0.459); */
+   padding: 0px;
    
   }
   .bars{
