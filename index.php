@@ -4,16 +4,16 @@ include("header.php");
 <div class="container-fluid px-0 ">
   <div class="owl-carousel owl-theme">
     <div class="item  height-slider ">
-    <img src="/img/slider/IMG_20220511_204335-scaled.jpg"  alt=""  style="object-fit: cover;">
+    <img src="img/slider/IMG_20220511_204335-scaled.jpg"  alt=""  style="object-fit: cover;">
     </div>
     <div class="item  height-slider " >
-    <img src="/img/slider/IMG_20220511_204335-scaled.jpg"  alt=""  style="object-fit: cover;">
+    <img src="img/slider/IMG_20220511_204335-scaled.jpg"  alt=""  style="object-fit: cover;">
     </div>
     <div class="item  height-slider"  >
-    <img src="/img/slider/IMG_20220511_204335-scaled.jpg"  alt=""  style="object-fit: cover;">
+    <img src="img/slider/IMG_20220511_204335-scaled.jpg"  alt=""  style="object-fit: cover;">
     </div>
     <div class="item  height-slider">
-    <img src="/img/slider/IMG_20220511_204335-scaled.jpg"  alt=""  style="object-fit: cover;">
+    <img src="img/slider/IMG_20220511_204335-scaled.jpg"  alt=""  style="object-fit: cover;">
     </div>
 </div>
 </div>
@@ -112,56 +112,56 @@ include("header.php");
           <div class="swiper-wrapper">
             <div class="swiper-slide rounded-4">
               <div class="card  rounded-4  px-2 pt-2 shadow" >
-                <img src="/img/labs and building/Computer l2.jpeg" alt="" class="card-img img-fluid rounded-4"
+                <img src="img/labs and building/Computer l2.jpeg" alt="" class="card-img img-fluid rounded-4"
                    style="height: 250px; object-fit:cover;">
                   <a href="#" class="btn btn-warning rounded-5  my-3 " >Computer Lab 1</a>
               </div>
             </div>
             <div class="swiper-slide rounded-4">
               <div class="card  rounded-4  px-2 pt-2 shadow" >
-                <img src="/img/labs and building/Computer l1.jpeg" alt="" class="card-img img-fluid rounded-4"
+                <img src="img/labs and building/Computer l1.jpeg" alt="" class="card-img img-fluid rounded-4"
                    style="height: 250px; object-fit:cover;">
                   <a href="#" class="btn btn-danger rounded-5  my-3 " >Computer Lab 2</a>
               </div>
             </div>
             <div class="swiper-slide rounded-4">
               <div class="card  rounded-4  px-2 pt-2 shadow" >
-                <img src="/img/labs and building/chemistry lab.jpeg" alt="" class="card-img img-fluid rounded-4"
+                <img src="img/labs and building/chemistry lab.jpeg" alt="" class="card-img img-fluid rounded-4"
                    style="height: 250px; object-fit: cover;">
                   <a href="#" class="btn btn-warning rounded-5  my-3 " >Chemistry Lab</a>
               </div>
             </div>
             <div class="swiper-slide rounded-4">
               <div class="card  rounded-4  px-2 pt-2 shadow" >
-                <img src="/img/labs and building/physics .jpeg" alt="" class="card-img img-fluid rounded-4"
+                <img src="img/labs and building/physics .jpeg" alt="" class="card-img img-fluid rounded-4"
                    style="height: 250px; object-fit: cover;">
                   <a href="#" class="btn btn-danger rounded-5  my-3 " >Physics Lab</a>
               </div>
             </div>
             <div class="swiper-slide rounded-4">
               <div class="card  rounded-4  px-2 pt-2 shadow" >
-                <img src="/img/labs and building/ee lab.jpeg" alt="" class="card-img img-fluid rounded-4"
+                <img src="img/labs and building/ee lab.jpeg" alt="" class="card-img img-fluid rounded-4"
                    style="height: 250px; object-fit: cover;">
                   <a href="#" class="btn btn-warning rounded-5  my-3 " >Electrical Lab</a>
               </div>
             </div>
             <div class="swiper-slide rounded-4">
               <div class="card  rounded-4  px-2 pt-2 shadow" >
-                <img src="/img/labs and building/bee lab 1.jpeg" alt="" class="card-img img-fluid rounded-4"
+                <img src="img/labs and building/bee lab 1.jpeg" alt="" class="card-img img-fluid rounded-4"
                    style="height: 250px; object-fit: cover;">
                   <a href="#" class="btn btn-danger rounded-5  my-3 " >Electronics Lab</a>
               </div>
             </div>
             <div class="swiper-slide rounded-4">
               <div class="card  rounded-4  px-2 pt-2 shadow" >
-                <img src="/img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
                    style="height: 250px; object-fit: cover;">
                   <a href="#" class="btn btn-warning rounded-5  my-3 " >Civil Lab</a>
               </div>
             </div>
             <div class="swiper-slide rounded-4">
               <div class="card  rounded-4  px-2 pt-2 shadow" >
-                <img src="/img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
                    style="height: 250px; object-fit: cover;">
                   <a href="#" class="btn btn-danger rounded-5  my-3 " >Workshop</a>
               </div>
@@ -182,56 +182,56 @@ include("header.php");
             <div class="swiper-wrapper">
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="/img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="/img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="/img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="/img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="/img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="/img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="/img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="/img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
@@ -251,56 +251,56 @@ include("header.php");
             <div class="swiper-wrapper">
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="/img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="/img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="/img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="/img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="/img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="/img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="/img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="/img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
@@ -365,125 +365,6 @@ include("header.php");
     </div>
 
   </div>
-  <!-- <div class="container-fluid">
-    <div class="row ">
-      <div class="col-sm-6 col-md-6 col-lg-3 px-3 my-3">
-        <div class="card">
-          <div class="card-header">
-            <h3 class="card-title text-center">Latest News</h3>
-          </div>
-          <div class="card-body">
-            <marquee height="240px" width="100%" behavior="scroll" direction="up" scrollamount="6" onmouseover="this.stop();" onmouseout="this.start();">
-              <ul class="text-center" style="list-style:none; padding:0px;">
-                <li class="text-primary">
-                  CSE 4th Sem Datesheet Out &nbsp; <span class="text-danger" style="font-size: 8px;">New</span>
-                </li> <hr>
-                <li class="text-danger">
-                  CSE 6th Sem Datesheet Out &nbsp; <span class="text-danger" style="font-size: 8px;">New</span>
-                </li> <hr>
-                <li class="text-primary">
-                  CSE 8th Sem Datesheet Out &nbsp; <span class="text-danger" style="font-size: 8px;">New</span>
-                </li> <hr>
-                <li class="text-danger">
-                  CSE 2th Sem Datesheet Out &nbsp; <span class="text-danger" style="font-size: 8px;">New</span>
-                </li> <hr>
-                <li class="text-primary">
-                  ME 4th Sem Datesheet Out &nbsp; <span class="text-danger" style="font-size: 8px;">New</span>
-                </li> <hr>
-                <li class="text-danger">
-                  ME 6th Sem Datesheet Out &nbsp; <span class="text-danger" style="font-size: 8px;">New</span>
-                </li> <hr>
-                <li class="text-primary">
-                  ME 8th Sem Datesheet Out &nbsp; <span class="text-danger" style="font-size: 8px;">New</span>
-                </li> <hr>
-                <li class="text-danger">
-                  ME 2th Sem Datesheet Out &nbsp; <span class="text-danger" style="font-size: 8px;">New</span>
-                </li> <hr>
-                </ul>
-                
-            </marquee>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-6 col-lg-3 px-3 my-3">
-        <div class="card">
-          <div class="card-header">
-            <h3 class="card-title text-center">Notice Board</h3>
-          </div>
-          <div class="card-body">
-            <marquee height="240px" width="100%" behavior="scroll" direction="up" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
-              <ul class="text-center" style="list-style:none; padding:0px;">
-                <li class="py-0  text-danger" style="font-size: 25px;">Hostel Notice <span class="text-dark" style="font-size: 13px;">19-Sept-2022</span></li>
-                <hr>
-                <li class="py-0  text-danger" style="font-size: 25px;">Fess Notice <span class="text-dark" style="font-size: 13px;">21-Sept-2022</span> <span class="text-primary" style="font-size: 10px;">New</span></li>
-                <hr>
-                <li class="py-0  text-danger" style="font-size: 25px;">Mess Notice <span class="text-dark" style="font-size: 13px;">23-Sept-2022</span> <span class="text-primary" style="font-size: 10px;">New</span></li>
-                <hr>
-                <li class="py-0  text-danger" style="font-size: 25px;">Fine Notice <span class="text-darkr" style="font-size: 13px;">25-Sept-2022</span> <span class="text-primary" style="font-size: 10px;">New</span></li>
-                <hr>
-                <li class="py-0  text-danger" style="font-size: 25px;">Notice <span class="text-dark" style="font-size: 13px;">27-Sept-2022</span> <span class="text-primary" style="font-size: 10px;">New</span></li>
-                <hr>
-                <li class="py-0  text-danger" style="font-size: 25px;">Notice 006 <span class="text-dark" style="font-size: 13px;">29-Sept-2022</span> <span class="text-primary" style="font-size: 10px;">New</span></li>
-                <hr>
-                </marquee>
-          </div>
-        </div>
-
-      </div>
-
-      <div class="col-sm-6 col-md-6 col-lg-3 px-3 my-3">
-        <div class="card">
-          <div class="card-header">
-            <h3 class="card-title text-center">Forms</h3>
-          </div>
-          <div class="card-body">
-            <marquee height="240px" width="100%" behavior="scroll" direction="up" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
-              <ul class="text-center" style="list-style:none; padding:0px;">
-                <li class="text-primary">
-                  Hostel Admission &nbsp; <span class="text-danger" style="font-size: 8px;">New</span>
-                </li> <hr>
-                <li class="text-danger">
-                  Hostel Fees &nbsp; <span class="text-danger" style="font-size: 8px;">New</span>
-                </li> <hr>
-                <li class="text-danger">
-                 College Fees &nbsp; <span class="text-danger" style="font-size: 8px;">New</span>
-                </li> <hr>
-                <li class="text-primary">
-                  Scholarship Form &nbsp; <span class="text-danger" style="font-size: 8px;">New</span>
-                </li> <hr>
-                <li class="text-danger">
-                  Admission Form &nbsp; <span class="text-danger" style="font-size: 8px;">New</span>
-                </li> <hr>
-                </ul>
-            </marquee>
-          </div>
-        </div>
-
-      </div>
-
-      <div class="col-sm-6 col-md-6 col-lg-3 px-3 my-3">
-        <div class="card">
-          <div class="card-header">
-            <h3 class="card-title text-center">Important Links</h3>
-          </div>
-          <div class="card-body">
-            <marquee height="240px" width="100%" behavior="scroll" direction="up" scrollamount="0" onmouseover="this.stop();" onmouseout="this.start();">
-              <ul  style="list-style:none; padding:0px;">
-                <li class="py-2">www.techadmissionshry.gov.in</li>
-                <li class="py-2">www.hstes.org.in</li>
-                <li class="py-2">www.techeduhry.gov.in</li>
-                <li class="py-2">www.aicte-india.org</li>
-                <li class="py-2">https://igu.ac.in/2021/</li>
-                <li class="py-2">https://pandeywebsolution.in</li>
-            </marquee>
-            
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </div>
-  </div> -->
   <div class="container-fluid bg-dark py-5" >
 <h2 class="text-center text-white h1">NOTICE BOARD</h2>
 <div class="row mx-5 mt-4">
@@ -494,15 +375,15 @@ include("header.php");
       </div>
       <div class="card-body ">
         <marquee height="350px" width="100%" behavior="scroll" direction="up" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
-          <p><img src="/img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Registration open for PMS and NPS scholarships for the sessioin 2022-23</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Registration open for PMS and NPS scholarships for the sessioin 2022-23</a></p>
           <br>
-          <p><img src="/img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Fee Notice for 4th, 6th and 8th semester students.</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Fee Notice for 4th, 6th and 8th semester students.</a></p>
           <br>
-          <p><img src="/img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Notice regarding offline classes for next semester</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Notice regarding offline classes for next semester</a></p>
           <br>
-          <p><img src="/img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Advertisement for Empanelment of Guest faculty</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Advertisement for Empanelment of Guest faculty</a></p>
           <br>
-          <p><img src="/img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">GUIDELINES FOR AICTE - POST GRADUATE (PG) SCHOLARSHIP SCHEME 2021-22</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">GUIDELINES FOR AICTE - POST GRADUATE (PG) SCHOLARSHIP SCHEME 2021-22</a></p>
           <br>
             </marquee>
       </div>
@@ -515,15 +396,15 @@ include("header.php");
       </div>
       <div class="card-body ">
         <marquee height="350px" width="100%" behavior="scroll" direction="up" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
-          <p><img src="/img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Registration open for PMS and NPS scholarships for the sessioin 2022-23</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Registration open for PMS and NPS scholarships for the sessioin 2022-23</a></p>
           <br>
-          <p><img src="/img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Fee Notice for 4th, 6th and 8th semester students.</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Fee Notice for 4th, 6th and 8th semester students.</a></p>
           <br>
-          <p><img src="/img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Notice regarding offline classes for next semester</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Notice regarding offline classes for next semester</a></p>
           <br>
-          <p><img src="/img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Advertisement for Empanelment of Guest faculty</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Advertisement for Empanelment of Guest faculty</a></p>
           <br>
-          <p><img src="/img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">GUIDELINES FOR AICTE - POST GRADUATE (PG) SCHOLARSHIP SCHEME 2021-22</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">GUIDELINES FOR AICTE - POST GRADUATE (PG) SCHOLARSHIP SCHEME 2021-22</a></p>
           <br>
             </marquee>
       </div>
@@ -536,15 +417,15 @@ include("header.php");
       </div>
       <div class="card-body">
         <marquee height="350px" width="100%" behavior="scroll" direction="up" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
-          <p><img src="/img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Registration open for PMS and NPS scholarships for the sessioin 2022-23</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Registration open for PMS and NPS scholarships for the sessioin 2022-23</a></p>
           <br>
-          <p><img src="/img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Fee Notice for 4th, 6th and 8th semester students.</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Fee Notice for 4th, 6th and 8th semester students.</a></p>
           <br>
-          <p><img src="/img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Notice regarding offline classes for next semester</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Notice regarding offline classes for next semester</a></p>
           <br>
-          <p><img src="/img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Advertisement for Empanelment of Guest faculty</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Advertisement for Empanelment of Guest faculty</a></p>
           <br>
-          <p><img src="/img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">GUIDELINES FOR AICTE - POST GRADUATE (PG) SCHOLARSHIP SCHEME 2021-22</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">GUIDELINES FOR AICTE - POST GRADUATE (PG) SCHOLARSHIP SCHEME 2021-22</a></p>
           <br>
             </marquee>
       </div>
@@ -585,29 +466,6 @@ Haryana
     </div>
   </div>
 </div>
-<!-- <div class="col-sm-6">
-  <div class="card border-0">
-    <div class="card-body">
-      <img src="https://cdlsiet.ac.in/wp-content/uploads/2022/02/RAJAN-removebg-preview-150x150.jpg" class="card-img rounded-circle" alt="">
-      <h4 class="card-title text-center h5 py-2">Sh. Rajiv Rattan, IAS</h4>
-      <p class="card-text text-center">
-        Director General, Technical Education Haryana
-      </p>
-    </div>
-  </div>
-</div>
-<div class="col-sm-6">
-  <div class="card border-0">
-    <div class="card-body">
-      <img src="https://cdlsiet.ac.in/wp-content/uploads/2022/02/RAJAN-removebg-preview-150x150.jpg" class="card-img rounded-circle" alt="">
-      <h4 class="card-title text-center h5 py-2">Sh. Rajiv Rattan, IAS</h4>
-      <p class="card-text text-center">
-        Director General, Technical Education Haryana
-      </p>
-    </div>
-  </div>
-</div> -->
-
   </div>
 </div>
  </div>
@@ -619,7 +477,7 @@ Haryana
         </h2>
         <div class="double-line-bottom-theme-colored-2"></div>
         <div class="card rounded" >
-          <img src="/img/slider/IMG_20220511_204335-scaled.jpg" class="card-img rounded" height="510px;" style="object-fit:cover ;">
+          <img src="img/slider/IMG_20220511_204335-scaled.jpg" class="card-img rounded" height="510px;" style="object-fit:cover ;">
         </div>
       </div>
       <div class="col col-md-6 ">
@@ -633,19 +491,19 @@ Haryana
               <div class="col-4">
   
                 <div class="card rounded">
-                  <img src="/img/Rbssiet Photos/4.jpeg" class="card-img rounded " height="120px"  >
+                  <img src="img/Rbssiet Photos/4.jpeg" class="card-img rounded " height="120px"  >
                 </div>
                 </div>
               <div class="col-4">
   
                 <div class="card rounded">
-                  <img src="/img/Rbssiet Photos/9.jpeg" class="card-img rounded" height="120px" >
+                  <img src="img/Rbssiet Photos/9.jpeg" class="card-img rounded" height="120px" >
                 </div>
                 </div>
               <div class="col-4">
   
                 <div class="card rounded">
-                  <img src="/img/Rbssiet Photos/43.jpeg" class="card-img rounded" height="120px" >
+                  <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded" height="120px" >
                 </div>
                 </div>
             </div>
@@ -654,19 +512,19 @@ Haryana
               <div class="col-4">
   
                 <div class="card rounded">
-                  <img src="/img/Rbssiet Photos/43.jpeg" class="card-img rounded " height="120px"  >
+                  <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded " height="120px"  >
                 </div>
                 </div>
               <div class="col-4">
   
                 <div class="card rounded">
-                  <img src="/img/Rbssiet Photos/12.jpeg" class="card-img rounded" height="120px" >
+                  <img src="img/Rbssiet Photos/12.jpeg" class="card-img rounded" height="120px" >
                 </div>
                 </div>
               <div class="col-4">
   
                 <div class="card rounded">
-                  <img src="/img/Rbssiet Photos/25.jpeg" class="card-img rounded" height="120px" >
+                  <img src="img/Rbssiet Photos/25.jpeg" class="card-img rounded" height="120px" >
                 </div>
                 </div>
             </div>
@@ -675,19 +533,19 @@ Haryana
               <div class="col-4">
   
                 <div class="card rounded">
-                  <img src="/img/Rbssiet Photos/30.jpeg" class="card-img rounded " height="120px"  >
+                  <img src="img/Rbssiet Photos/30.jpeg" class="card-img rounded " height="120px"  >
                 </div>
                 </div>
               <div class="col-4">
   
                 <div class="card rounded">
-                  <img src="/img/Rbssiet Photos/27.jpeg" class="card-img rounded" height="120px" >
+                  <img src="img/Rbssiet Photos/27.jpeg" class="card-img rounded" height="120px" >
                 </div>
                 </div>
               <div class="col-4">
   
                 <div class="card rounded">
-                  <img src="/img/Rbssiet Photos/33.jpeg" class="card-img rounded" height="120px" >
+                  <img src="img/Rbssiet Photos/33.jpeg" class="card-img rounded" height="120px" >
                 </div>
                 </div>
             </div>
@@ -696,19 +554,19 @@ Haryana
               <div class="col-4">
   
                 <div class="card rounded">
-                  <img src="/img/Rbssiet Photos/14.jpeg" class="card-img rounded " height="120px"  >
+                  <img src="img/Rbssiet Photos/14.jpeg" class="card-img rounded " height="120px"  >
                 </div>
                 </div>
               <div class="col-4">
   
                 <div class="card rounded">
-                  <img src="/img/Rbssiet Photos/8.jpeg" class="card-img rounded" height="120px" >
+                  <img src="img/Rbssiet Photos/8.jpeg" class="card-img rounded" height="120px" >
                 </div>
                 </div>
               <div class="col-4">
   
                 <div class="card rounded">
-                  <img src="/img/Rbssiet Photos/10.jpeg" class="card-img rounded" height="120px" >
+                  <img src="img/Rbssiet Photos/10.jpeg" class="card-img rounded" height="120px" >
                 </div>
                 </div>
             </div>
@@ -769,4 +627,8 @@ Haryana
     <div class="container-fluid mt-4 p-0">
       <img src="/img/img.jpg" class="img-fluid" alt="">
     </div>
+
+    <?php
+    include("footer.php")
+    ?>
     

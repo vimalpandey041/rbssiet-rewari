@@ -3,7 +3,7 @@
         <div class="row">
           <div class="col-12 cl-md-6 col-lg-3 " >
            <div class="text-center mt-3">
-            <img src="/img/rbssiet new logo.png " class="img-fluid" width="110px" alt="">
+            <img src="img/rbssiet new logo.png " class="img-fluid" width="110px" alt="">
            </div>
            <div class="row mt-3">
             <h3 class="h5 text-white text-center ">
@@ -121,9 +121,9 @@
     crossorigin="anonymous"></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="/owlcarousel/jquery.min.js"></script>
-<script src="/owlcarousel/owl.carousel.min.js"></script>
-<script src="/pandey.js"></script>  
+<script src="owlcarousel/jquery.min.js"></script>
+<script src="owlcarousel/owl.carousel.min.js"></script>
+<script src="pandey.js"></script>  
 <script>
   window.addEventListener("scroll", function(){
     var header = document.querySelector("header");

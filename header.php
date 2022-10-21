@@ -4,7 +4,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Home || RBSSIET</title>
-  <link rel="stylesheet" href="/style.css">
+  <link rel="stylesheet" href="style.css">
   <!-- CSS only -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous" />
@@ -12,8 +12,8 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
     integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="/owlcarousel/owl.carousel.min.css">
-    <link rel="stylesheet" href="/owlcarousel/owl.theme.default.min.css">
+    <link rel="stylesheet" href="owlcarousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="owlcarousel/owl.theme.default.min.css">
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"
@@ -53,7 +53,7 @@
       <div class="row">
         <div class="col-2 d-flex justify-content-start">
           <a href="#" class="logo">
-            <img src="/img/rbssiet new logo.png" class="img-fluid " width="60px" alt="">
+            <img src="img/rbssiet new logo.png" class="img-fluid " width="60px" alt="">
           </a>
         </div>
         <div class="col-9  d-flex justify-content-start flex-column align-items-center">
