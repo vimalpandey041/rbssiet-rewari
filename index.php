@@ -1,7 +1,6 @@
 <?php 
 include("header.php");
 ?> 
-<h2>vimal</h2>
 <div class="container-fluid px-0 ">
   <div class="owl-carousel owl-theme">
     <div class="item  height-slider ">
