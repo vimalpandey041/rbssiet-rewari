@@ -1,3 +1,4 @@
+
 <?php
 include("header.php");
 ?>
@@ -67,7 +68,14 @@ include("header.php");
           </div>
         </div>
       </div> 
+<<<<<<< HEAD
 
       <?php
 include("footer.php");
 ?>
+=======
+      <?php
+      include("footer.php")
+      ?>
+>>>>>>>> c8dc6df8a665b5f6028800e4c7fcf474986dca66:contact.php
+>>>>>>> c8dc6df8a665b5f6028800e4c7fcf474986dca66
