@@ -1,6 +1,6 @@
 <?php 
 include("header.php");
-?>
+?> 
 <div class="container-fluid px-0 ">
   <div class="owl-carousel owl-theme">
     <div class="item  height-slider ">

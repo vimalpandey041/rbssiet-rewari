@@ -80,7 +80,7 @@
       </div>
 		</footer>
     <footer class="text-center bg-dark text-light fw-bold">
-      <div class="text-center py-2" style="background-color: rgb(81 80 110 / 90%);">
+      <div class="text-center py-2" style="background-color: rgb(84 25 48 / 90%);">
         Copyright   © 2022
         <a class="text-reset  text-decoration-none" style="" href="http://rbssietrewari.ac.in/">Rbssietrewari.ac.in</a>
         <span>||</span>
