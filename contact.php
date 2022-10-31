@@ -3,7 +3,11 @@
 include("header.php");
 ?>
 
-<div class="contact2"  id="contact">
+<div class="container-fluid p-0 shadow">
+  <img src="https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="100%" height="350px" style="object-fit:cover;" alt="">
+</div>
+
+<div class="contact2 my-5"   id="contact">
         <div class="container ">
           <div class="row contact-container">
             <div class="col-lg-12">
@@ -46,7 +50,7 @@ include("header.php");
                       </form>
                     </div>
                   </div>
-                  <div class="col-lg-4 bg-image" style=" background-image:linear-gradient(to bottom, rgba(6, 38, 22, 0.52), rgba(19, 47, 117, 0.73)),
+                  <div class="col-lg-4 bg-image rounded-4 shadow" style=" background-image:linear-gradient(to bottom, rgba(6, 38, 22, 0.52), rgba(19, 47, 117, 0.73)),
                   url('clg\ img.jpg');">
                     <div class="detail-box p-4">
                       <h5 class=" text-white font-weight-light mb-3">ADDRESS</h5>
@@ -72,4 +76,4 @@ include("header.php");
       <?php
 include("footer.php");
 ?>
->>>>>>> c8dc6df8a665b5f6028800e4c7fcf474986dca66
+
