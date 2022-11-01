@@ -11,16 +11,15 @@
     $strip.addClass("newsticker");
     var stripHeight = 1;
     $strip.find("li").each(function (i) {
-      stripHeight += jQuery(this, i).outerHeight(true); // thanks to Michael Haszprunar and Fabien Volpi
+      stripHeight += jQuery(this, i).outerHeight(true); 
     });
     var $mask = $strip.wrap("<div class='mask'></div>");
     var $tickercontainer = $strip
       .parent()
       .wrap("<div class='tickercontainer'></div>");
-    var containerHeight = $strip.parent().parent().height(); //a.k.a. 'mask' width
-    $strip.height(stripHeight);
+    var containerHeight = $strip.parent().parent().height(); 
     var totalTravel = stripHeight;
-    var defTiming = totalTravel / settings.travelocity; // thanks to Scott Waye
+    var defTiming = totalTravel / settings.travelocity;
     function scrollnews(spazio, tempo) {
       $strip.animate({ top: "-=" + spazio }, tempo, "linear", function () {
         $strip.css("top", containerHeight);
