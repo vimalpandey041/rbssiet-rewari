@@ -133,6 +133,9 @@ body{
   .main-heading{
     font-size: 25px;
   }
+  header .dropdown {
+    font-size: 10px;
+  }
   
   header{
     position: fixed;
@@ -677,7 +680,7 @@ footer{
   }
   header .logo img{
     width: 80px;
-    margin: 10px 100px;
+    margin: 100px 100px;
   }
   header.sticky .logo img{
     width: 60px;
@@ -720,6 +723,9 @@ footer{
   }
   header.sticky .bars{
     color: white;
+  }
+  header .dropdown {
+    font-size: 10px;
   }
 }
   

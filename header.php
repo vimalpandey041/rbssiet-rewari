@@ -53,7 +53,7 @@
       <div class="row">
         <div class="col-2 d-flex justify-content-start">
           <a href="#" class="logo">
-            <img src="img/rbssiet new logo.png" class="img-fluid " width="60px" alt="">
+            <img src="img/rbssiet new logo.png" class="img-fluid " style="margin: 0px 40px;" width="60px" alt="">
           </a>
         </div>
         <div class="col-9  d-flex justify-content-start flex-column align-items-center">
@@ -69,11 +69,11 @@
       
       <div class="row d-none d-lg-block">
         <div class="col">
-          <ul class="navbar-nav text-uppercase d-flex flex-row justify-content-center rounded-3" style="font-size:15px ; font-weight: 600;">
-            <li class="nav-item white "><a href="#" class="nav-link ">Home</a></li>
+          <ul class="navbar-nav text-uppercase d-flex flex-row justify-content-center rounded-3" style="font-size:12px ; font-weight: 600;">
+            <li class="nav-item text-white "><a href="#" class="nav-link ">Home</a></li>
             <div class="dropdown">
               <a
-                class="btn dropdown-toggle" style="color: rgb(255, 255, 255);"
+                class="btn dropdown-toggle" style="color: rgb(255, 255, 255); font-size: 14px;"
                 href="#"
                 role="button"
                 id="dropdownMenuLink"
@@ -97,7 +97,7 @@
             </div>
             <div class="dropdown">
               <a
-                class="btn  dropdown-toggle" style="color: rgb(255, 253, 253);"
+                class="btn  dropdown-toggle" style="color: rgb(255, 253, 253); font-size: 14px;"
                 href="#"
                 role="button"
                 id="dropdownMenuLink"
@@ -121,7 +121,7 @@
             </div>
             <div class="dropdown">
               <a
-                class="btn  dropdown-toggle menu-color" style="color: rgb(255, 255, 255);"
+                class="btn  dropdown-toggle menu-color" style="color: rgb(255, 255, 255); font-size: 14px;"
                 href="#"
                 role="button"
                 id="dropdownMenuLink"
@@ -146,7 +146,7 @@ Faculty
             </div>
             <div class="dropdown">
               <a
-                class="btn  dropdown-toggle" style="color: rgb(255, 255, 255);"
+                class="btn  dropdown-toggle" style="color: rgb(255, 255, 255); font-size: 14px;"
                 href="#"
                 role="button"
                 id="dropdownMenuLink"
@@ -172,7 +172,7 @@ Faculty
             </div>
             <div class="dropdown">
               <a
-                class="btn  dropdown-toggle" style="color: rgb(255, 255, 255);"
+                class="btn  dropdown-toggle" style="color: rgb(255, 255, 255); font-size: 14px;"
                 href="#"
                 role="button"
                 id="dropdownMenuLink"
@@ -199,7 +199,7 @@ Media
             </div>
             <div class="dropdown">
               <a
-                class="btn  dropdown-toggle" style="color: rgb(255, 255, 255);"
+                class="btn  dropdown-toggle" style="color: rgb(255, 255, 255); font-size: 14px;"
                 href="#"
                 role="button"
                 id="dropdownMenuLink"
@@ -224,11 +224,11 @@ Events/ Activities
                 <li><a class="dropdown-item py-3" href="#">Route To Institute</a></li>
               </ul>
             </div>
-              <li class="nav-item white " ><a href="#" class="nav-link ">
+              <li class="nav-item text-white " ><a href="#" class="nav-link ">
                 Tenders</a></li>
               <div class="dropdown">
                 <a
-                  class="btn  dropdown-toggle" style="color: rgb(255, 255, 255);"
+                  class="btn  dropdown-toggle" style="color: rgb(255, 255, 255); font-size: 14px;"
                   href="#"
                   role="button"
                   id="dropdownMenuLink"
