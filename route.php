@@ -2,20 +2,20 @@
 include("header.php");
 ?>
 <div class="container-fluid m-0 p-0 "   >
-    <img src="img/WAll.jpeg" width="100%" height="500px" style="object-fit:cover; ">
+    <img src="https://bit.ly/3hu3PyS" width="100%" height="500px" style="object-fit:cover; ">
     <div class="container-fluid position:absolute">
-        <!-- <div class="container" >
+        <div class="container mt-5" >
 
 
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">Virtual tour</a></li>
+                    <li class="breadcrumb-item"><a href="index2.php">Home</a></li>
+                    <li class="breadcrumb-item"><a href="contact.php">Contact</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Route to Institute</li>
                 </ol>
             </nav>
         </div>
-    </div> -->
+    </div>
 </div>
 <div class="container-fluid py-5">
      <div class="row">
@@ -50,10 +50,13 @@ Whether you are planning to visit us at one of our Open Days, or coming to an Ap
         </div>
     </div>
 </div>
+<div class="conatiner-fluid px-0 py-5">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4208.613441400267!2d76.38870003330051!3d28.281738583527357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3912a13976302a8b%3A0x241b72adf48f6c8a!2sRao%20Birender%20Singh%20State%20Institute%20Of%20Engineering%20%26%20Technology%20%2C%20Dahina!5e0!3m2!1sen!2sin!4v1667300800286!5m2!1sen!2sin" width="100%" height="450" style="border:0; " allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
 <div class="container">
     <div class="row">
         <div class="col-4">
-            <div class="card">
+            <div class="card ">
                 <div class="card-title text-center">
                     <h3>By Road</h3>
                     <table border="2px solid-black"  >
@@ -113,9 +116,7 @@ Whether you are planning to visit us at one of our Open Days, or coming to an Ap
         </div>
     </div>
 </div>
-<div class="conatiner-fluid px-0 py-5">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4208.613441400267!2d76.38870003330051!3d28.281738583527357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3912a13976302a8b%3A0x241b72adf48f6c8a!2sRao%20Birender%20Singh%20State%20Institute%20Of%20Engineering%20%26%20Technology%20%2C%20Dahina!5e0!3m2!1sen!2sin!4v1667300800286!5m2!1sen!2sin" width="100%" height="450" style="border:0; " allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div>
+
 <?php
 include("footer.php");
 ?>
