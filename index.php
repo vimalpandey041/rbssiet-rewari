@@ -583,7 +583,7 @@ Haryana
       <div class="row justify-content-center">
         <div class="service__faq__wrapper">
           <span class="service__faq__wrapper__circle">?</span>
-          <h3 class="service__faq__wrapper__title">FAQ: What Do You Want  Love</h3>
+          <h3 class="service__faq__wrapper__title">FAQ: What Do You Want  To know?</h3>
           
         </div>
         <div class="container">
