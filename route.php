@@ -2,21 +2,16 @@
 include("header.php");
 ?>
 <div class="container-fluid m-0 p-0 "   >
-    <img src="https://bit.ly/3hu3PyS" width="100%" height="500px" style="object-fit:cover; ">
-    <div class="container-fluid position:absolute">
-        <div class="container mt-5" >
-
-
-            <nav aria-label="breadcrumb">
+<nav aria-label="breadcrumb" class="bac">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="index2.php">Home</a></li>
                     <li class="breadcrumb-item"><a href="contact.php">Contact</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Route to Institute</li>
                 </ol>
             </nav>
+    <img src="https://bit.ly/3hu3PyS" width="100%" height="400px" style="object-fit:cover; ">
+            
         </div>
-    </div>
-</div>
 <div class="container-fluid py-5">
      <div class="row">
  <div class="col-5 d-flex m-5">
