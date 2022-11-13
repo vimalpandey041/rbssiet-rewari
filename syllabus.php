@@ -27,6 +27,66 @@ include("header.php");
 <a href="https://drive.google.com/file/d/1DdKveEHefZX6kp7fjLasTt4Y2-xdNF8r/view?usp=sharing" class="bt blue block py-4 my-4">Syllabus for  Semester 5 & 6</a>
 <a href="https://drive.google.com/file/d/1L0wlroF6oqGfUbqB76-3DBmJlBTqMgTt/view?usp=sharing" class="bt blue block py-4 my-4">Syllabus for  Semester 7 & 8 </a>
 
+<div class="row my-4">
+    <div class="col">
+    <div class="card  rounded-4  px-2 pt-2 shadow" >
+                <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
+                   style="height: 250px; object-fit: cover;">
+                  <a href="#" class="btn btn-danger rounded-5  my-3 " >CSE 1st Year</a>
+              </div>
+    </div>
+    <div class="col">
+    <div class="card  rounded-4  px-2 pt-2 shadow" >
+                <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
+                   style="height: 250px; object-fit: cover;">
+                  <a href="#" class="btn btn-danger rounded-5  my-3 " >CSE 2nd Year</a>
+              </div>
+    </div>
+    <div class="col">
+    <div class="card  rounded-4  px-2 pt-2 shadow" >
+                <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
+                   style="height: 250px; object-fit: cover;">
+                  <a href="#" class="btn btn-danger rounded-5  my-3 " >CSE 3rd Year</a>
+              </div>
+    </div>
+    <div class="col">
+    <div class="card  rounded-4  px-2 pt-2 shadow" >
+                <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
+                   style="height: 250px; object-fit: cover;">
+                  <a href="#" class="btn btn-danger rounded-5  my-3 " >CSE 4th Year</a>
+              </div>
+    </div>
+</div>
+<div class="row">
+<div class="col">
+    <div class="card  rounded-4  px-2 pt-2 shadow" >
+                <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
+                   style="height: 250px; object-fit: cover;">
+                  <a href="#" class="btn btn-danger rounded-5  my-3 " >ECE 1st Year</a>
+              </div>
+    </div>
+    <div class="col">
+    <div class="card  rounded-4  px-2 pt-2 shadow" >
+                <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
+                   style="height: 250px; object-fit: cover;">
+                  <a href="#" class="btn btn-danger rounded-5  my-3 " >ECE 2nd Year</a>
+              </div>
+    </div>
+    <div class="col">
+    <div class="card  rounded-4  px-2 pt-2 shadow" >
+                <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
+                   style="height: 250px; object-fit: cover;">
+                  <a href="#" class="btn btn-danger rounded-5  my-3 " >ECE 3rd Year</a>
+              </div>
+    </div>
+    <div class="col">
+    <div class="card  rounded-4  px-2 pt-2 shadow" >
+                <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
+                   style="height: 250px; object-fit: cover;">
+                  <a href="#" class="btn btn-danger rounded-5  my-3 " >ECE 4th Year</a>
+              </div>
+    </div>
+</div>
 
 </div>
     <?php
