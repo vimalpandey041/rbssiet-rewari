@@ -17,7 +17,7 @@ include("header.php");
         </div>
         <div class="col-lg-12 col-sm-12 col-xs-12 Start">Syllabi  as per university guidelines</div>
     <div class="container cse text-center pt-4 py-3">
-    <button class="glow-on-hover" type="button"> Download the latest syllabus</button>
+    <button class="glow-on-hover" type="button"> CSE</button>
     </div>
 
 <div class="container  ">
@@ -27,7 +27,7 @@ include("header.php");
 <a href="https://drive.google.com/file/d/1DdKveEHefZX6kp7fjLasTt4Y2-xdNF8r/view?usp=sharing" class="bt blue block py-4 my-4">Syllabus for  Semester 5 & 6</a>
 <a href="https://drive.google.com/file/d/1L0wlroF6oqGfUbqB76-3DBmJlBTqMgTt/view?usp=sharing" class="bt blue block py-4 my-4">Syllabus for  Semester 7 & 8 </a>
     <div class="container cse text-center pt-4 py-3">
-    <button class="glow-on-hover" type="button"> Download the latest syllabus</button>
+    <button class="glow-on-hover" type="button"> Mechanical Engineering</button>
     </div>
 
 <div class="container  ">
@@ -37,7 +37,7 @@ include("header.php");
 <a href="https://drive.google.com/file/d/1DdKveEHefZX6kp7fjLasTt4Y2-xdNF8r/view?usp=sharing" class="bt blue block py-4 my-4">Syllabus for  Semester 5 & 6</a>
 <a href="https://drive.google.com/file/d/1L0wlroF6oqGfUbqB76-3DBmJlBTqMgTt/view?usp=sharing" class="bt blue block py-4 my-4">Syllabus for  Semester 7 & 8 </a>
     <div class="container cse text-center pt-4 py-3">
-    <button class="glow-on-hover" type="button"> Download the latest syllabus</button>
+    <button class="glow-on-hover" type="button">Electrical Engineering</button>
     </div>
 
 <div class="container  ">
@@ -47,7 +47,7 @@ include("header.php");
 <a href="https://drive.google.com/file/d/1DdKveEHefZX6kp7fjLasTt4Y2-xdNF8r/view?usp=sharing" class="bt blue block py-4 my-4">Syllabus for  Semester 5 & 6</a>
 <a href="https://drive.google.com/file/d/1L0wlroF6oqGfUbqB76-3DBmJlBTqMgTt/view?usp=sharing" class="bt blue block py-4 my-4">Syllabus for  Semester 7 & 8 </a>
     <div class="container cse text-center pt-4 py-3">
-    <button class="glow-on-hover" type="button"> Download the latest syllabus</button>
+    <button class="glow-on-hover" type="button"> Civil Engineering</button>
     </div>
 
 <div class="container  ">
