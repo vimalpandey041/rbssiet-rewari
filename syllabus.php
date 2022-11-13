@@ -15,35 +15,20 @@ include("header.php");
 
             
         </div>
-        <div class="col-lg-12 col-sm-12 col-xs-12 Start">Syllabi for respective departments</div>
-    
-<nav>
-  <ol class="main-menu">
-    <li class="main-item"><span class="home"></span></li>
-    <li class="main-item"><span class="about"></span></li>
-    <li class="main-item"><span class="widgets"></span>
-      <ol class="sub-menu">
-        <li class="sub-item item-left"><span class="small"></span></li>
-        <li class="sub-item item-left"><span class="standart"></span></li>
-        <li class="sub-item item-left"><span class="standart"></span></li>
-        <li class="sub-item item-left"><span class="standart"></span></li>
-        <li class="sub-item item-left"><span class="standart"></span></li>
-        <li class="sub-item item-left"><span class="standart"></span></li>
-        <li class="sub-item item-left"><span class="standart"></span></li>
-        <li class="sub-item item-left"><span class="big"></span></li>
-      </ol>
-    </li>
-    <li class="main-item"><span class="kabobs"></span>
-      <ol class="sub-menu">
-        <li class="sub-item item-right"><span class="premium"></span></li>
-        <li class="sub-item item-right"><span class="combo"></span></li>
-        <li class="sub-item item-right"><span class="special"></span></li>
-      </ol>
-    </li>
-    <li class="main-item"><span class="contact"></span></li>
-  </ol>
-</nav>
-<a class="me" href="https://codepen.io/uzcho_/pens/popular/?grid_type=list" target="_blank"></a>
+        <div class="col-lg-12 col-sm-12 col-xs-12 Start">Syllabi for respective departments as per university guidelines</div>
+    <div class="container cse text-center py-5">
+    <button class="glow-on-hover" type="button"> Check out the latest syllabus</button>
+    </div>
+
+<div class="container  ">
+
+<a href="https://drive.google.com/file/d/1XR-7W5Zg92eWaNVxKNL8_GRhmZiaVfCD/view?usp=sharing" class="bt blue block py-4 ">Syllabus for CSE Semester 1 & 2</a>
+<a href="https://drive.google.com/file/d/19eF9lCEP2y7hktRYW26ShmN0UrkmfthI/view?usp=sharing" class="bt blue block  py-4 my-4">Syllabus for CSE Semester 3 & 4</a>
+<a href="https://drive.google.com/file/d/1DdKveEHefZX6kp7fjLasTt4Y2-xdNF8r/view?usp=sharing" class="bt blue block py-4 my-4">Syllabus for CSE Semester 5 & 6</a>
+<a href="https://drive.google.com/file/d/1L0wlroF6oqGfUbqB76-3DBmJlBTqMgTt/view?usp=sharing" class="bt blue block py-4 my-4">Syllabus for CSE Semester 7 & 8 </a>
+
+
+</div>
     <?php
     include("footer.php");
 ?>
