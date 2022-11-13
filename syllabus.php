@@ -28,7 +28,7 @@ include("header.php");
 <a href="https://drive.google.com/file/d/1L0wlroF6oqGfUbqB76-3DBmJlBTqMgTt/view?usp=sharing" class="bt blue block py-4 my-4">Syllabus for  Semester 7 & 8 </a>
 </div>
     <div class="container cse text-center pt-4 py-3">
-    <button class="glow-on-hover" type="button"> Ebrdlectronics</button>
+    <button class="glow-on-hover" type="button"> Electronics</button>
     </div>
 
 <div class="container  ">
