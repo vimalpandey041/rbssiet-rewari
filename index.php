@@ -1,21 +1,11 @@
 <?php 
 include("header.php");
 ?> 
-<div class="container-fluid px-1 ">
-  <div class="owl-carousel owl-theme">
-    <div class="item  height-slider ">
-    <img src="img/slider/IMG_20220511_204335-scaled.jpg"  alt=""  style="object-fit: cover;">
+<div class="owl-carousel owl-theme">
+    <div class="item">
+      <img src="img/slider/IMG_20220511_204335-scaled.jpg" alt="">
+      <img src="img/slider/IMG_20220511_204335-scaled.jpg" alt="">
     </div>
-    <div class="item  height-slider " >
-    <img src="img/slider/IMG_20220511_204335-scaled.jpg"  alt=""  style="object-fit: cover;">
-    </div>
-    <div class="item  height-slider"  >
-    <img src="img/slider/IMG_20220511_204335-scaled.jpg"  alt=""  style="object-fit: cover;">
-    </div>
-    <div class="item  height-slider">
-    <img src="img/slider/IMG_20220511_204335-scaled.jpg"  alt=""  style="object-fit: cover;">
-    </div>
-</div>
 </div>
   <div class="container-fluid bg-danger ">
     <div class="row">

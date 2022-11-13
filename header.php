@@ -53,14 +53,15 @@
       <div class="row">
         <div class="col-2 d-flex justify-content-start">
           <a href="#" class="logo">
-            <img src="img/rbssiet new logo.png" class="img-fluid " width="60px" alt="">
+            <img src="img/rbssiet new logo.png" class="img-fluid " alt="">
           </a>
         </div>
         <div class="col-9  d-flex justify-content-start flex-column align-items-center">
        <div class="row">
         <div class="col">
           <h3>
-            Rao Birender Singh <br class="d-block d-md-none"> State Institute Of Engineering And Technology, <br class="d-block d-md-none"> Zainabad, Rewari
+           <span class="mainh1"> Rao Birender Singh</span> 
+           <br class="d-block d-md-none"> State Institute Of Engineering And Technology
           </h3 >
           
         </div>
