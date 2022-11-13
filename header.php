@@ -4,7 +4,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Home || RBSSIET</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="./css/style.css">
   <!-- CSS only -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous" />
@@ -53,13 +53,13 @@
       <div class="row">
         <div class="col-2 d-flex justify-content-start">
           <a href="#" class="logo">
-            <img src="img/rbssiet new logo.png" class="img-fluid " style="margin: 0px 40px;" width="60px" alt="">
+            <img src="img/rbssiet new logo.png" class="img-fluid " width="60px" alt="">
           </a>
         </div>
         <div class="col-9  d-flex justify-content-start flex-column align-items-center">
        <div class="row">
         <div class="col">
-          <h3 class="main-heading">
+          <h3>
             Rao Birender Singh <br class="d-block d-md-none"> State Institute Of Engineering And Technology, <br class="d-block d-md-none"> Zainabad, Rewari
           </h3 >
           
@@ -255,8 +255,8 @@ News/ Notices/Announcements
         </div>
       </div>
     </div>
-    <div class="col-1 align-items-center bars d-flex d-block d-lg-none">
-      <i class="fa-solid fa-bars"></i>
+    <div class="col-1 align-items-center bars d-flex d-block d-lg-none bars">
+      <i class="fa-solid fa-bars "></i>
     </div>
     </div>
     

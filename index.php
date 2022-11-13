@@ -1,7 +1,7 @@
 <?php 
 include("header.php");
 ?> 
-<div class="container-fluid px-0 ">
+<div class="container-fluid px-1 ">
   <div class="owl-carousel owl-theme">
     <div class="item  height-slider ">
     <img src="img/slider/IMG_20220511_204335-scaled.jpg"  alt=""  style="object-fit: cover;">
@@ -367,14 +367,14 @@ include("header.php");
   </div>
   <div class="container-fluid bg-dark py-5" >
 <h2 class="text-center text-white h1">NOTICE BOARD</h2>
-<div class="row mx-5 mt-4">
+<div class="row mx-sm-5 mt-4 mx-1 ">
   <div class="col-12 col-md-6 col-lg">
     <div class="card rounded-5 my-3 ">
       <div class="card-header  rounded-5 m-2 text-white" style="background-color:#031634;">
         <h4 class="text-center ">News & Events</h4>
       </div>
       <div class="card-body ">
-        <marquee height="350px" width="100%" behavior="scroll" direction="up" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
+        <marquee height="400px" width="100%" behavior="scroll" direction="up" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
           <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Registration open for PMS and NPS scholarships for the sessioin 2022-23</a></p>
           <br>
           <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Fee Notice for 4th, 6th and 8th semester students.</a></p>
@@ -395,7 +395,7 @@ include("header.php");
         <h4 class="text-center ">Notices</h4>
       </div>
       <div class="card-body ">
-        <marquee height="350px" width="100%" behavior="scroll" direction="up" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
+        <marquee height="400px" width="100%" behavior="scroll" direction="up" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
           <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Registration open for PMS and NPS scholarships for the sessioin 2022-23</a></p>
           <br>
           <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Fee Notice for 4th, 6th and 8th semester students.</a></p>
@@ -416,7 +416,7 @@ include("header.php");
         <h4 class="text-center ">Admissions</h4>
       </div>
       <div class="card-body">
-        <marquee height="350px" width="100%" behavior="scroll" direction="up" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
+        <marquee height="400px" width="100%" behavior="scroll" direction="up" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
           <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Registration open for PMS and NPS scholarships for the sessioin 2022-23</a></p>
           <br>
           <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Fee Notice for 4th, 6th and 8th semester students.</a></p>
@@ -472,7 +472,7 @@ Haryana
   <div class="container-fluid">
     <div class="row py-5 px-md-4  flex flex-column flex-md-row">
       <div class="col col-md-6 my-5 my-md-0">
-        <h2 class="h2 text-uppercase">Let's Have a
+        <h2 class="h4 text-uppercase">Let's Have a
           <span class="text-danger text-uppercase ">campus tour!</span>
         </h2>
         <div class="double-line-bottom-theme-colored-2"></div>
@@ -482,91 +482,84 @@ Haryana
       </div>
       <div class="col col-md-6 ">
         <div class="container ">
-          <h2 class="h2 text-uppercase">See Glimpse of
+          <h2 class="h4 text-uppercase">See Glimpse of
             <span class="text-danger text-uppercase ">our gallery!</span>
           </h2>
           <div class="double-line-bottom-theme-colored-2"></div>
-            <div class="row pb-2 px-0 " >
+            <div class="row  " >
             
-              <div class="col-4">
+              <div class="col-sm-4 py-1 px-1 col-6">
   
                 <div class="card rounded">
                   <img src="img/Rbssiet Photos/4.jpeg" class="card-img rounded " height="120px"  >
                 </div>
                 </div>
-              <div class="col-4">
+              <div class="col-sm-4  py-1 px-1 col-6">
+  
+                <div class="card rounded">
+                  <img src="img/Rbssiet Photos/4.jpeg" class="card-img rounded " height="120px"  >
+                </div>
+                </div>
+              <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
                   <img src="img/Rbssiet Photos/9.jpeg" class="card-img rounded" height="120px" >
                 </div>
                 </div>
-              <div class="col-4">
+              <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
                   <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded" height="120px" >
                 </div>
                 </div>
-            </div>
-            <div class="row pb-2 ">
             
-              <div class="col-4">
+              <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
                   <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded " height="120px"  >
                 </div>
                 </div>
-              <div class="col-4">
+              <div class="col-sm-4  py-1 px-1 col-6">
+  
+                <div class="card rounded">
+                  <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded " height="120px"  >
+                </div>
+                </div>
+              <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
                   <img src="img/Rbssiet Photos/12.jpeg" class="card-img rounded" height="120px" >
                 </div>
                 </div>
-              <div class="col-4">
+              <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
                   <img src="img/Rbssiet Photos/25.jpeg" class="card-img rounded" height="120px" >
                 </div>
                 </div>
-            </div>
-            <div class="row pb-2 ">
             
-              <div class="col-4">
+              <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
                   <img src="img/Rbssiet Photos/30.jpeg" class="card-img rounded " height="120px"  >
                 </div>
                 </div>
-              <div class="col-4">
+              <div class="col-sm-4  py-1 px-1 col-6">
+  
+                <div class="card rounded">
+                  <img src="img/Rbssiet Photos/30.jpeg" class="card-img rounded " height="120px"  >
+                </div>
+                </div>
+              <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
                   <img src="img/Rbssiet Photos/27.jpeg" class="card-img rounded" height="120px" >
                 </div>
                 </div>
-              <div class="col-4">
+              <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
                   <img src="img/Rbssiet Photos/33.jpeg" class="card-img rounded" height="120px" >
-                </div>
-                </div>
-            </div>
-            <div class="row pb-2 ">
-            
-              <div class="col-4">
-  
-                <div class="card rounded">
-                  <img src="img/Rbssiet Photos/14.jpeg" class="card-img rounded " height="120px"  >
-                </div>
-                </div>
-              <div class="col-4">
-  
-                <div class="card rounded">
-                  <img src="img/Rbssiet Photos/8.jpeg" class="card-img rounded" height="120px" >
-                </div>
-                </div>
-              <div class="col-4">
-  
-                <div class="card rounded">
-                  <img src="img/Rbssiet Photos/10.jpeg" class="card-img rounded" height="120px" >
                 </div>
                 </div>
             </div>
