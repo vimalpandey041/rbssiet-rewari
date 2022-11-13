@@ -505,6 +505,19 @@ header .dropdown {
   header .bars{
     color:#19103e;
   }
+  .img1 {
+    width: 20px;
+    transition: all 0.3s;
+    cursor: pointer;
+  }
+  
+  .active1 {
+    height: 130px;
+  }
+  
+  .act_img {
+    transform: rotate(45deg);
+  }
 }
   
   
