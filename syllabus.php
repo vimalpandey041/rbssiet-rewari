@@ -17,7 +17,7 @@ include("header.php");
         </div>
         <div class="col-lg-12 col-sm-12 col-xs-12 Start">Syllabi  as per university guidelines</div>
     <div class="container cse text-center pt-4 py-3">
-    <button class="glow-on-hover" type="button"> CSE </button>
+    <button class="glow-on-hover" type="button">Computer Science & Engineering</button>
     </div>
 
 <div class="container  ">
@@ -28,7 +28,7 @@ include("header.php");
 <a href="https://drive.google.com/file/d/1L0wlroF6oqGfUbqB76-3DBmJlBTqMgTt/view?usp=sharing" class="bt blue block py-4 my-4">Syllabus for  Semester 7 & 8 </a>
 </div>
     <div class="container cse text-center pt-4 py-3">
-    <button class="glow-on-hover" type="button"> Electronics</button>
+    <button class="glow-on-hover" type="button"> Electronics and Communication Engineering</button>
     </div>
 
 <div class="container  ">

@@ -90,7 +90,8 @@ h1 {
 }
 
 .glow-on-hover {
-    width: 220px;
+    padding: 0px 20px;
+    font-weight: 600;
     height: 50px;
     border: none;
     outline: none;
