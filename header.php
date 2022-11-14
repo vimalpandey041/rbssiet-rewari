@@ -72,7 +72,7 @@
       <div class="row d-none d-lg-block">
         <div class="col">
           <ul class="navbar-nav text-uppercase d-flex flex-row justify-content-center rounded-3" style="font-size:12px ; font-weight: 600;">
-            <li class="nav-item text-white menu-font "><a href="#" class="nav-link ">Home</a></li>
+            <li class="nav-item  menu-font "><a href="#" class="nav-link menu-font ">Home</a></li>
             <div class="dropdown">
               <a
                 class="btn dropdown-toggle menu-font" 
@@ -226,7 +226,7 @@ Events/ Activities
                 <li><a class="dropdown-item py-3" href="#">Route To Institute</a></li>
               </ul>
             </div>
-              <li class="nav-item text-white " ><a href="#" class="nav-link ">
+              <li class="nav-item menu-font " ><a href="#" class="nav-link ">
                 Tenders</a></li>
               <div class="dropdown">
                 <a

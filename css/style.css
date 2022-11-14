@@ -70,8 +70,8 @@ body{
 
 /* header start */
 header{
-  position: fixed;
-  top: 0px;
+  background-color: rgb(9 9 56) ;
+  top: 40px;
   left: 0;
   width: 100%;
   display: flex;
@@ -79,14 +79,14 @@ header{
   align-items: center;
   transition: 0.6s;
   padding: 20px 10px;
-  z-index: 999999;
+  z-index: 9999;
 }
 header .logo{
   margin-left: 50px;
   width: 80px;
   position:relative;
   font-weight: 700;
-  color: #fff;
+  color: rgb(8, 6, 61);
   text-decoration: none;
   font-size: 2em;
   text-transform: uppercase;
@@ -96,7 +96,11 @@ header .logo{
 }
 header .menu-font{
   font-size: 14px;
-  color: rgb(255, 253, 253);
+  font-weight: 500;
+  color: rgb(255, 255, 255);
+}
+header.sticky .menu-font{
+color: white  ;
 }
 header ul{
   position: relative;
@@ -114,20 +118,22 @@ header ul li a{
   position:relative;
   margin: 0 15px;
   text-decoration: none;
-  color: rgb(11, 2, 36);
+  color: rgb(8, 6, 61);
   font-weight: bold;
-  font-size: 14px;
+  font-size: 14px;  
   letter-spacing: 2px;
   transition: 0.6;
 }
 header h3{
   /* color: #19103e; */
-  color: #fff;
-  font-size: 32px;
+  color: rgb(245, 245, 247);
+  font-size: 30px;
+  font-weight: 700;
 }
 
 header.sticky{
-  
+  position: fixed;
+  top: 0px;
   padding: 10px 10px;
   background-color: rgb(58, 12, 10);
 }
@@ -151,7 +157,7 @@ header.sticky ul li a{
   font-size: 14px;
 }
 header.sticky h3{
-  font-size: 32px;
+  font-size: 30px;
   color: rgb(255, 255, 255);
 }
 
@@ -537,12 +543,12 @@ header .dropdown {
     }
 }
 .breadcrumb-img{
-background-color: rgba(80,70,34,0.5);
+background-color: rgba(38, 38, 40, 0.6);
 width: 100%;
-height: 120px;
+height: 130px;
 position: absolute;
-top: 200px;
 left: 0;
+margin-top: 80px;
 display: flex;
 flex-direction: column;
 justify-content: center;
@@ -563,7 +569,7 @@ font-weight: 600;
  header image section start 
  */
 .header-img img{
-  height: 350px;
+  height: 300px;
   width: 100%;
   object-fit: cover;
 }
