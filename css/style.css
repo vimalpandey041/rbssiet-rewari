@@ -494,7 +494,7 @@ header .dropdown {
     width: 50px;
   }
   header h3{
-    color: #19103e;
+    color: #ffffff;
     font-size: 11px;
   }
   header .mainh1{
@@ -520,7 +520,7 @@ header .dropdown {
     color: white;
   }
   header .bars{
-    color:#19103e;
+    color:#fcfbff;
   }
   .img1 {
     width: 20px;
@@ -545,10 +545,9 @@ header .dropdown {
 .breadcrumb-img{
 background-color: rgba(38, 38, 40, 0.6);
 width: 100%;
-height: 130px;
+height: 300px;
 position: absolute;
 left: 0;
-margin-top: 80px;
 display: flex;
 flex-direction: column;
 justify-content: center;

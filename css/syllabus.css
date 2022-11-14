@@ -121,7 +121,8 @@ h1 {
 }
 
 .glow-on-hover:active {
-    color: rgb(210, 143, 228)
+    /* color: rgb(210, 143, 228) */
+    color: #ffffff;
 }
 
 .glow-on-hover:active:after {

@@ -54,7 +54,7 @@
       <div class="row">
         <div class="col-2 d-flex justify-content-start">
           <a href="#" class="logo">
-            <img src="img/rbssiet new logo.png" class="img-fluid " alt="">
+            <img src="./img/rbssiet new logo.png" class="img-fluid " alt="">
           </a>
         </div>
         <div class="col-9  d-flex justify-content-start flex-column align-items-center">

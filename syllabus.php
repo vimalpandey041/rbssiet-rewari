@@ -1,7 +1,7 @@
 <?php
 include("header.php");
 ?>
-
+<!---- header image start -->
 <div class="container-fluid m-0 p-0 header-img"   >
     <nav aria-label="breadcrumb" class="breadcrumb-img">
        <span>Syllabus</span>
@@ -15,6 +15,7 @@ include("header.php");
 
             
         </div>
+        <!---- header image end -->
         <div class="col-lg-12 col-sm-12 col-xs-12 Start">Syllabi  as per university guidelines</div>
     <div class="container cse text-center pt-4 py-3">
     <button class="glow-on-hover" type="button">Computer Science & Engineering</button>
