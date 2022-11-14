@@ -3,9 +3,21 @@
 include("header.php");
 ?>
 
-<div class="container-fluid p-0 shadow">
-  <img src="https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="100%" height="350px" style="object-fit:cover;" alt="">
-</div>
+<!---- header image start -->
+<div class="container-fluid m-0 p-0 header-img"   >
+    <nav aria-label="breadcrumb" class="breadcrumb-img">
+       <span>Contact Us</span>
+        <ol class="breadcrumb text-white">
+            <li class="breadcrumb-item text-white"><a href="index2.php">Home</a></li>
+            <li class="breadcrumb-item text-white"><a href="contact.php">Contact</a></li>
+            <li class="breadcrumb-item active text-white" aria-current="page">Contact Us</li>
+        </ol>
+    </nav>
+    <img src="https://c1.wallpaperflare.com/preview/443/122/419/book-pile-stack-literature.jpg"  alt="">
+
+            
+        </div>
+        <!---- header image end -->
 
 <div class="contact2 my-5"   id="contact">
         <div class="container ">
@@ -43,8 +55,12 @@ include("header.php");
                               <input class="form-control" type="text" placeholder="message">
                             </div>
                           </div>
-                          <div class="col-lg-12">
-                            <button type="submit" class="btn btn-danger-gradiant mt-3 mb-3 text-white border-0 py-2 px-3"><span> SUBMIT NOW <i class="ti-arrow-right"></i></span></button>
+                         
+                          <div class="col-lg-12 text-center">
+                            <button type="submit" class="bt border-0 rounded-4 my-5">
+                              Submit Now
+                              <i class="px-2 fa-arrow-right"></i>
+                            </button>
                           </div>
                         </div>
                       </form>
