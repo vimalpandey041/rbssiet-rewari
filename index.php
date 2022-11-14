@@ -1,12 +1,7 @@
 <?php 
 include("header.php");
 ?> 
-<div class="owl-carousel owl-theme">
-    <div class="item">
-      <img src="img/slider/IMG_20220511_204335-scaled.jpg" alt="">
-      <img src="img/slider/IMG_20220511_204335-scaled.jpg" alt="">
-    </div>
-</div>
+
   <div class="container-fluid bg-danger ">
     <div class="row">
       <div class="col-sm-2 bg-warning justify-content-center align-items-center d-flex" style="z-index: 999;">
@@ -462,7 +457,7 @@ Haryana
   <div class="container-fluid">
     <div class="row py-5 px-md-4  flex flex-column flex-md-row">
       <div class="col col-md-6 my-5 my-md-0">
-        <h2 class="h4 text-uppercase">Let's Have a
+        <h2 class=" text-uppercase main_title">Let's Have a
           <span class="text-danger text-uppercase ">campus tour!</span>
         </h2>
         <div class="double-line-bottom-theme-colored-2"></div>
@@ -472,7 +467,7 @@ Haryana
       </div>
       <div class="col col-md-6 ">
         <div class="container ">
-          <h2 class="h4 text-uppercase">See Glimpse of
+          <h2 class=" text-uppercase main_title">See Glimpse of
             <span class="text-danger text-uppercase ">our gallery!</span>
           </h2>
           <div class="double-line-bottom-theme-colored-2"></div>

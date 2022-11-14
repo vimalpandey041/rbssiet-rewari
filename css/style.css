@@ -370,14 +370,12 @@ header .dropdown {
     height: 100%;
     line-height: 25px;
     font-size: 20px;
-    animation: marquee 10s linear infinite;
+    animation: marquee 6s linear infinite;
 }
+
 .marquee2 span {
-    animation-delay: 3.5s;
-}
-.marquee3 span {
-    animation-delay: 3.5s;
-}
+    animation-delay: 6s;
+} 
 @keyframes marquee {
     0% {
         transform: translate(0, 0);
@@ -521,6 +519,7 @@ header .dropdown {
   }
   header .bars{
     color:#fcfbff;
+    cursor: pointer;
   }
   .img1 {
     width: 20px;
@@ -540,6 +539,9 @@ header .dropdown {
   }
   .breadcrumb-img{
     top: 100px;
+    }
+    .main_title{
+      font-size: 18px;
     }
 }
 .breadcrumb-img{
@@ -575,7 +577,6 @@ font-weight: 600;
 /*
  header image section end 
  */
-
   
   
   
