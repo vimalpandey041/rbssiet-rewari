@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Home || RBSSIET</title>
   <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="./css/syllabus.css">
   <!-- CSS only -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous" />
@@ -71,10 +72,10 @@
       <div class="row d-none d-lg-block">
         <div class="col">
           <ul class="navbar-nav text-uppercase d-flex flex-row justify-content-center rounded-3" style="font-size:12px ; font-weight: 600;">
-            <li class="nav-item text-white "><a href="#" class="nav-link ">Home</a></li>
+            <li class="nav-item text-white menu-font "><a href="#" class="nav-link ">Home</a></li>
             <div class="dropdown">
               <a
-                class="btn dropdown-toggle" style="color: rgb(255, 255, 255); font-size: 14px;"
+                class="btn dropdown-toggle menu-font" 
                 href="#"
                 role="button"
                 id="dropdownMenuLink"
@@ -98,7 +99,7 @@
             </div>
             <div class="dropdown">
               <a
-                class="btn  dropdown-toggle" style="color: rgb(255, 253, 253); font-size: 14px;"
+                class="btn  dropdown-toggle menu-font"
                 href="#"
                 role="button"
                 id="dropdownMenuLink"
@@ -122,7 +123,7 @@
             </div>
             <div class="dropdown">
               <a
-                class="btn  dropdown-toggle menu-color" style="color: rgb(255, 255, 255); font-size: 14px;"
+                class="btn  dropdown-toggle menu-color menu-font"
                 href="#"
                 role="button"
                 id="dropdownMenuLink"
@@ -147,7 +148,7 @@ Faculty
             </div>
             <div class="dropdown">
               <a
-                class="btn  dropdown-toggle" style="color: rgb(255, 255, 255); font-size: 14px;"
+                class="btn  dropdown-toggle menu-font" 
                 href="#"
                 role="button"
                 id="dropdownMenuLink"
@@ -173,7 +174,7 @@ Faculty
             </div>
             <div class="dropdown">
               <a
-                class="btn  dropdown-toggle" style="color: rgb(255, 255, 255); font-size: 14px;"
+                class="btn  dropdown-toggle menu-font" 
                 href="#"
                 role="button"
                 id="dropdownMenuLink"
@@ -200,7 +201,7 @@ Media
             </div>
             <div class="dropdown">
               <a
-                class="btn  dropdown-toggle" style="color: rgb(255, 255, 255); font-size: 14px;"
+                class="btn  dropdown-toggle menu-font"
                 href="#"
                 role="button"
                 id="dropdownMenuLink"
@@ -229,7 +230,7 @@ Events/ Activities
                 Tenders</a></li>
               <div class="dropdown">
                 <a
-                  class="btn  dropdown-toggle" style="color: rgb(255, 255, 255); font-size: 14px;"
+                  class="btn  dropdown-toggle menu-font"
                   href="#"
                   role="button"
                   id="dropdownMenuLink"
