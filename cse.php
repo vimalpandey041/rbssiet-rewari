@@ -24,17 +24,25 @@ include("header.php");
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus consectetur repellat eaque ducimus inventore officiis omnis velit quae sapiente suscipit ut reiciendis eius, laudantium nesciunt facere enim tempora exercitationem mollitia doloribus a itaque. Doloribus perspiciatis, facilis, recusandae, natus voluptatum accusamus obcaecati at mollitia dolore ducimus quaerat sequi commodi iusto rerum repudiandae tenetur saepe tempora ut est. Labore debitis consequatur, optio quae repellendus neque assumenda doloribus praesentium nemo aperiam ea fuga amet veritatis aliquam nam, facilis reiciendis aut aspernatur aliquid sit dolorem! Accusamus ducimus voluptatem esse doloribus aliquam? Beatae natus voluptate enim tempore iusto vitae, quia porro fugit modi repudiandae numquam reiciendis quasi earum! Velit quidem ipsam officia, vero autem qui, laboriosam voluptas distinctio blanditiis alias magni voluptatum officiis ad eius consectetur eum expedita ipsa nulla natus dicta illo quasi perferendis! Officia illum magni, omnis sit perspiciatis commodi tenetur quidem cumque ullam nobis consequatur deleniti illo. Autem, atque? Ut, voluptas id sint libero mollitia quia neque labore voluptates explicabo doloremque ipsa ipsum vel harum iste exercitationem laudantium provident consequatur omnis consectetur non quaerat aperiam nesciunt. Rem ullam odit nemo id magni, voluptas earum nam dolorum repellat soluta cum exercitationem. Excepturi fuga officia, eaque enim reprehenderit inventore ullam nulla saepe quos aut!</p>
    </div> 
    
-
- <div class="container py-5">
-      <div class="image">
+   <div class="container">
+<div class="row">
+<div class="col-2 align-items-center d-flex image1">
+<div class="image">
         <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg" height="200px" width="200px" class="rounded-circle">
       </div>
-      <div class="card" style="height:300px">
-      <div class="card-text " >
+</div>
+ <div class="col-10">
+ <div class="container py-5">
+      
+      <div class="card " style="height:300px">
+      
         <h1>Paris is one of the most beautiful cities in France.</h1>
-      </div>
+    
       </div>
     </div>
+ </div> 
+</div>
+   </div>
     
    <div class="container-fluid py-5">
    <div class="container-fluid py-2">

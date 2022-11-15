@@ -1,28 +1,21 @@
-.image {
+
+.info{padding-left: 100px;
+    position: relative;
+}
+  .text {
+    font-size: 20px;
+    padding-left: 60px;
+    align-items: center;
+  }
+.image{
+display:flex ;
+align-items:center ;
+}
+.image img{
+
+}
+.image1{
   position: relative;
-}
-
-.info {
-  padding-left: 100px;
-  position: absolute;
-}
-
-.container {
-  display: flex;
-  align-items: center;
-  justify-content: center
-}
-
-img {
-  max-width: 100%
-}
-
-.image {
-  flex-basis: 40%
-}
-
-.text {
-  font-size: 20px;
-  padding-left: 60px;
-  align-items: center;
+  left: 130px;
+  z-index: 2222;
 }
