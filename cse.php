@@ -7,11 +7,11 @@ include("header.php");
 <!---- header image start -->
 <div class="container-fluid m-0 p-0 header-img"   >
     <nav aria-label="breadcrumb" class="breadcrumb-img">
-       <span>Syllabus</span>
+       <span>CSE Department</span>
         <ol class="breadcrumb text-white">
             <li class="breadcrumb-item text-white"><a href="index2.php">Home</a></li>
             <li class="breadcrumb-item text-white"><a href="contact.php">Contact</a></li>
-            <li class="breadcrumb-item active text-white" aria-current="page">Syllabus</li>
+            <li class="breadcrumb-item active text-white" aria-current="page">CSE Department</li>
         </ol>
     </nav>
     <img src="https://c1.wallpaperflare.com/preview/443/122/419/book-pile-stack-literature.jpg"  alt="">
@@ -20,10 +20,21 @@ include("header.php");
         </div>
         <!---- header image end -->
    <div class="container-fluid py-3 text-justify" >
-    <h3 >About the Department</h3>
+   <div class="container-fluid">
+    <div class="row">
+      <div class="col">
+        <h2 class="title text-uppercase text-center"><span class="text-theme-colored2 text-danger">About</span> Department</h2>         
+        <div class="double-line-bottom-centered-theme-colored-2"></div>
+      </div>
+    </div>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus consectetur repellat eaque ducimus inventore officiis omnis velit quae sapiente suscipit ut reiciendis eius, laudantium nesciunt facere enim tempora exercitationem mollitia doloribus a itaque. Doloribus perspiciatis, facilis, recusandae, natus voluptatum accusamus obcaecati at mollitia dolore ducimus quaerat sequi commodi iusto rerum repudiandae tenetur saepe tempora ut est. Labore debitis consequatur, optio quae repellendus neque assumenda doloribus praesentium nemo aperiam ea fuga amet veritatis aliquam nam, facilis reiciendis aut aspernatur aliquid sit dolorem! Accusamus ducimus voluptatem esse doloribus aliquam? Beatae natus voluptate enim tempore iusto vitae, quia porro fugit modi repudiandae numquam reiciendis quasi earum! Velit quidem ipsam officia, vero autem qui, laboriosam voluptas distinctio blanditiis alias magni voluptatum officiis ad eius consectetur eum expedita ipsa nulla natus dicta illo quasi perferendis! Officia illum magni, omnis sit perspiciatis commodi tenetur quidem cumque ullam nobis consequatur deleniti illo. Autem, atque? Ut, voluptas id sint libero mollitia quia neque labore voluptates explicabo doloremque ipsa ipsum vel harum iste exercitationem laudantium provident consequatur omnis consectetur non quaerat aperiam nesciunt. Rem ullam odit nemo id magni, voluptas earum nam dolorum repellat soluta cum exercitationem. Excepturi fuga officia, eaque enim reprehenderit inventore ullam nulla saepe quos aut!</p>
    </div> 
-   
+   <div class="container">
+   <h2 class="h2 text-uppercase">Faculty
+          <span class="text-danger text-uppercase ">Section</span>
+        </h2>
+        <div class="double-line-bottom-theme-colored-2"></div>
+   </div>
    <div class="container">
 <div class="row my-2">
 <div class="col-2 align-items-center d-flex ">
@@ -154,12 +165,14 @@ include("header.php");
  </div> 
 </div>
    </div>
+   
     
    <div class="container-fluid py-5">
-   <div class="container-fluid py-2">
-    <h3>
-        Labs
-    </h3>
+   <div class="container">
+   <h2 class="h2 text-uppercase">Labs
+          <span class="text-danger text-uppercase ">View</span>
+        </h2>
+        <div class="double-line-bottom-theme-colored-2"></div>
    </div>
       <div class="row">
       <div class="col">
@@ -230,7 +243,31 @@ include("header.php");
     </div>
   </div>
   
-
+<div class="container">
+<h2 class="h2 text-uppercase">Message From
+          <span class="text-danger text-uppercase ">HOD</span>
+        </h2>
+        <div class="double-line-bottom-theme-colored-2"></div>
+        <div class="row">
+          <div class="col-lg-4 col-md-12">
+            <div class="card ">
+              <div class="card-body text-center">
+                <div class="direc-img">
+                  <img src="./img/51.png" class="card-img img-fluid  " alt="">
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-8 col-md-12">
+            <p style="text-align:justify; " class="my-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum fugiat repudiandae in inventore! Earum officia pariatur, sit quisquam nam corrupti. Aut voluptas accusamus aperiam, voluptatibus beatae eaque officia iure dignissimos distinctio. Atque eaque consequuntur fugit, deserunt mollitia nihil nesciunt praesentium dicta quos expedita recusandae aperiam? Commodi, ab beatae, consequatur sapiente incidunt natus quisquam ea dolor rerum tempore asperiores at unde molestiae a rem ratione voluptatibus praesentium! Illum dolores modi culpa nulla saepe, hic quam inventore tempore dolore optio pariatur voluptatem voluptatum voluptates officiis quae odio sunt aliquid! Quos excepturi laboriosam hic aperiam, nihil, totam enim inventore quam necessitatibus atque rerum! </p>
+            <div class="text-center my-4">
+              <button type="button" class="btn btn-danger py-2  px-4  " > View More</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
 
 <?php
 include("footer.php");
