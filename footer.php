@@ -90,31 +90,6 @@
       </div>
     </footer> 
     <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
-    <script>
-      var swiper = new Swiper(".mySwiper", {
-        slidesPerView: 1,
-        spaceBetween: 10,
-        pagination: {
-          el: ".swiper-pagination",
-          clickable: true,
-        },
-        breakpoints: {
-          640: {
-            slidesPerView: 2,
-            spaceBetween: 15,
-          },
-          768: {
-            slidesPerView: 3,
-            spaceBetween: 15,
-          },
-          1024: {
-            slidesPerView: 5,
-            spaceBetween: 15,
-          },
-        },
-      });
-    </script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'>
 </script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
@@ -123,7 +98,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="owlcarousel/jquery.min.js"></script>
 <script src="owlcarousel/owl.carousel.min.js"></script>
-<script src="pandey.js"></script>  
+<script src="vimal.js"></script>  
 <script>
   window.addEventListener("scroll", function(){
     var header = document.querySelector("header");
@@ -232,16 +207,6 @@ $(function(){
 $(function(){
     $("ul#ticker01").liScroll();
 });
-</script>
-<script>
-  // Initialize Marqueefy
-const marqueefyList = Array.prototype.slice.call(
-  document.querySelectorAll(".marqueefy")
-);
-const marqueefyInstances = marqueefyList.map((m) => {
-  return new marqueefy.Marqueefy(m);
-});
-
 </script>
 
 </body>
