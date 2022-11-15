@@ -25,17 +25,22 @@ include("header.php");
    </div> 
    <div class="container-fluid">
    <div class="row">
-    <div class="col-3">
-      <img src="">
+    <div class="col">
+      <div class="container  ">
+      <img src="https://bit.ly/3TAF3dU" class="image">
+      </div>
+      <div class="conatiner info">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, itaque obcaecati ea earum dolorum repellat, dignissimos quasi libero sequi magnam impedit! Veritatis, alias modi maxime ullam vero blanditiis dolores ad?</p>
+      </div>
 
     </div>
-    <div class="col-9">
+    <!-- <div class="col-9">
       <div class="container ">
 <p>
   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident nam cupiditate incidunt impedit molestias repudiandae natus, perspiciatis quo. Rerum eum nam amet beatae voluptatibus minus deleniti temporibus, error laudantium praesentium provident distinctio, dignissimos possimus repellat libero ex, exercitationem esse. Laudantium, consequatur asperiores. Quia quasi nesciunt corrupti dicta dolor odio blanditiis mollitia dignissimos accusantium, enim consequatur ad at incidunt corporis delectus earum suscipit quaerat numquam aut ut itaque minima ipsa! Recusandae nisi eos autem est repudiandae perspiciatis labore voluptatibus architecto nam dicta optio iusto, eum, asperiores, laboriosam modi dolore quidem provident! Quos alias, sapiente culpa voluptatibus excepturi laboriosam ipsa eius itaque?
 </p>
       </div>
-    </div>
+    </div> -->
    </div> 
 
    </div>
