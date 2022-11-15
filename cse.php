@@ -25,20 +25,87 @@ include("header.php");
    </div> 
    
    <div class="container">
-<div class="row">
-<div class="col-2 align-items-center d-flex image1">
-<div class="image">
-        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg" height="200px" width="200px" class="rounded-circle">
+<div class="row my-2">
+<div class="col-2 align-items-center d-flex ">
+<div class="image image1 ">
+        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg"  class="rounded-circle border-white-5 shadow">
       </div>
 </div>
  <div class="col-10">
- <div class="container py-5">
-      
-      <div class="card " style="height:300px">
-      
-        <h1>Paris is one of the most beautiful cities in France.</h1>
-    
+ <div class="container shadow border px-5 rounded-3 image2" >
+<span class="faculty_detail_1">Anil Yadav</span>
+<span class="faculty_detail_2">Head Of The Department CSE , ECE</span>
+<span class="faculty_detail_3">9416240492, 9416240492</span>
+    </div>
+ </div> 
+</div>
+<div class="row my-2">
+<div class="col-2 align-items-center d-flex ">
+<div class="image image1 ">
+        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg"  class="rounded-circle border-white-5 shadow">
       </div>
+</div>
+ <div class="col-10">
+ <div class="container shadow border px-5 rounded-3 image2" >
+<span class="faculty_detail_1">Anil Yadav</span>
+<span class="faculty_detail_2">Head Of The Department CSE , ECE</span>
+<span class="faculty_detail_3">9416240492, 9416240492</span>
+    </div>
+ </div> 
+</div>
+<div class="row my-2">
+<div class="col-2 align-items-center d-flex ">
+<div class="image image1 ">
+        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg"  class="rounded-circle border-white-5 shadow">
+      </div>
+</div>
+ <div class="col-10">
+ <div class="container shadow border px-5 rounded-3 image2" >
+<span class="faculty_detail_1">Anil Yadav</span>
+<span class="faculty_detail_2">Head Of The Department CSE , ECE</span>
+<span class="faculty_detail_3">9416240492, 9416240492</span>
+    </div>
+ </div> 
+</div>
+<div class="row my-2">
+<div class="col-2 align-items-center d-flex ">
+<div class="image image1 ">
+        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg"  class="rounded-circle border-white-5 shadow">
+      </div>
+</div>
+ <div class="col-10">
+ <div class="container shadow border px-5 rounded-3 image2" >
+<span class="faculty_detail_1">Anil Yadav</span>
+<span class="faculty_detail_2">Head Of The Department CSE , ECE</span>
+<span class="faculty_detail_3">9416240492, 9416240492</span>
+    </div>
+ </div> 
+</div>
+<div class="row my-2">
+<div class="col-2 align-items-center d-flex ">
+<div class="image image1 ">
+        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg"  class="rounded-circle border-white-5 shadow">
+      </div>
+</div>
+ <div class="col-10">
+ <div class="container shadow border px-5 rounded-3 image2" >
+<span class="faculty_detail_1">Anil Yadav</span>
+<span class="faculty_detail_2">Head Of The Department CSE , ECE</span>
+<span class="faculty_detail_3">9416240492, 9416240492</span>
+    </div>
+ </div> 
+</div>
+<div class="row my-3">
+<div class="col-2 align-items-center d-flex ">
+<div class="image image1 ">
+        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg"  class="rounded-circle border-white-5 shadow">
+      </div>
+</div>
+ <div class="col-10">
+ <div class="container shadow border px-5 rounded-3 image2" >
+<span class="faculty_detail_1">Anil Yadav</span>
+<span class="faculty_detail_2">Head Of The Department CSE , ECE</span>
+<span class="faculty_detail_3">9416240492, 9416240492</span>
     </div>
  </div> 
 </div>
@@ -58,7 +125,7 @@ include("header.php");
               <div class="card  rounded-4  px-2 pt-2 shadow" >
                 <img src="img/labs and building/Computer l2.jpeg" alt="" class="card-img img-fluid rounded-4"
                    style="height: 250px; object-fit:cover;">
-                  <!-- <a href="#" class="btn btn-warning rounded-5  my-3 " >Computer Lab 1</a> -->
+                  <!-- <a href="#" class="btn btn-warning rounded-5  my-3my-2" >Computer Lab 1</a> -->
               </div>
             </div>
             <div class="swiper-slide rounded-4">
