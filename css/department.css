@@ -12,10 +12,50 @@ display:flex ;
 align-items:center ;
 }
 .image img{
-
+border: 6px solid white;
+height: 200px;
+width: 200px;
 }
 .image1{
   position: relative;
-  left: 130px;
+  left: 80px;
   z-index: 2222;
+}
+.image2{
+height: 250px;
+display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+}
+
+@media screen and (max-width: 668px) {
+  
+  .image img{
+    height: 60px;
+    border: 3px solid white;
+    width: 60px;
+    }
+    .image1{
+      left: 30px;
+    }
+    .image2{
+      height: 80px;
+    }
+    .faculty_detail_1{
+      font-size: 13px;
+      color: rgb(24, 4, 41);
+      font-weight: bold;
+    }
+    .faculty_detail_2{
+      font-size: 9px;
+      color: rgb(24, 4, 41);
+      font-weight: 500;
+    }
+    .faculty_detail_3{
+      font-size: 7px;
+      color: rgb(24, 4, 41);
+      font-weight: 500;
+    }
+  
 }
