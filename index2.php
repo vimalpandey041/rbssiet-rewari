@@ -8,20 +8,32 @@ include("header.php");
         <h4>Announcement </h4>
         
       </div>
-      <div class="col-sm-10 text-white h5 py-0 d-flex align-items-center justify-content-center">
+      <!-- <div class="col-sm-10 text-white h5 py-0 d-flex align-items-center justify-content-center">
         <div class="marquee-w">
           <div class="marquee">
               <span>Admissions open for all respective Branches</span>
           </div>
-          <div class="marquee marquee2">
-              <span>Apply soon to be a part of ongoing counselling process and avail your seat now. </span>
+          <div class="marquee">
+              <span>Admissions open for all respective Branches</span>
+          </div>
+          <div class="marquee">
+              <span>Admissions open for all respective Branches</span>
           </div>
           
       </div>
-      </div>
+      </div> -->
+     
     </div>
   </div>
-  
+  <div class="container-fluid">
+  <div id="m5" class="marqueefy" tabindex="0">
+    <div class="content">
+      <span class="item">This is the first item</span> &nbsp;
+      <span class="item">This is the second item</span> &nbsp;
+      <span class="item">This is the third item</span> &nbsp;
+    </div>
+  </div>
+  </div>
   <div class="container-fluid my-5 px-3 px-sm-5">
     <div class="row ">
       <div class="col-md-6 bg-white px-sm-4  my-3">
