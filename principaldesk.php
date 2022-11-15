@@ -30,9 +30,8 @@ include("header.php")
         <div class="container mb-5 rounded-5 border shadow director_about">
             <div class="row">
             <div class="col-12  ">
-            <p style="text-align:justify; " class="my-0 mx-4">It's my gratitude to be the part of this prestigious institute . I feel it  my immense pleasure to play my part responsibly to encourage students to come out with flying colors . 
+            <p style="text-align:justify; line-height:30px;" class="my-0 mx-4">It's my gratitude to be the part of this prestigious institute . I feel it  my immense pleasure to play my part responsibly to encourage students to come out with flying colors . 
             We are aiming to build a strong foundation in the years to come to provide a supportive environment that will encourage students. Thanks a million to students and all my fellow members  </p>
-            <p class="mx-4" style="text-align:justify ;">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis cum porro sed illum, deserunt officiis, recusandae perspiciatis rem, repudiandae aspernatur nisi veritatis minus non nulla magni numquam. Consectetur quas, soluta minus similique modi eum, maiores ducimus laborum porro libero voluptatibus illum commodi. Omnis enim officia voluptatem velit odit nobis praesentium beatae officiis explicabo sit facere a, commodi laudantium ex. Praesentium in numquam aliquam aspernatur, quis corporis dolorum excepturi saepe? Accusamus voluptatem eveniet facere aspernatur saepe odio labore debitis neque eius in tenetur vitae nisi magnam quod reprehenderit vero quam consectetur at qui doloribus iste, officiis esse, optio dolore? Quaerat quisquam asperiores saepe error provident laborum nobis.</p>
           </div>
             </div>
         </div>

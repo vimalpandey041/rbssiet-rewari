@@ -1,48 +1,22 @@
-
-  jQuery.fn.liScroll = function (settings) {
-  settings = jQuery.extend(
-    {
-      travelocity: 0.03
+var swiper = new Swiper(".mySwiper", {
+  slidesPerView: 1,
+  spaceBetween: 10,
+  pagination: {
+    el: ".swiper-pagination",
+    clickable: true,
+  },
+  breakpoints: {
+    640: {
+      slidesPerView: 2,
+      spaceBetween: 15,
     },
-    settings
-  );
-  return this.each(function () {
-    var $strip = jQuery(this);
-    $strip.addClass("newsticker");
-    var stripHeight = 1;
-    $strip.find("li").each(function (i) {
-      stripHeight += jQuery(this, i).outerHeight(true); 
-    });
-    var $mask = $strip.wrap("<div class='mask'></div>");
-    var $tickercontainer = $strip
-      .parent()
-      .wrap("<div class='tickercontainer'></div>");
-    var containerHeight = $strip.parent().parent().height(); 
-    var totalTravel = stripHeight;
-    var defTiming = totalTravel / settings.travelocity;
-    function scrollnews(spazio, tempo) {
-      $strip.animate({ top: "-=" + spazio }, tempo, "linear", function () {
-        $strip.css("top", containerHeight);
-        scrollnews(totalTravel, defTiming);
-      });
-    }
-    scrollnews(totalTravel, defTiming);
-    $strip.hover(
-      function () {
-        jQuery(this).stop();
-      },
-      function () {
-        var offset = jQuery(this).offset();
-        var residualSpace = offset.top + stripHeight;
-        var residualTime = residualSpace / settings.travelocity;
-        scrollnews(residualSpace, residualTime);
-      }
-    );
-  });
-};
-
-$(function () {
-  $("ul#news-alerts").liScroll();
+    768: {
+      slidesPerView: 3,
+      spaceBetween: 15,
+    },
+    1024: {
+      slidesPerView: 5,
+      spaceBetween: 15,
+    },
+  },
 });
-
-

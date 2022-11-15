@@ -17,8 +17,8 @@ height: 200px;
 width: 200px;
 }
 .image1{
-  position: relative;
-  left: 80px;
+  position: absolute;
+  left: 11%;
   z-index: 2222;
 }
 .image2{
@@ -37,7 +37,7 @@ display: flex;
     width: 70px;
     }
     .image1{
-      left: 25px;
+      left:10%
     }
     .image2{
       height: 80px;

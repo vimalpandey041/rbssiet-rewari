@@ -6,6 +6,7 @@
   <title>Home || RBSSIET</title>
   <link rel="stylesheet" href="./css/style.css">
   <link rel="stylesheet" href="./css/syllabus.css">
+  <link rel="stylesheet" href="./css/slider.css">
   <link rel="stylesheet" href="./css/department.css">
   
   <!-- CSS only -->
