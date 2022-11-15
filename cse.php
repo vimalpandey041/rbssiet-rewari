@@ -32,10 +32,12 @@ include("header.php");
       </div>
 </div>
  <div class="col-10">
- <div class="container shadow border px-5 rounded-3 image2" >
-<span class="faculty_detail_1">Anil Yadav</span>
-<span class="faculty_detail_2">Head Of The Department CSE , ECE</span>
-<span class="faculty_detail_3">9416240492, 9416240492</span>
+ <div class="container shadow border px-5 py-5 rounded-3 image2" >
+<span class="faculty_detail_1"> Anil Yadav</span>
+<span><span class="faculty_detail_2">Head Of The Department</span></span>
+<span class="faculty_detail_4">Mobile Number :<span class="faculty_detail_3">9416240492</span></span>
+<span class="faculty_detail_4">Qualification :<span class="faculty_detail_3">M.Tech, B.Tech</span></span>
+<span class="faculty_detail_4">Areas of Interest :<span class="faculty_detail_3">Digital Elec.</span></span>
     </div>
  </div> 
 </div>
@@ -46,10 +48,12 @@ include("header.php");
       </div>
 </div>
  <div class="col-10">
- <div class="container shadow border px-5 rounded-3 image2" >
-<span class="faculty_detail_1">Anil Yadav</span>
-<span class="faculty_detail_2">Head Of The Department CSE , ECE</span>
-<span class="faculty_detail_3">9416240492, 9416240492</span>
+ <div class="container shadow border px-5 py-5 rounded-3 image2" >
+<span class="faculty_detail_1"> Anil Yadav</span>
+<span><span class="faculty_detail_2">Head Of The Department</span></span>
+<span class="faculty_detail_4">Mobile Number :<span class="faculty_detail_3">9416240492</span></span>
+<span class="faculty_detail_4">Qualification :<span class="faculty_detail_3">M.Tech, B.Tech</span></span>
+<span class="faculty_detail_4">Areas of Interest :<span class="faculty_detail_3">Digital Elec.</span></span>
     </div>
  </div> 
 </div>
@@ -60,10 +64,12 @@ include("header.php");
       </div>
 </div>
  <div class="col-10">
- <div class="container shadow border px-5 rounded-3 image2" >
-<span class="faculty_detail_1">Anil Yadav</span>
-<span class="faculty_detail_2">Head Of The Department CSE , ECE</span>
-<span class="faculty_detail_3">9416240492, 9416240492</span>
+ <div class="container shadow border px-5 py-5 rounded-3 image2" >
+<span class="faculty_detail_1"> Anil Yadav</span>
+<span><span class="faculty_detail_2">Head Of The Department</span></span>
+<span class="faculty_detail_4">Mobile Number :<span class="faculty_detail_3">9416240492</span></span>
+<span class="faculty_detail_4">Qualification :<span class="faculty_detail_3">M.Tech, B.Tech</span></span>
+<span class="faculty_detail_4">Areas of Interest :<span class="faculty_detail_3">Digital Elec.</span></span>
     </div>
  </div> 
 </div>
@@ -74,10 +80,12 @@ include("header.php");
       </div>
 </div>
  <div class="col-10">
- <div class="container shadow border px-5 rounded-3 image2" >
-<span class="faculty_detail_1">Anil Yadav</span>
-<span class="faculty_detail_2">Head Of The Department CSE , ECE</span>
-<span class="faculty_detail_3">9416240492, 9416240492</span>
+ <div class="container shadow border px-5 py-5 rounded-3 image2" >
+<span class="faculty_detail_1"> Anil Yadav</span>
+<span><span class="faculty_detail_2">Head Of The Department</span></span>
+<span class="faculty_detail_4">Mobile Number :<span class="faculty_detail_3">9416240492</span></span>
+<span class="faculty_detail_4">Qualification :<span class="faculty_detail_3">M.Tech, B.Tech</span></span>
+<span class="faculty_detail_4">Areas of Interest :<span class="faculty_detail_3">Digital Elec.</span></span>
     </div>
  </div> 
 </div>
@@ -88,24 +96,60 @@ include("header.php");
       </div>
 </div>
  <div class="col-10">
- <div class="container shadow border px-5 rounded-3 image2" >
-<span class="faculty_detail_1">Anil Yadav</span>
-<span class="faculty_detail_2">Head Of The Department CSE , ECE</span>
-<span class="faculty_detail_3">9416240492, 9416240492</span>
+ <div class="container shadow border px-5 py-5 rounded-3 image2" >
+<span class="faculty_detail_1"> Anil Yadav</span>
+<span><span class="faculty_detail_2">Head Of The Department</span></span>
+<span class="faculty_detail_4">Mobile Number :<span class="faculty_detail_3">9416240492</span></span>
+<span class="faculty_detail_4">Qualification :<span class="faculty_detail_3">M.Tech, B.Tech</span></span>
+<span class="faculty_detail_4">Areas of Interest :<span class="faculty_detail_3">Digital Elec.</span></span>
     </div>
  </div> 
 </div>
-<div class="row my-3">
+<div class="row my-2">
 <div class="col-2 align-items-center d-flex ">
 <div class="image image1 ">
         <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg"  class="rounded-circle border-white-5 shadow">
       </div>
 </div>
  <div class="col-10">
- <div class="container shadow border px-5 rounded-3 image2" >
-<span class="faculty_detail_1">Anil Yadav</span>
-<span class="faculty_detail_2">Head Of The Department CSE , ECE</span>
-<span class="faculty_detail_3">9416240492, 9416240492</span>
+ <div class="container shadow border px-5 py-5 rounded-3 image2" >
+<span class="faculty_detail_1"> Anil Yadav</span>
+<span><span class="faculty_detail_2">Head Of The Department</span></span>
+<span class="faculty_detail_4">Mobile Number :<span class="faculty_detail_3">9416240492</span></span>
+<span class="faculty_detail_4">Qualification :<span class="faculty_detail_3">M.Tech, B.Tech</span></span>
+<span class="faculty_detail_4">Areas of Interest :<span class="faculty_detail_3">Digital Elec.</span></span>
+    </div>
+ </div> 
+</div>
+<div class="row my-2">
+<div class="col-2 align-items-center d-flex ">
+<div class="image image1 ">
+        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg"  class="rounded-circle border-white-5 shadow">
+      </div>
+</div>
+ <div class="col-10">
+ <div class="container shadow border px-5 py-5 rounded-3 image2" >
+<span class="faculty_detail_1"> Anil Yadav</span>
+<span><span class="faculty_detail_2">Head Of The Department</span></span>
+<span class="faculty_detail_4">Mobile Number :<span class="faculty_detail_3">9416240492</span></span>
+<span class="faculty_detail_4">Qualification :<span class="faculty_detail_3">M.Tech, B.Tech</span></span>
+<span class="faculty_detail_4">Areas of Interest :<span class="faculty_detail_3">Digital Elec.</span></span>
+    </div>
+ </div> 
+</div>
+<div class="row my-2">
+<div class="col-2 align-items-center d-flex ">
+<div class="image image1 ">
+        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg"  class="rounded-circle border-white-5 shadow">
+      </div>
+</div>
+ <div class="col-10">
+ <div class="container shadow border px-5 py-5 rounded-3 image2" >
+<span class="faculty_detail_1"> Anil Yadav</span>
+<span><span class="faculty_detail_2">Head Of The Department</span></span>
+<span class="faculty_detail_4">Mobile Number :<span class="faculty_detail_3">9416240492</span></span>
+<span class="faculty_detail_4">Qualification :<span class="faculty_detail_3">M.Tech, B.Tech</span></span>
+<span class="faculty_detail_4">Areas of Interest :<span class="faculty_detail_3">Digital Elec.</span></span>
     </div>
  </div> 
 </div>
