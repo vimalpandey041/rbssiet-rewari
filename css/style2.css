@@ -371,10 +371,6 @@ header .dropdown {
     line-height: 25px;
     font-size: 20px;
     animation: marquee 6s linear infinite;
-}
-
-.marquee2 span {
-    animation-delay: 6s;
 } 
 @keyframes marquee {
     0% {
@@ -606,3 +602,9 @@ font-weight: 600;
     height: 510px;
     object-fit: cover;
   }
+
+  #m5 {
+    --mq-bg: #fecba1;
+    --mq-hover-bg: #feb272;
+  }
+  
