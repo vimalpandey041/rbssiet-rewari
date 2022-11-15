@@ -8,23 +8,35 @@ include("header.php");
         <h4>Announcement </h4>
         
       </div>
-      <div class="col-sm-10 text-white h5 py-0 d-flex align-items-center justify-content-center">
+      <!-- <div class="col-sm-10 text-white h5 py-0 d-flex align-items-center justify-content-center">
         <div class="marquee-w">
           <div class="marquee">
               <span>Admissions open for all respective Branches</span>
           </div>
-          <div class="marquee marquee2">
-              <span>Apply soon to be a part of ongoing counselling process and avail your seat now. </span>
+          <div class="marquee">
+              <span>Admissions open for all respective Branches</span>
+          </div>
+          <div class="marquee">
+              <span>Admissions open for all respective Branches</span>
           </div>
           
       </div>
-      </div>
+      </div> -->
+     
     </div>
   </div>
-  
-  <div class="container-fluid my-5 px-5">
+  <div class="container-fluid">
+  <div id="m5" class="marqueefy" tabindex="0">
+    <div class="content">
+      <span class="item">This is the first item</span> &nbsp;
+      <span class="item">This is the second item</span> &nbsp;
+      <span class="item">This is the third item</span> &nbsp;
+    </div>
+  </div>
+  </div>
+  <div class="container-fluid my-5 px-3 px-sm-5">
     <div class="row ">
-      <div class="col-md-6 bg-white px-4  my-3">
+      <div class="col-md-6 bg-white px-sm-4  my-3">
         <h2 class="h2 text-uppercase">About
           <span class="text-danger text-uppercase ">RBSSIET</span>
         </h2>
@@ -35,7 +47,7 @@ include("header.php");
           <button type="button" class="btn btn-danger py-2  px-4 my-3"> View More</button>
         </div>
       </div>
-      <div class="col-md-6 px-4 my-3" >
+      <div class="col-md-6 px-sm-4 my-3" >
         <h2 class="h2 text-uppercase">Director's
           <span class="text-danger text-uppercase ">Corner</span>
         </h2>
@@ -45,7 +57,7 @@ include("header.php");
             <div class="card ">
               <div class="card-body text-center">
                 <div class="direc-img">
-                  <img src="http://rbssietrewari.ac.in/wp-content/uploads/2022/02/51.png" class="card-img img-fluid  " alt="">
+                  <img src="./img/51.png" class="card-img img-fluid  " alt="">
                 </div>
               </div>
             </div>
@@ -73,23 +85,23 @@ include("header.php");
         
 <!-- Nav tabs -->
 <ul class="nav nav-tabs ">
-  <li class="nav-item ">
-    <a class="nav-link  active" data-bs-toggle="tab" href="#menu5">Labs</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" data-bs-toggle="tab" href="#menu1">Hostel</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" data-bs-toggle="tab" href="#menu2">Administration</a>
+<li class="nav-item">
+    <a class="nav-link active px-2 px-lg-4" data-bs-toggle="tab" href="#menu2">Administration</a>
   </li>
   <li class="nav-item rounded">
-    <a class="nav-link" data-bs-toggle="tab" href="#menu3">departments</a>
+    <a class="nav-link px-2 px-lg-4" data-bs-toggle="tab" href="#menu3">departments</a>
+  </li>
+  <li class="nav-item  ">
+    <a class="nav-link px-1 px-lg-4  " data-bs-toggle="tab" href="#menu5">Labs</a>
+  </li> 
+  <li class="nav-item">
+    <a class="nav-link px-1 px-lg-4" data-bs-toggle="tab" href="#menu1">Hostel</a>
   </li>
 </ul>
 
 <!-- Tab panes -->
 <div class="tab-content">
-  <div class="tab-pane container-fluid active py-4 " id="menu5">
+  <div class="tab-pane container-fluid fade  py-4 " id="menu5">
     <div class="container-fluid">
       <div class="row">
       <div class="col">
@@ -228,7 +240,7 @@ include("header.php");
       </div>
     </div>
   </div>
-  <div class="tab-pane container-fluid py-4 fade" id="menu2">
+  <div class="tab-pane container-fluid py-4 active" id="menu2">
     <div class="container-fluid">
       <div class="row">
         <div class="col">
@@ -236,56 +248,56 @@ include("header.php");
             <div class="swiper-wrapper">
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
                 <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
@@ -297,7 +309,7 @@ include("header.php");
       </div>
     </div>
   </div>
-  <div class="tab-pane container-fluid py-4 fade " id="menu3">
+  <div class="tab-pane container-fluid py-4 fade" id="menu3">
     <div class="container-fluid">
       <div class="row">
         <div class="col">
@@ -422,12 +434,24 @@ include("header.php");
  <div class="container">
   <div class="row">
     <div class="col">
-      <h2 class="title text-uppercase text-center"><span class="text-theme-colored2 text-danger">Important</span> Persons</h2>         
+      <h2 class="title text-uppercase text-center my-4"><span class="text-theme-colored2 text-danger">Important</span> Persons</h2>         
       <div class="double-line-bottom-centered-theme-colored-2"></div>
     </div>
   </div>
   <div class="row flex justify-content-center  ">
-<div class="col-sm-6 col-md-3 col-6">
+<div class="col-sm-12 col-md-4 col-lg-3 col-7">
+  <div class="card border-0" >
+    <div class="card-body">
+      <img src="https://cdlsiet.ac.in/wp-content/uploads/2019/11/anil-vij-150x150.jpg" class="card-img rounded-circle" alt="">
+      <h4 class="card-title text-center h5 py-2">Sh. Anil Vij</h4>
+      <p class="card-text text-center">
+        Technical Education Minister
+Haryana
+      </p>
+    </div>
+  </div>
+</div>
+<div class="col-sm-6 col-md-4 col-lg-3 col-6">
   <div class="card border-0" >
     <div class="card-body">
       <img src="https://cdlsiet.ac.in/wp-content/uploads/2019/11/anil-vij-150x150.jpg" class="card-img rounded-circle" alt="">
@@ -440,7 +464,7 @@ Haryana
   </div>
 </div>
 
-<div class="col-sm-6 col-md-3 col-6">
+<div class="col-sm-6 col-md-4 col-lg-3 col-6">
   <div class="card border-0" >
     <div class="card-body">
       <img src="https://cdlsiet.ac.in/wp-content/uploads/2022/02/RAJAN-removebg-preview-150x150.jpg" class="card-img rounded-circle" alt="">
@@ -455,14 +479,14 @@ Haryana
 </div>
  </div>
   <div class="container-fluid">
-    <div class="row py-5 px-md-4  flex flex-column flex-md-row">
-      <div class="col col-md-6 my-5 my-md-0">
+    <div class="row py-5 px-md-2  flex flex-column flex-md-row">
+      <div class="col col-md-6 my-5 my-md-1">
         <h2 class=" text-uppercase main_title">Let's Have a
           <span class="text-danger text-uppercase ">campus tour!</span>
         </h2>
         <div class="double-line-bottom-theme-colored-2"></div>
-        <div class="card rounded" >
-          <img src="img/slider/IMG_20220511_204335-scaled.jpg" class="card-img rounded" height="510px;" style="object-fit:cover ;">
+        <div class="card rounded " >
+          <img src="img/slider/IMG_20220511_204335-scaled.jpg" class="card-img rounded img-fluid campus_tour">
         </div>
       </div>
       <div class="col col-md-6 ">

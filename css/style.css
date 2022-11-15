@@ -371,10 +371,6 @@ header .dropdown {
     line-height: 25px;
     font-size: 20px;
     animation: marquee 6s linear infinite;
-}
-
-.marquee2 span {
-    animation-delay: 6s;
 } 
 @keyframes marquee {
     0% {
@@ -471,6 +467,9 @@ header .dropdown {
   .service__faq__wrapper__title {
     font-size: 20px;
   }
+  .campus_tour{
+    
+  }
   .item1 {
     font-size: 12px;
     height: 40px;
@@ -541,8 +540,9 @@ header .dropdown {
     top: 60px;
     }
     .main_title{
-      font-size: 18px;
+      font-size: 21px;
     }
+    
 }
 .breadcrumb-img{
 background-color: rgba(38, 38, 40, 0.6);
@@ -578,5 +578,33 @@ font-weight: 600;
  header image section end 
  */
   
-  
+
+ /* directors page img */
+
+ .director_img{
+  display: flex;
+  justify-content: center;
+  z-index: 11;
+  position: relative;
+  top: 100px;
+ }
+ .director_img img{
+  height: 200px;
+  background-color: rgb(177, 245, 19);
+  border: 5px solid rgb(60, 107, 209);
+ }
+  .director_about{
+    padding-top: 120px;
+    padding-bottom: 30px;
+  }
+
+  .campus_tour{
+    height: 510px;
+    object-fit: cover;
+  }
+
+  #m5 {
+    --mq-bg: #fecba1;
+    --mq-hover-bg: #feb272;
+  }
   
