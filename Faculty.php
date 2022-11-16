@@ -15,13 +15,13 @@ include("header.php");
 
             
         </div>
-        <div class="container-fluid pt-5 pd-0" >
+        <div class="container-fluid pt-5 pd-0 text-center" >
         <h3 class="ani_tex">Glimpse of our Excellent Faculty </h3>
         </div>
 
 
-    <div class="row">
-        <div class="col-3">
+    <div class="row d-flex justify-content-center">
+        <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3WYtdND"  class=" rounded-circle " alt="">
@@ -35,7 +35,7 @@ include("header.php");
         </div>
        </div>
 
- <div class="col-3">
+ <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3O6G4cz"  class=" rounded-circle " alt="">
@@ -49,7 +49,7 @@ include("header.php");
             </div>
         </div>
         </div>
- <div class="col-3">
+ <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3WYtdND"  class=" rounded-circle " alt="">
@@ -62,7 +62,7 @@ include("header.php");
             </div>
         </div>
         </div>
- <div class="col-3">
+ <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3O6G4cz"  class=" rounded-circle " alt="">
@@ -78,8 +78,8 @@ include("header.php");
         </div>
 
 </div>
-    <div class="row">
-        <div class="col-3">
+    <div class="row d-flex justify-content-center">
+        <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3WYtdND"  class=" rounded-circle " alt="">
@@ -93,7 +93,7 @@ include("header.php");
         </div>
        </div>
 
- <div class="col-3">
+ <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3O6G4cz"  class=" rounded-circle " alt="">
@@ -107,7 +107,7 @@ include("header.php");
             </div>
         </div>
         </div>
- <div class="col-3">
+ <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3WYtdND"  class=" rounded-circle " alt="">
@@ -120,7 +120,7 @@ include("header.php");
             </div>
         </div>
         </div>
- <div class="col-3">
+ <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3O6G4cz"  class=" rounded-circle " alt="">
@@ -137,8 +137,8 @@ include("header.php");
 
     </div>
 
-    <div class="row">
-        <div class="col-3">
+    <div class="row d-flex justify-content-center">
+        <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3WYtdND"  class=" rounded-circle " alt="">
@@ -152,7 +152,7 @@ include("header.php");
         </div>
        </div>
 
- <div class="col-3">
+ <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3O6G4cz"  class=" rounded-circle " alt="">
@@ -166,7 +166,7 @@ include("header.php");
             </div>
         </div>
         </div>
- <div class="col-3">
+ <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3WYtdND"  class=" rounded-circle " alt="">
@@ -179,7 +179,7 @@ include("header.php");
             </div>
         </div>
         </div>
- <div class="col-3">
+ <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3O6G4cz"  class=" rounded-circle " alt="">
@@ -196,8 +196,8 @@ include("header.php");
 
     </div>
 
-    <div class="row">
-        <div class="col-3">
+    <div class="row d-flex justify-content-center">
+        <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3WYtdND"  class=" rounded-circle " alt="">
@@ -211,7 +211,7 @@ include("header.php");
         </div>
        </div>
 
- <div class="col-3">
+ <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3O6G4cz"  class=" rounded-circle " alt="">
@@ -225,7 +225,7 @@ include("header.php");
             </div>
         </div>
         </div>
- <div class="col-3">
+ <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3WYtdND"  class=" rounded-circle " alt="">
@@ -238,7 +238,7 @@ include("header.php");
             </div>
         </div>
         </div>
- <div class="col-3">
+ <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3O6G4cz"  class=" rounded-circle " alt="">
@@ -255,8 +255,8 @@ include("header.php");
 
     </div>
 
-    <div class="row">
-        <div class="col-3">
+    <div class="row d-flex justify-content-center">
+        <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3WYtdND"  class=" rounded-circle " alt="">
@@ -270,7 +270,7 @@ include("header.php");
         </div>
        </div>
 
- <div class="col-3">
+ <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3O6G4cz"  class=" rounded-circle " alt="">
@@ -284,7 +284,7 @@ include("header.php");
             </div>
         </div>
         </div>
- <div class="col-3">
+ <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3WYtdND"  class=" rounded-circle " alt="">
@@ -297,7 +297,7 @@ include("header.php");
             </div>
         </div>
         </div>
- <div class="col-3">
+ <div class="col-9 col-lg-3 px-5">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3O6G4cz"  class=" rounded-circle " alt="">
