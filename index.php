@@ -135,7 +135,7 @@ include("header.php");
           <div class="col-lg-4 col-md-12">
             <div class="card ">
               <div class="card-body text-center">
-                <div class="direc-img">
+                <div class="direc-img image_popup ">
                   <img src="./img/51.png" class="card-img img-fluid  " alt="">
                 </div>
               </div>
@@ -165,16 +165,16 @@ include("header.php");
 <!-- Nav tabs -->
 <ul class="nav nav-tabs ">
 <li class="nav-item">
-    <a class="nav-link active px-2 px-lg-4" data-bs-toggle="tab" href="#menu2">Administration</a>
+    <a class="nav-link active px-1 px-lg-4" data-bs-toggle="tab" href="#menu2">Administration</a>
   </li>
   <li class="nav-item rounded">
-    <a class="nav-link px-2 px-lg-4" data-bs-toggle="tab" href="#menu3">departments</a>
+    <a class="nav-link px-1 px-lg-4" data-bs-toggle="tab" href="#menu3">departments</a>
   </li>
   <li class="nav-item  ">
-    <a class="nav-link px-1 px-lg-4  " data-bs-toggle="tab" href="#menu5">Labs</a>
+    <a class="nav-link px-2 px-lg-4  " data-bs-toggle="tab" href="#menu5">Labs</a>
   </li> 
   <li class="nav-item">
-    <a class="nav-link px-1 px-lg-4" data-bs-toggle="tab" href="#menu1">Hostel</a>
+    <a class="nav-link px-2 px-lg-4" data-bs-toggle="tab" href="#menu1">Hostel</a>
   </li>
 </ul>
 
@@ -187,57 +187,57 @@ include("header.php");
         <div class="swiper mySwiper">
           <div class="swiper-wrapper">
             <div class="swiper-slide rounded-4">
-              <div class="card  rounded-4  px-2 pt-2 shadow" >
-                <img src="img/labs and building/Computer l2.jpeg" alt="" class="card-img img-fluid rounded-4"
+              <div class="card  rounded-4  px-2 pt-2 shadow " >
+                <img src="img/labs and building/Computer l2.jpeg" alt="" class="card-img img-fluid image_popup rounded-4"
                    style="height: 250px; object-fit:cover;">
                   <a href="#" class="btn btn-warning rounded-5  my-3 " >Computer Lab 1</a>
               </div>
             </div>
             <div class="swiper-slide rounded-4">
-              <div class="card  rounded-4  px-2 pt-2 shadow" >
-                <img src="img/labs and building/Computer l1.jpeg" alt="" class="card-img img-fluid rounded-4"
+              <div class="card  rounded-4  px-2 pt-2 shadow " >
+                <img src="img/labs and building/Computer l1.jpeg" alt="" class="card-img img-fluid image_popup rounded-4"
                    style="height: 250px; object-fit:cover;">
                   <a href="#" class="btn btn-danger rounded-5  my-3 " >Computer Lab 2</a>
               </div>
             </div>
             <div class="swiper-slide rounded-4">
-              <div class="card  rounded-4  px-2 pt-2 shadow" >
-                <img src="img/labs and building/chemistry lab.jpeg" alt="" class="card-img img-fluid rounded-4"
+              <div class="card  rounded-4  px-2 pt-2 shadow " >
+                <img src="img/labs and building/chemistry lab.jpeg" alt="" class="card-img img-fluid image_popup rounded-4"
                    style="height: 250px; object-fit: cover;">
                   <a href="#" class="btn btn-warning rounded-5  my-3 " >Chemistry Lab</a>
               </div>
             </div>
             <div class="swiper-slide rounded-4">
-              <div class="card  rounded-4  px-2 pt-2 shadow" >
-                <img src="img/labs and building/physics .jpeg" alt="" class="card-img img-fluid rounded-4"
+              <div class="card  rounded-4  px-2 pt-2 shadow " >
+                <img src="img/labs and building/physics .jpeg" alt="" class="card-img img-fluid image_popup rounded-4"
                    style="height: 250px; object-fit: cover;">
                   <a href="#" class="btn btn-danger rounded-5  my-3 " >Physics Lab</a>
               </div>
             </div>
             <div class="swiper-slide rounded-4">
-              <div class="card  rounded-4  px-2 pt-2 shadow" >
-                <img src="img/labs and building/ee lab.jpeg" alt="" class="card-img img-fluid rounded-4"
+              <div class="card  rounded-4  px-2 pt-2 shadow " >
+                <img src="img/labs and building/ee lab.jpeg" alt="" class="card-img img-fluid image_popup rounded-4"
                    style="height: 250px; object-fit: cover;">
                   <a href="#" class="btn btn-warning rounded-5  my-3 " >Electrical Lab</a>
               </div>
             </div>
             <div class="swiper-slide rounded-4">
-              <div class="card  rounded-4  px-2 pt-2 shadow" >
-                <img src="img/labs and building/bee lab 1.jpeg" alt="" class="card-img img-fluid rounded-4"
+              <div class="card  rounded-4  px-2 pt-2 shadow " >
+                <img src="img/labs and building/bee lab 1.jpeg" alt="" class="card-img img-fluid image_popup rounded-4"
                    style="height: 250px; object-fit: cover;">
                   <a href="#" class="btn btn-danger rounded-5  my-3 " >Electronics Lab</a>
               </div>
             </div>
             <div class="swiper-slide rounded-4">
-              <div class="card  rounded-4  px-2 pt-2 shadow" >
-                <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+              <div class="card  rounded-4  px-2 pt-2 shadow " >
+                <img src="img/physicslab1.png" alt="" class="card-img img-fluid image_popup rounded-4"
                    style="height: 250px; object-fit: cover;">
                   <a href="#" class="btn btn-warning rounded-5  my-3 " >Civil Lab</a>
               </div>
             </div>
             <div class="swiper-slide rounded-4">
-              <div class="card  rounded-4  px-2 pt-2 shadow" >
-                <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+              <div class="card  rounded-4  px-2 pt-2 shadow " >
+                <img src="img/physicslab1.png" alt="" class="card-img img-fluid image_popup rounded-4"
                    style="height: 250px; object-fit: cover;">
                   <a href="#" class="btn btn-danger rounded-5  my-3 " >Workshop</a>
               </div>
@@ -257,57 +257,57 @@ include("header.php");
           <div class="swiper mySwiper">
             <div class="swiper-wrapper">
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="img/physicslab1.png" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
@@ -326,57 +326,57 @@ include("header.php");
           <div class="swiper mySwiper">
             <div class="swiper-wrapper">
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
                 </div>
@@ -395,36 +395,36 @@ include("header.php");
           <div class="swiper mySwiper">
             <div class="swiper-wrapper">
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Computer Science & Engg.</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="https://bit.ly/3VLZDtV" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="https://bit.ly/3VLZDtV" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Electronics & Comm. Engg</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="https://bit.ly/3gbH95N" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="https://bit.ly/3gbH95N" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Mechanical Engineering</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="https://bit.ly/3DcyA3H" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="https://bit.ly/3DcyA3H" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Electrical Engg.</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
-                <div class="card  rounded-4  px-2 pt-2 shadow" >
-                  <img src="https://bit.ly/3ToTkew" alt="" class="card-img img-fluid rounded-4"
+                <div class="card  rounded-4  px-2 pt-2 shadow " >
+                  <img src="https://bit.ly/3ToTkew" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
                     <a href="#" class="btn btn-warning rounded-5  my-3 " >Civil Engineering</a>
                 </div>
@@ -547,9 +547,9 @@ Haryana
   <div class="card border-0" >
     <div class="card-body">
       <img src="https://cdlsiet.ac.in/wp-content/uploads/2022/02/RAJAN-removebg-preview-150x150.jpg" class="card-img rounded-circle" alt="">
-      <h4 class="card-title text-center h5 py-2">Sh. Rajiv Rattan, IAS</h4>
+      <h4 class="card-title text-center h5 py-2">Sh. Rajiv Rattan</h4>
       <p class="card-text text-center">
-        Director General, Technical Education Haryana
+        Director General, Technical Education 
       </p>
     </div>
   </div>
@@ -565,7 +565,7 @@ Haryana
         </h2>
         <div class="double-line-bottom-theme-colored-2"></div>
         <div class="card rounded " >
-          <img src="img/slider/IMG_20220511_204335-scaled.jpg" class="card-img rounded img-fluid campus_tour">
+          <img src="img/slider/IMG_20220511_204335-scaled.jpg" class="card-img image_popup rounded campus_tour">
         </div>
       </div>
       <div class="col col-md-6 ">
@@ -579,75 +579,75 @@ Haryana
               <div class="col-sm-4 py-1 px-1 col-6">
   
                 <div class="card rounded">
-                  <img src="img/Rbssiet Photos/4.jpeg" class="card-img rounded " height="120px"  >
+                  <img src="img/Rbssiet Photos/4.jpeg" class="card-img rounded image_popup " height="120px"  >
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                  <img src="img/Rbssiet Photos/4.jpeg" class="card-img rounded " height="120px"  >
+                  <img src="img/Rbssiet Photos/4.jpeg" class="card-img rounded image_popup " height="120px"  >
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                  <img src="img/Rbssiet Photos/9.jpeg" class="card-img rounded" height="120px" >
+                  <img src="img/Rbssiet Photos/9.jpeg" class="card-img rounded image_popup" height="120px" >
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                  <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded" height="120px" >
+                  <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded image_popup" height="120px" >
                 </div>
                 </div>
             
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                  <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded " height="120px"  >
+                  <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded image_popup " height="120px"  >
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                  <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded " height="120px"  >
+                  <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded image_popup " height="120px"  >
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                  <img src="img/Rbssiet Photos/12.jpeg" class="card-img rounded" height="120px" >
+                  <img src="img/Rbssiet Photos/12.jpeg" class="card-img rounded image_popup" height="120px" >
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                  <img src="img/Rbssiet Photos/25.jpeg" class="card-img rounded" height="120px" >
+                  <img src="img/Rbssiet Photos/25.jpeg" class="card-img rounded image_popup" height="120px" >
                 </div>
                 </div>
             
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                  <img src="img/Rbssiet Photos/30.jpeg" class="card-img rounded " height="120px"  >
+                  <img src="img/Rbssiet Photos/30.jpeg" class="card-img rounded image_popup " height="120px"  >
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                  <img src="img/Rbssiet Photos/30.jpeg" class="card-img rounded " height="120px"  >
+                  <img src="img/Rbssiet Photos/30.jpeg" class="card-img rounded image_popup " height="120px"  >
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                  <img src="img/Rbssiet Photos/27.jpeg" class="card-img rounded" height="120px" >
+                  <img src="img/Rbssiet Photos/27.jpeg" class="card-img rounded image_popup" height="120px" >
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                  <img src="img/Rbssiet Photos/33.jpeg" class="card-img rounded" height="120px" >
+                  <img src="img/Rbssiet Photos/33.jpeg" class="card-img rounded image_popup" height="120px" >
                 </div>
                 </div>
             </div>

@@ -260,9 +260,17 @@ News/ Notices/Announcements
         </div>
       </div>
     </div>
-    <div class="col-1 align-items-center bars d-flex d-block d-lg-none bars">
+    <div class="col-1 align-items-center bars d-flex d-block d-lg-none bars" data-bs-toggle="offcanvas" data-bs-target="#demo">
       <i class="fa-solid fa-bars "></i>
     </div>
     </div>
-    
+    <div class="offcanvas offcanvas-start" id="demo">
+  <div class="offcanvas-header">
+    <h1 class="offcanvas-title">Main Menu</h1>
+    <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"></button>
+  </div>
+  <div class="offcanvas-body">
+  
+  </div>
+</div>
   </header>

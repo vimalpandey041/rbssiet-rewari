@@ -471,9 +471,6 @@ header .dropdown {
   .service__faq__wrapper__title {
     font-size: 20px;
   }
-  .campus_tour{
-    
-  }
   .item1 {
     font-size: 12px;
     height: 40px;
@@ -523,6 +520,11 @@ header .dropdown {
   header .bars{
     color:#fcfbff;
     cursor: pointer;
+  }
+  header .menu-font{
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
   }
   .img1 {
     width: 20px;
@@ -609,6 +611,24 @@ font-weight: 600;
 
   .slider_data{
     border-radius: 23px;
-    width:70%;
     background: rgba(4, 4, 49, 0.6);
+  }
+  .slider_data:hover{
+    border-radius: 23px;
+    width:70%;
+    background: rgba(4, 4, 49, 1);
+    transform: scale(1.08);
+    transition: ease-in-out;
+  }
+  .image_popup:hover{
+    overflow: hidden;
+    transform: scale(1.04);
+    transition: ease-in-out;
+  }
+
+  @media screen and (max-width: 668px) {
+    .campus_tour{
+      height: 220px;
+      object-fit: cover;
+    }
   }
