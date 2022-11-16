@@ -2,7 +2,6 @@
 include("header.php");
 ?>
 
-<link rel="stylesheet" href="dapartment.css">
 
 <!---- header image start -->
 <div class="container-fluid m-0 p-0 header-img"   >
