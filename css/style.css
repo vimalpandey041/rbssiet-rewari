@@ -606,3 +606,9 @@ font-weight: 600;
     height: 510px;
     object-fit: cover;
   }
+
+  .slider_data{
+    border-radius: 23px;
+    width:70%;
+    background: rgba(4, 4, 49, 0.6);
+  }
