@@ -1,0 +1,43 @@
+.faculty_img{
+    display: flex;
+    justify-content: center;
+    z-index: 11;
+    position: relative;
+    top: 100px;
+   }
+   .faculty_img img{
+    height: 140px;
+    width: 140px;
+    
+    border: 2px solid black;
+   }
+    .faculty_about{
+      padding-top: 120px;
+      padding-bottom: 30px;
+    }
+  
+    .ani_tex{
+        position: relative;
+        font-family: sans-serif;
+        text-transform: uppercase;
+        font-size: 2em;
+        letter-spacing: 4px;
+        overflow: hidden;
+        background: linear-gradient(90deg, #000, #fff, #000);
+        background-repeat: no-repeat; 
+        background-size: 80%;
+        animation: animate 5s linear infinite;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: rgba(134, 65, 123, 0);
+        align-items:center;
+        justify-content: center;
+      }
+      
+      @keyframes animate {
+        0% {
+          background-position: -500%;
+        }
+        100% {
+          background-position: 500%;
+        }
+      }
