@@ -265,13 +265,136 @@ News/ Notices/Announcements
       <i class="fa-solid fa-bars "></i>
     </div>
     </div>
-    <div class="offcanvas offcanvas-start" id="demo">
-  <div class="offcanvas-header">
-    <h1 class="offcanvas-title">Main Menu</h1>
-    <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"></button>
+    <div class="offcanvas offcanvas-start bg-dark text-white"  id="demo">
+  <div class="offcanvas-header d-flex justify-content-end">
+<i class="fa-solid fa-xmark text-white fa-2x" data-bs-dismiss="offcanvas"></i>
   </div>
-  <div class="offcanvas-body">
-  
+  <div class="offcanvas-body mobile_menu ">
+  <a href="#contact">Home</a>
+  <button class="dropdown-btn">About
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-container">
+    <a href="#">Principal's Desk</a>
+    <a href="#">Placements</a>
+    <a href="#">Projects</a>
+    <a href="#">Luminaries</a>
+    <a href="#">Annual Report</a>
+    <a href="#">Mandatory Disclosure</a>
+    <a href="#">RTI Act 2005</a>
+    <a href="#">Contact</a>
+    <a href="#">Route To Institute</a>
+  </div>
+  <button class="dropdown-btn">Students
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-container">
+  <button class="dropdown-btn">Departments
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-container">
+    <a href="#">COMPUTER ENGG.</a>
+    <a href="#">CIVIL ENGG.</a>
+    <a href="#">ELECTRICAL ENGG.</a>
+    <a href="#">ELECTRONICS & COMM. ENGG.</a>
+    <a href="#">MECHANICAL ENGG.</a>
+  </div>
+  <button class="dropdown-btn">Syllabus
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-container">
+  <a href="#">COMPUTER ENGG.</a>
+    <a href="#">CIVIL ENGG.</a>
+    <a href="#">ELECTRICAL ENGG.</a>
+    <a href="#">ELECTRONICS & COMM. ENGG.</a>
+    <a href="#">MECHANICAL ENGG.</a>
+  </div>
+    <a href="#">Academic Calander</a>
+    <a href="#">Time Table</a>
+    <a href="#">Skill Cources</a>
+    <a href="#">Apprenticeship</a>
+    <a href="#">NCC/NSS </a>
+    <a href="#">Award</a>
+    <a href="#">Scholarship</a>
+    <a href="#">Exam</a>
+    <a href="#">Results</a>
+    <a href="#">Anti Ragging</a>
+    <a href="#">Student Helpline</a>
+    <a href="#">E Services</a>
+  </div>
+  <button class="dropdown-btn">Faculty
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-container">
+  <button class="dropdown-btn">Faculty
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-container">
+  <a href="#">Teaching Faculty</a>
+  <a href="#">Non Teaching Staffs</a>
+  </div>
+    <a href="#">Code Of Conduct</a>
+    <a href="#">Training Policy</a>>
+    <a href="#">Service Rules</a>>
+    <a href="#">HRMS</a>>
+    <a href="#">IQAC-Quality cell</a>>
+    <a href="#">E-Services</a>>
+  </div>
+  <button class="dropdown-btn">Admissions
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-container">
+    <a href="#">Open counseling</a>
+    <a href="#">B.Tech Prospectus 2022-2023</a>
+    <a href="#">B.Tech (LEET) Prospectus 2022-2023</a>
+    <a href="#">Key Dates</a>
+    <a href="#">Fees Structure</a>
+    <a href="#">Additional Query</a>
+  </div>
+  <button class="dropdown-btn">Media
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-container">
+  <button class="dropdown-btn">Photos
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-container">
+    <a href="#">India Mobile Congress 2022</a>
+    <a href="#">Labs</a>
+    <a href="#">Events</a>
+    <a href="#">hostel</a>
+  </div>
+    <a href="#">Videos</a>
+  </div>
+  <button class="dropdown-btn">Events/Activities
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-container">
+    <a href="#">India Mobile Congress 2022 </a>
+    <a href="#">Events </a>
+  </div>
+  <a href="#contact">Tenders</a>
+  <button class="dropdown-btn">News/Notices/Announcements
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-container">
+  <button class="dropdown-btn">Notices
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-container">
+    <a href="#">Scholarship</a>
+    <a href="#">Fees Submission</a>
+  </div>
+  <button class="dropdown-btn">Forms
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-container">
+    <a href="#">Admission Form</a>
+    <a href="#">Hostel Form</a>
+    <a href="#">Security Form</a>
+    <a href="#">Bus Pass</a>
+  </div>
+  </div>
   </div>
 </div>
   </header>

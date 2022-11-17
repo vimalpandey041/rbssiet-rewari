@@ -18,10 +18,47 @@ include("header.php");
         <div class="container-fluid pt-5 pd-0 text-center" >
         <h3 class="ani_tex">Glimpse of our Excellent Faculty </h3>
         </div>
-
+<div class="row mt-5 justify-content-center">
+    <div class="col-12 col-lg-3 mx-lg-5 my-5">
+        <div class="faculty-card">
+            <div class="faculty-img">
+                <img src="https://bit.ly/3WYtdND" alt="">
+                <h4>Priyadarshani Mam</h4>
+            </div>
+            <div class="faculty-content">
+               
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quos minima praesentium culpa repellendus earum! Veniam consequuntur doloremque voluptates repellat!</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 col-lg-3 mx-lg-5 my-5">
+        <div class="faculty-card">
+            <div class="faculty-img">
+                <img src="https://bit.ly/3WYtdND" alt="">
+                <h4>Sudesh Kumar Sir</h4>
+            </div>
+            <div class="faculty-content">
+                
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quos minima praesentium culpa repellendus earum! Veniam consequuntur doloremque voluptates repellat!</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 col-lg-3 my-5 mx-5">
+        <div class="faculty-card">
+            <div class="faculty-img">
+                <img src="https://bit.ly/3WYtdND" alt="">
+                <h4>Nagina Mam</h4>
+            </div>
+            <div class="faculty-content">
+               
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quos minima praesentium culpa repellendus earum! Veniam consequuntur doloremque voluptates repellat!</p>
+            </div>
+        </div>
+    </div>
+</div>
 
     <div class="row d-flex justify-content-center">
-        <div class="col-9 col-lg-3 px-5">
+        <div class="col-9 col-lg-3 mx-lg-5 mx-3">
         
        <div class="faculty_img">
             <img src="https://bit.ly/3WYtdND"  class=" rounded-circle " alt="">

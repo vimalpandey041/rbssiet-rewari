@@ -41,3 +41,68 @@
           background-position: 500%;
         }
       }
+
+      .faculty-card{
+        position: relative;
+        width: 400px;
+        height: 150px;
+        transition: 0.3s;
+        background-color: #fff;
+        padding: 30px 20px;
+        box-shadow: 5px 5px 5px 5px ;
+        border-radius: 23px;
+      }
+      .faculty-card:hover{
+        height: 250px;
+      }
+      .faculty-img{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+       position: relative;
+       height: 100%;
+       width: 100%;
+       z-index: 2;
+      }
+      .faculty-img img{
+        height: 120px;
+        width: 120px;
+        border: 2px solid black;
+        border-radius: 100%;
+        transform: translateY(-45px);
+      }
+      .faculty-content{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        opacity: 0;
+        transform: translateY(-100px);
+      }
+      .faculty-card:hover > .faculty-content{
+        opacity: 1;
+        transform: translateY(-100px);
+      }
+      .faculty-card:hover > .faculty-img img{
+        transform: translateY(-90px);
+      }
+      .faculty-card:hover > .faculty-img h4{
+        top: -90px;
+      }
+      .faculty-img h4{
+        font-size: 2rem;
+        font-weight: bold;
+        padding: 10px 0px;
+        position: relative;
+        top: -40px;
+      }
+      .faculty-content p{
+        text-align: justify;
+        padding: 10px 0px;
+      }
+      @media screen and(max-width:668px) {
+        .faculty-card{
+          width: 200px;
+        }
+      }

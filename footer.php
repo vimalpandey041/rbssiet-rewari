@@ -98,7 +98,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="owlcarousel/jquery.min.js"></script>
 <script src="owlcarousel/owl.carousel.min.js"></script>
-<script src="vimal.js"></script>  
+<script src="script.js"></script>  
 <script>
   window.addEventListener("scroll", function(){
     var header = document.querySelector("header");

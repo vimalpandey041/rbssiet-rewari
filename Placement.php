@@ -15,6 +15,16 @@ include("header.php");
             
         </div>
 
+        <div class="placement-card">
+            <div class="placement-top-bar">
+                
+            </div>
+            <div class="placement-img">
+                <img src="" alt="">
+            </div>
+
+        </div>
+
 <?php
-include("header.php");
+include("footer.php");
 ?>

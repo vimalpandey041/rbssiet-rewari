@@ -50,121 +50,7 @@ include("header.php");
 <span class="faculty_detail_4">Areas of Interest :<span class="faculty_detail_3">Digital Elec.</span></span>
     </div>
  </div> 
-</div>
-<div class="row my-2">
-<div class="col-2 align-items-center d-flex ">
-<div class="image image1 ">
-        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg"  class="rounded-circle border-white-5 shadow">
-      </div>
-</div>
- <div class="col-10">
- <div class="container shadow border px-5 py-5 rounded-3 image2" >
-<span class="faculty_detail_1"> Anil Yadav</span>
-<span><span class="faculty_detail_2">Head Of The Department</span></span>
-<span class="faculty_detail_4">Mobile Number :<span class="faculty_detail_3">9416240492</span></span>
-<span class="faculty_detail_4">Qualification :<span class="faculty_detail_3">M.Tech, B.Tech</span></span>
-<span class="faculty_detail_4">Areas of Interest :<span class="faculty_detail_3">Digital Elec.</span></span>
-    </div>
- </div> 
-</div>
-<div class="row my-2">
-<div class="col-2 align-items-center d-flex ">
-<div class="image image1 ">
-        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg"  class="rounded-circle border-white-5 shadow">
-      </div>
-</div>
- <div class="col-10">
- <div class="container shadow border px-5 py-5 rounded-3 image2" >
-<span class="faculty_detail_1"> Anil Yadav</span>
-<span><span class="faculty_detail_2">Head Of The Department</span></span>
-<span class="faculty_detail_4">Mobile Number :<span class="faculty_detail_3">9416240492</span></span>
-<span class="faculty_detail_4">Qualification :<span class="faculty_detail_3">M.Tech, B.Tech</span></span>
-<span class="faculty_detail_4">Areas of Interest :<span class="faculty_detail_3">Digital Elec.</span></span>
-    </div>
- </div> 
-</div>
-<div class="row my-2">
-<div class="col-2 align-items-center d-flex ">
-<div class="image image1 ">
-        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg"  class="rounded-circle border-white-5 shadow">
-      </div>
-</div>
- <div class="col-10">
- <div class="container shadow border px-5 py-5 rounded-3 image2" >
-<span class="faculty_detail_1"> Anil Yadav</span>
-<span><span class="faculty_detail_2">Head Of The Department</span></span>
-<span class="faculty_detail_4">Mobile Number :<span class="faculty_detail_3">9416240492</span></span>
-<span class="faculty_detail_4">Qualification :<span class="faculty_detail_3">M.Tech, B.Tech</span></span>
-<span class="faculty_detail_4">Areas of Interest :<span class="faculty_detail_3">Digital Elec.</span></span>
-    </div>
- </div> 
-</div>
-<div class="row my-2">
-<div class="col-2 align-items-center d-flex ">
-<div class="image image1 ">
-        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg"  class="rounded-circle border-white-5 shadow">
-      </div>
-</div>
- <div class="col-10">
- <div class="container shadow border px-5 py-5 rounded-3 image2" >
-<span class="faculty_detail_1"> Anil Yadav</span>
-<span><span class="faculty_detail_2">Head Of The Department</span></span>
-<span class="faculty_detail_4">Mobile Number :<span class="faculty_detail_3">9416240492</span></span>
-<span class="faculty_detail_4">Qualification :<span class="faculty_detail_3">M.Tech, B.Tech</span></span>
-<span class="faculty_detail_4">Areas of Interest :<span class="faculty_detail_3">Digital Elec.</span></span>
-    </div>
- </div> 
-</div>
-<div class="row my-2">
-<div class="col-2 align-items-center d-flex ">
-<div class="image image1 ">
-        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg"  class="rounded-circle border-white-5 shadow">
-      </div>
-</div>
- <div class="col-10">
- <div class="container shadow border px-5 py-5 rounded-3 image2" >
-<span class="faculty_detail_1"> Anil Yadav</span>
-<span><span class="faculty_detail_2">Head Of The Department</span></span>
-<span class="faculty_detail_4">Mobile Number :<span class="faculty_detail_3">9416240492</span></span>
-<span class="faculty_detail_4">Qualification :<span class="faculty_detail_3">M.Tech, B.Tech</span></span>
-<span class="faculty_detail_4">Areas of Interest :<span class="faculty_detail_3">Digital Elec.</span></span>
-    </div>
- </div> 
-</div>
-<div class="row my-2">
-<div class="col-2 align-items-center d-flex ">
-<div class="image image1 ">
-        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg"  class="rounded-circle border-white-5 shadow">
-      </div>
-</div>
- <div class="col-10">
- <div class="container shadow border px-5 py-5 rounded-3 image2" >
-<span class="faculty_detail_1"> Anil Yadav</span>
-<span><span class="faculty_detail_2">Head Of The Department</span></span>
-<span class="faculty_detail_4">Mobile Number :<span class="faculty_detail_3">9416240492</span></span>
-<span class="faculty_detail_4">Qualification :<span class="faculty_detail_3">M.Tech, B.Tech</span></span>
-<span class="faculty_detail_4">Areas of Interest :<span class="faculty_detail_3">Digital Elec.</span></span>
-    </div>
- </div> 
-</div>
-<div class="row my-2">
-<div class="col-2 align-items-center d-flex ">
-<div class="image image1 ">
-        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg"  class="rounded-circle border-white-5 shadow">
-      </div>
-</div>
- <div class="col-10">
- <div class="container shadow border px-5 py-5 rounded-3 image2" >
-<span class="faculty_detail_1"> Anil Yadav</span>
-<span><span class="faculty_detail_2">Head Of The Department</span></span>
-<span class="faculty_detail_4">Mobile Number :<span class="faculty_detail_3">9416240492</span></span>
-<span class="faculty_detail_4">Qualification :<span class="faculty_detail_3">M.Tech, B.Tech</span></span>
-<span class="faculty_detail_4">Areas of Interest :<span class="faculty_detail_3">Digital Elec.</span></span>
-    </div>
- </div> 
-</div>
-   </div>
-   
+</div> 
     
    <div class="container-fluid py-5">
    <div class="container">
@@ -252,7 +138,7 @@ include("header.php");
             <div class="card ">
               <div class="card-body text-center">
                 <div class="direc-img">
-                  <img src="./img/WhatsApp Image 2022-10-07 at 21.23.52 (8).jpeg"class="card-img img-fluid  " alt="" height="300px">
+                  <img src="./img/WhatsApp Image 2022-10-07 at 21.23.512 (8).jpeg"class="card-img img-fluid  " alt="" height="300px">
                 </div>
               </div>
             </div>

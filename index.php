@@ -114,8 +114,8 @@ include("header.php");
   </div>
   
   <div class="container-fluid my-5 px-3 px-sm-5">
-    <div class="row ">
-      <div class="col-md-6 bg-white px-sm-4  my-3">
+    <div class="row justify-content-center ">
+      <div class="col-md-11  col-lg-6 bg-white px-sm-4  my-3">
         <h2 class="h2 text-uppercase">About
           <span class="text-danger text-uppercase ">RBSSIET</span>
         </h2>
@@ -126,7 +126,7 @@ include("header.php");
           <button type="button" class="btn btn-danger py-2  px-4 my-3"> View More</button>
         </div>
       </div>
-      <div class="col-md-6 px-sm-4 my-3" >
+      <div class="col-md-11  col-lg-6 px-sm-4 my-3" >
         <h2 class="h2 text-uppercase">Director's
           <span class="text-danger text-uppercase ">Corner</span>
         </h2>
