@@ -15,14 +15,52 @@ include("header.php");
             
         </div>
 
-        <div class="placement-card">
+        <div class="row my-5">
+            <div class="col-lg-4 col-12 my-5 mx-5">
+            <div class="placement-card">
             <div class="placement-top-bar">
-                
+                <img src="./img/1.png" alt="">
+                <h3>Muskan Panwar</h3>
+                <span>B.tech</span>
             </div>
             <div class="placement-img">
-                <img src="" alt="">
+                <img src="./img/WhatsApp Image 2022-10-07 at 21.23.52 (8).jpeg" class="shadow" alt="">
             </div>
-
+            <div class="placement-content">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam explicabo officiis veritatis nesciunt. Suscipit, maiores sit </p>
+            </div>
+        </div>
+            </div>
+            <div class="col-lg-4 col-12 my-5 mx-5">
+            <div class="placement-card">
+            <div class="placement-top-bar">
+                <img src="./img/1.png" alt="">
+                <h3>Muskan Panwar</h3>
+                <span>B.tech</span>
+            </div>
+            <div class="placement-img">
+                <img src="./img/WhatsApp Image 2022-10-07 at 21.23.52 (8).jpeg" class="shadow" alt="">
+            </div>
+            <div class="placement-content">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam explicabo officiis veritatis nesciunt. Suscipit, maiores sit </p>
+            </div>
+        </div>
+            </div>
+            <div class="col-lg-4 col-12 my-5 mx-5">
+            <div class="placement-card">
+            <div class="placement-top-bar">
+                <img src="./img/1.png" alt="">
+                <h3>Muskan Panwar</h3>
+                <span>B.tech</span>
+            </div>
+            <div class="placement-img">
+                <img src="./img/WhatsApp Image 2022-10-07 at 21.23.52 (8).jpeg" class="shadow" alt="">
+            </div>
+            <div class="placement-content">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam explicabo officiis veritatis nesciunt. Suscipit, maiores sit </p>
+            </div>
+        </div>
+            </div>
         </div>
 <div class="row">
     <div class="col-5">
