@@ -15,6 +15,16 @@ include("header.php");
             
         </div>
 
+<div class="row">
+    <div class="col-5">
+        <div class="card tv_border ">
+ <h3>
+    Lorem ipsum dolor sit
+ </h3>
+        </div>
+    </div>
+</div>
+
 <?php
 include("footer.php");
 ?>
