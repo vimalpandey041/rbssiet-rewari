@@ -1,3 +1,16 @@
 .tv_border{
 background-color: green;
+height: 200px;
+width: 200px;
+border-radius: 25px 0px;
+
+}
+sub_tv_border{
+    display: flex;
+    align-items: baseline;
+    position: relative;
+    z-index: 22;
+height: 40px;
+width: 200px;
+    background-color: rgb(112, 50, 50);
 }

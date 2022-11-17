@@ -24,14 +24,21 @@ include("header.php");
             </div>
 
         </div>
+<div class="container ">
 <div class="row">
-    <div class="col-5">
-        <div class="card tv_border ">
+    <div class="col-5 p-5">
+<div class=" tv_border ">
  <h3>
     Lorem ipsum dolor sit
+
  </h3>
+ <div class="sub_tv_border">
+<h3>ghjjk</h3>
+ </div>
+</div>
         </div>
     </div>
+</div>
 </div>
 
 <?php
