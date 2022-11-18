@@ -65,29 +65,51 @@ include("header.php");
 
 <div class="container">
     <div class="row">
-        <div class="col-5">
+        <div class="col-4">
             <div class="boxm">
                 <div class="container">
                 <img src="img/student.png" class="box-im">
                 <span style="color: aliceblue; font-size:15px;">50%</span>
-                <span style="color: white; font-size:30px ; ">
+                <span style="color: white; font-size:20px ;  ">
                     Male
                 </span>
                 </div>
-                <hr style="color:white; width:400px">
+                <hr style="color:white; width:214px;margin-left: 17px;">
                 <div class="container">
                 <img src="img/student (2).png" class="box-im">
-                <span style="color: aliceblue; font-size:15px;">50%</span>
-                <span style="color: white; font-size:30px ;padding-left:90px; ">
-                    Female
+                <span style="color: aliceblue; font-size:15px;">50% </span>
+                <span style="color: white; font-size:20px ; ">
+                   Female 
                 </span>
                 </div>
-
-        
             </div>
-            <div class=" overm"></div>
-            
-        </div>
+            <div class="overm"></div>
+            </div>
+                <div class="col-4">
+                
+                    <div class="container ps-5">
+                    <div id="box1">
+                         </div>
+                    <div id="box2"></div>
+                    <div id="box3"></div>
+                    <div id="box4"></div>
+                    
+                    </div>
+                    
+            </div>     
+                <div class="col-4">
+                
+                    <div class="container ps-5">
+                    <div id="box5">
+                         </div>
+                    <div id="box6"></div>
+                    <div id="box7"></div>
+                    
+                    
+                    </div>
+                    
+            </div>     
+        
     </div>
 </div>
 <?php
