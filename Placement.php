@@ -67,11 +67,7 @@ include("header.php");
     <div class="row">
         <div class="col-5">
             <div class="boxm">
-<<<<<<< HEAD
                 
-=======
-                <h3>kjdkja</h3>
->>>>>>> e05e7f67453267ca3a9d2ab06fc92d9572b0f11c
             </div>
             <div class=" overm"></div>
             

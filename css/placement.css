@@ -93,7 +93,6 @@ transform: translateY(-180px);
     }
 }
     
-}
 .boxm{
     background-color: rgb(42, 20, 20);
     height: 300px;
@@ -109,5 +108,3 @@ transform: translateY(-180px);
     border-radius: 0px 0px 20px 0px;
     border: 4px solid rgb(42, 20, 20);
 }
-.boxm h3{
-    font-size: 55px;
