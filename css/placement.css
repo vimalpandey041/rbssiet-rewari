@@ -94,7 +94,7 @@ transform: translateY(-180px);
 }
     
 .boxm{
-    background-color: rgb(42, 20, 20);
+    background-color: rgb(24 77 79);
     height: 300px;
     width: 250px;
     border-radius: 20px 0px 20px 0px;
@@ -106,7 +106,8 @@ transform: translateY(-180px);
     z-index: 442882;
     transform: translateY(-50px);
     border-radius: 0px 0px 20px 0px;
-    border: 4px solid rgb(42, 20, 20);
+    background-color: #9795EF
+    
 }
 .industry-data{
     display: flex;
@@ -146,7 +147,6 @@ height: 70px;
 width:70px;
 margin: 20px;
 }
-<<<<<<< HEAD
 #box1{ margin-top: 10px;
     height:60px;
     width:500px;
@@ -216,5 +216,3 @@ margin: 20px;
 }
     
 
-=======
->>>>>>> 6b59ade91cc646801604d70c92317e4cbd1410c0

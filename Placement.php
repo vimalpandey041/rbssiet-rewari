@@ -63,9 +63,9 @@ include("header.php");
             </div>
         </div>
 
-<div class="container">
-    <div class="row">
-        <div class="col-4">
+<div class="container-fluid  m-0" style="background-color:black" >
+    <div class="row ">
+        <div class="col-4 py-4">
             <div class="boxm">
                 <div class="container">
                 <img src="img/student.png" class="box-im">
@@ -85,7 +85,7 @@ include("header.php");
             </div>
             <div class="overm"></div>
             </div>
-                <div class="col-4">
+                <div class="col-4 py-3">
                 
                     <div class="container ps-5">
                     <div id="box1">
@@ -97,7 +97,7 @@ include("header.php");
                     </div>
                     
             </div>     
-                <div class="col-4">
+                <div class="col-4 py-3">
                 
                     <div class="container ps-5">
                     <div id="box5">
