@@ -67,7 +67,23 @@ include("header.php");
     <div class="row">
         <div class="col-5">
             <div class="boxm">
-                
+                <div class="container">
+                <img src="img/student.png" class="box-im">
+                <span style="color: aliceblue; font-size:15px;">50%</span>
+                <span style="color: white; font-size:30px ; ">
+                    Male
+                </span>
+                </div>
+                <hr style="color:white; width:400px">
+                <div class="container">
+                <img src="img/student (2).png" class="box-im">
+                <span style="color: aliceblue; font-size:15px;">50%</span>
+                <span style="color: white; font-size:30px ;padding-left:90px; ">
+                    Female
+                </span>
+                </div>
+
+        
             </div>
             <div class=" overm"></div>
             

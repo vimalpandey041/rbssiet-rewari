@@ -108,3 +108,8 @@ transform: translateY(-180px);
     border-radius: 0px 0px 20px 0px;
     border: 4px solid rgb(42, 20, 20);
 }
+.box-im{
+height: 70px;
+width:70px;
+margin: 20px;
+}
