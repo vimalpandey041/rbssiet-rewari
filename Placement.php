@@ -21,7 +21,7 @@ include("header.php");
             <div class="placement-top-bar">
                 <img src="./img/1.png" alt="">
                 <h3>Muskan Panwar</h3>
-                <span>B.tech</span>
+                <span>B.tech (CSE)</span>
             </div>
             <div class="placement-img">
                 <img src="./img/WhatsApp Image 2022-10-07 at 21.23.52 (8).jpeg" class="shadow" alt="">
@@ -36,7 +36,7 @@ include("header.php");
             <div class="placement-top-bar">
                 <img src="./img/1.png" alt="">
                 <h3>Muskan Panwar</h3>
-                <span>B.tech</span>
+                <span>B.tech (CSE)</span>
             </div>
             <div class="placement-img">
                 <img src="./img/WhatsApp Image 2022-10-07 at 21.23.52 (8).jpeg" class="shadow" alt="">
@@ -51,7 +51,7 @@ include("header.php");
             <div class="placement-top-bar">
                 <img src="./img/1.png" alt="">
                 <h3>Muskan Panwar</h3>
-                <span>B.tech</span>
+                <span>B.tech (CSE)</span>
             </div>
             <div class="placement-img">
                 <img src="./img/WhatsApp Image 2022-10-07 at 21.23.52 (8).jpeg" class="shadow" alt="">
@@ -67,7 +67,11 @@ include("header.php");
     <div class="row">
         <div class="col-5">
             <div class="boxm">
+<<<<<<< HEAD
                 
+=======
+                <h3>kjdkja</h3>
+>>>>>>> e05e7f67453267ca3a9d2ab06fc92d9572b0f11c
             </div>
             <div class=" overm"></div>
             
