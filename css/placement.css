@@ -141,3 +141,8 @@ height: 700px;
 .industry-detail-img-icon .id-icon-1{
     transform: translate(2px,45px);
     }
+.box-im{
+height: 70px;
+width:70px;
+margin: 20px;
+}
