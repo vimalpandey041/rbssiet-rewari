@@ -62,23 +62,17 @@ include("header.php");
         </div>
             </div>
         </div>
-<div class="container ">
-<div class="row">
-    <div class="col-5 p-5">
-<div class=" tv_border ">
- <h3>
-    Lorem ipsum dolor sit
 
- </h3>
- <div class="sub_tv_border">
-<h3>ghjjk</h3>
- </div>
-</div>
+<div class="container">
+    <div class="row">
+        <div class="col-5">
+            <div class="boxm">
+                <h3 class="fine">kjdkja</h3>
+            </div>
+            <div class="boxo"></div>
         </div>
     </div>
 </div>
-</div>
-
 <?php
 include("footer.php");
 ?>
