@@ -91,12 +91,20 @@ transform: translateY(-180px);
     .placement-content p{
     font-size:13px ;
     }
+}
     
 .boxm{
-    background-color: rgb(72, 26, 26);
+    background-color: rgb(42, 20, 20);
     height: 300px;
-    width: 200px;
+    width: 250px;
+    border-radius: 20px 0px 20px 0px;
 }
-.fine{
-    font-family: cursive;
+.overm{
+    height: 50px;
+    width: 250px;
+    background-color: rgb(195, 174, 188);
+    z-index: 442882;
+    transform: translateY(-50px);
+    border-radius: 0px 0px 20px 0px;
+    border: 4px solid rgb(42, 20, 20);
 }
