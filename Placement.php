@@ -16,7 +16,7 @@ include("header.php");
         </div>
 
         <div class="row my-5">
-            <div class="col-lg-4 col-12 my-5 mx-5">
+            <div class="col-lg-4 col-12 ">
             <div class="placement-card">
             <div class="placement-top-bar">
                 <img src="./img/1.png" alt="">
@@ -31,7 +31,7 @@ include("header.php");
             </div>
         </div>
             </div>
-            <div class="col-lg-4 col-12 my-5 mx-5">
+            <div class="col-lg-4 col-12 ">
             <div class="placement-card">
             <div class="placement-top-bar">
                 <img src="./img/1.png" alt="">
@@ -46,7 +46,7 @@ include("header.php");
             </div>
         </div>
             </div>
-            <div class="col-lg-4 col-12 my-5 mx-5">
+            <div class="col-lg-4 col-12 ">
             <div class="placement-card">
             <div class="placement-top-bar">
                 <img src="./img/1.png" alt="">
@@ -112,6 +112,28 @@ include("header.php");
         
     </div>
 </div>
+    <div class="industry-data">
+    <div class="industry-detail">
+    <div class="industry-detail-img">
+        <img src="./img/placement design 1.png" alt="">
+    </div>
+    <div class="industry-detail-img-icon text-white">
+    <i class="fa-solid fa-house fa-2x "></i>
+    <i class="fa-solid fa-house fa-2x id-icon-1 "></i>
+    <i class="fa-solid fa-house fa-2x "></i>
+    <i class="fa-solid fa-house fa-2x id-icon-1 "></i>
+    <i class="fa-solid fa-house fa-2x "></i>
+    <i class="fa-solid fa-house fa-2x id-icon-1 "></i>
+    <i class="fa-solid fa-house fa-2x "></i>
+    <i class="fa-solid fa-house fa-2x id-icon-1 "></i>
+    <i class="fa-solid fa-house fa-2x "></i>
+    <i class="fa-solid fa-house fa-2x id-icon-1 "></i>
+    <i class="fa-solid fa-house fa-2x "></i>
+    <i class="fa-solid fa-house fa-2x id-icon-1 "></i>
+    <i class="fa-solid fa-house fa-2x "></i>
+    </div>
+</div>
+    </div>
 <?php
 include("footer.php");
 ?>
