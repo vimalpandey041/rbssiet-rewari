@@ -92,11 +92,11 @@ transform: translateY(-180px);
     font-size:13px ;
     }
     
+}
 .boxm{
     background-color: rgb(72, 26, 26);
     height: 300px;
     width: 200px;
 }
-.fine{
-    font-family: cursive;
-}
+.boxm h3{
+    font-size: 55px;
