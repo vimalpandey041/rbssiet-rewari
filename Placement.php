@@ -110,8 +110,65 @@ include("header.php");
     <i class="fa-solid fa-house fa-2x id-icon-1 "></i>
     <i class="fa-solid fa-house fa-2x "></i>
     </div>
+    <div class="industry-detail-name-block-upper">
+    <div class="industry-detail-name id-name-1" id="id-heading-1">
+    <h4>55.3%</h4>
+    <span>Technology, Media</span>
+    </div>
+    <div class="industry-detail-name id-name-1"id="id-heading-2">
+    <h4>55.3%</h4>
+    <span>Technology, Media</span>
+    </div>
+    <div class="industry-detail-name id-name-1"id="id-heading-3">
+    <h4>55.3%</h4>
+    <span>Technology, Media</span>
+    </div>
+    <div class="industry-detail-name id-name-1" id="id-heading-4">
+    <h4>55.3%</h4>
+    <span>Technology, Media</span>
+    </div>
+    <div class="industry-detail-name id-name-1"id="id-heading-5">
+    <h4>55.3%</h4>
+    <span>Technology, Media</span>
+    </div>
+    <div class="industry-detail-name id-name-1"id="id-heading-6">
+    <h4>55.3%</h4>
+    <span>Technology, Media</span>
+    </div>
+    </div>
+    <div class="industry-detail-name-block-bottom">
+    <div class="industry-detail-name id-name-2"id="id-heading-7">
+    <h4>55.3%</h4>
+    <span>Technology, Media</span>
+    </div>
+    <div class="industry-detail-name id-name-2"id="id-heading-8">
+    <h4>55.3%</h4>
+    <span>Technology, Media</span>
+    </div>
+    <div class="industry-detail-name id-name-2"id="id-heading-9">
+    <h4>55.3%</h4>
+    <span>Technology, Media</span>
+    </div>
+    <div class="industry-detail-name id-name-2"id="id-heading-10">
+    <h4>55.3%</h4>
+    <span>Technology, Media</span>
+    </div>
+    <div class="industry-detail-name id-name-2"id="id-heading-11">
+    <h4>55.3%</h4>
+    <span>Technology, Media</span>
+    </div>
+    <div class="industry-detail-name id-name-2"id="id-heading-12">
+    <h4>55.3%</h4>
+    <span>Technology, Media</span>
+    </div>
+    <div class="industry-detail-name id-name-2"id="id-heading-13">
+    <h4>55.3%</h4>
+    <span>Technology, Media</span>
+    </div>
+    </div>
 </div>
     </div>
+    <img src="./img/Screenshot_20221116_033616.png" alt="">
 <?php
 include("footer.php");
 ?>
