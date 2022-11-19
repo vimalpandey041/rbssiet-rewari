@@ -116,7 +116,7 @@ include("header.php");
     <div class="industry-data">
     <div class="industry-detail">
     <div class="industry-detail-img">
-        <img src="./img/placement design 1.png" alt="">
+        <img src="./img/placement design 1.png" class="" alt="">
     </div>
     <div class="industry-detail-img-icon text-white">
     <i class="fa-solid fa-house fa-2x "></i>
@@ -190,8 +190,7 @@ include("header.php");
     </div>
     </div>
 </div>
-    </div>
-    <img src="./img/Screenshot_20221116_033616.png" alt="">
+</div>
 <?php
 include("footer.php");
 ?>
