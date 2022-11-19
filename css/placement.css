@@ -268,3 +268,71 @@ height: 70px;
 width:70px;
 margin: 20px;
 }
+
+#box1{ margin-top: 10px;
+    height:60px;
+    width:500px;
+    border-radius: 30px;
+    background-color: pink;
+    border:2px solid rgb(155, 140, 140);
+    box-shadow: 10px 10px 10px;
+    margin-left: 30px;
+
+
+}
+#box2{margin-top: 20px;
+    margin-left: 30px;
+    background-color: aqua;
+    height:60px;
+    width:400px;
+    border-radius: 30px;
+    border:2px solid rgb(155, 140, 140);
+    box-shadow: 10px 10px 10px;
+}
+#box3{background-color: rgb(202, 209, 72);
+    margin-top: 20px;
+    height:60px;
+    width:250px;
+    border:2px solid rgb(155, 140, 140);
+    margin-left: 30px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px;
+}
+#box4{background-color:crimson;
+    margin-top: 20px;
+    height:60px;
+    width:180px;
+    border-radius: 30px;
+    border:2px solid rgb(155, 140, 140);
+    margin-left: 30px;
+    box-shadow: 10px 10px 10px;
+}
+#box5{ margin-top: 10px;
+    height:60px;
+    width:200px;
+    border-radius: 30px;
+
+    background-color: rgb(167, 163, 204);
+    border:2px solid rgb(75, 20, 82);
+    box-shadow: 10px 10px 10px;
+    margin-left: 180px;    
+
+}
+#box6{margin-top: 20px;
+    margin-left: 180px;
+        background-color: rgb(205, 111, 126);
+    height:60px;
+    width:160px;
+    border-radius: 30px;
+    border:2px solid rgb(155, 140, 140);
+    box-shadow: 10px 10px 10px;
+}
+#box7{background-color: rgb(127, 216, 194);
+    margin-top: 20px;
+    height:60px;
+    width:120px;
+    border:2px solid rgb(152, 155, 140);
+    margin-left: 180px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px;
+}
