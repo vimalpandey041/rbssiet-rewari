@@ -119,19 +119,19 @@ include("header.php");
         <img src="./img/placement design 1.png" class="" alt="">
     </div>
     <div class="industry-detail-img-icon text-white">
-    <i class="fa-solid fa-house fa-2x "></i>
-    <i class="fa-solid fa-house fa-2x id-icon-1 "></i>
-    <i class="fa-solid fa-house fa-2x "></i>
-    <i class="fa-solid fa-house fa-2x id-icon-1 "></i>
-    <i class="fa-solid fa-house fa-2x "></i>
-    <i class="fa-solid fa-house fa-2x id-icon-1 "></i>
-    <i class="fa-solid fa-house fa-2x "></i>
-    <i class="fa-solid fa-house fa-2x id-icon-1 "></i>
-    <i class="fa-solid fa-house fa-2x "></i>
-    <i class="fa-solid fa-house fa-2x id-icon-1 "></i>
-    <i class="fa-solid fa-house fa-2x "></i>
-    <i class="fa-solid fa-house fa-2x id-icon-1 "></i>
-    <i class="fa-solid fa-house fa-2x "></i>
+    <i class="fa-solid fa-house fa-2x   "></i>
+    <i class="fa-solid fa-house fa-2x   id-icon-1 "></i>
+    <i class="fa-solid fa-house fa-2x   "></i>
+    <i class="fa-solid fa-house fa-2x   id-icon-1 "></i>
+    <i class="fa-solid fa-house fa-2x   "></i>
+    <i class="fa-solid fa-house fa-2x   id-icon-1 "></i>
+    <i class="fa-solid fa-house fa-2x   "></i>
+    <i class="fa-solid fa-house fa-2x   id-icon-1 "></i>
+    <i class="fa-solid fa-house fa-2x   "></i>
+    <i class="fa-solid fa-house fa-2x   id-icon-1 "></i>
+    <i class="fa-solid fa-house fa-2x   "></i>
+    <i class="fa-solid fa-house fa-2x   id-icon-1 "></i>
+    <i class="fa-solid fa-house fa-2x   "></i>
     </div>
     <div class="industry-detail-name-block-upper">
     <div class="industry-detail-name id-name-1" id="id-heading-1">

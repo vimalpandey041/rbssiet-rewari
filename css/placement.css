@@ -111,6 +111,7 @@ transform: translateY(-180px);
 .industry-data{
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 .industry-detail{
 height: 480px;
@@ -219,6 +220,48 @@ tra
 }
 #id-heading-13 h4{
     color: #a64128;
+}
+
+@media screen and (max-width:668px) {
+.industry-detail{
+                height: 100px;
+                width: 90%;
+    }
+ .industry-detail-img{
+                 margin: 86px 10px;
+                transform: translateY(107px);
+        }
+ .industry-detail-img-icon i{
+                 padding: 20px 5.2px;
+                 transform: translate(2px,286px);
+            }
+.industry-detail-img-icon .id-icon-1{
+                transform: translate(3px,300px);
+            }
+ .industry-detail-name-block-upper{
+                transform: translate(-3px,100px);
+            }
+.industry-detail-name-block-bottom{
+                transform: translate(-3px,-120px);
+            }
+ .id-name-1{
+                transform: translate(6px,-320px);
+                padding: 0px 20px;
+            }
+.id-name-2{
+                transform: translate(0px,-65px);
+                padding: 0px 20px;
+                text-align: center;
+            }
+ .industry-detail-name h4{
+                color: #fff;
+                font-weight: 700;
+                font-size: 32px;
+            }
+.industry-detail-name span{
+                color: rgb(0, 0, 0);
+                font-size: 12px;
+            }
 }
 .box-im{
 height: 70px;
