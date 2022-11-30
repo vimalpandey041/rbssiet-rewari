@@ -93,22 +93,35 @@ include("header.php");
 </div>
 <!-- Carousel wrapper -->
 
-  <div class="container-fluid bg-danger ">
+  <div class="container-fluid py-0 bg-danger">
     <div class="row">
-      <div class="col-sm-2 bg-warning justify-content-center align-items-center d-flex" style="z-index: 999;">
+      <div class="col-sm-2 bg-warning justify-content-center align-items-center d-flex py-0 " style="z-index: 999;">
         <h4>Announcement </h4>
         
       </div>
-      <div class="col-sm-10 text-white h5 py-0 d-flex align-items-center justify-content-center">
+      <!-- <div class="col-sm-10 text-white h5 py-0 px-0 d-flex align-items-center justify-content-center">
         <div class="marquee-w">
           <div class="marquee">
               <span>Admissions open for all respective Branches</span>
-          </div>
-          <div class="marquee marquee2">
-              <span>Apply soon to be a part of ongoing counselling process and avail your seat now. </span>
+              <span>Admissions open for all respective Branches</span>
           </div>
           
       </div>
+      </div> -->
+      <div class="col-sm-10 text-white h5 py-0 px-0 d-flex align-items-center justify-content-center ">
+      <marquee class="news-slider-new-div" width="100%" behavior="scroll" direction="left" scrollamount="12" onmouseover="this.stop();" onmouseout="this.start();">
+         <div class="news-slider-new">
+         <p class="px-3 py-1"> <a href="#" class="text-decoration-none  h6 text-white ">Registration open for PMS and NPS scholarships for the sessioin 2022-23</a></p>
+         <span>||</span>
+          <p class="px-3 py-1"> <a href="#" class="text-decoration-none  h6 text-white ">Fee Notice for 4th, 6th and 8th semester students.</a></p>
+          <span>||</span>
+          <p class="px-3 py-1"> <a href="#" class="text-decoration-none  h6 text-white ">Notice regarding offline classes for next semester</a></p>
+          <span>||</span>
+          <p class="px-3 py-1"> <a href="#" class="text-decoration-none  h6 text-white ">Advertisement for Empanelment of Guest faculty</a></p>
+          <span>||</span>
+          <p class="px-3 py-1"> <a href="#" class="text-decoration-none  h6 text-white ">GUIDELINES FOR AICTE - POST GRADUATE (PG) SCHOLARSHIP SCHEME 2021-22</a></p>
+         </div>
+            </marquee>
       </div>
     </div>
   </div>

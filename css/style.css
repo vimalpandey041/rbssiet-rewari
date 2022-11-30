@@ -340,96 +340,7 @@ header .dropdown {
     text-decoration: underline;
   }
 
-  .marquee-w {
-    position: relative;
-    display: block;
-    width: 100%;
-    height: 24px;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    overflow: hidden;
-}
-.marquee {
-    position: absolute;
-    display: block;
-    margin: auto auto;
-    white-space: nowrap;
-    overflow: hidden;
-    min-width: 100%;
-    height: 100%;
-}
-.marquee span {
-    display: inline-block;  
-    padding-left: 100%;
-    text-align: center;
-    font-weight: 100;
-    -webkit-text-stroke: 1px #f0d2d2;
-    white-space: nowrap;
-    min-width: 100%;
-    height: 100%;
-    line-height: 25px;
-    font-size: 20px;
-    animation: marquee 6s linear infinite;
-}
-
-.marquee2 span {
-    animation-delay: 6s;
-} 
-@keyframes marquee {
-    0% {
-        transform: translate(0, 0);
-    }
-    100% {
-        transform: translate(-100%, 0);
-    }
-}
-  .marquee-w-1 {
-    position: relative;
-    display: block;
-    width: 100%;
-    height: 24px;
-    top: 50%;
-    left: 50%;
-    transform:translateY(-100%)
-    overflow: hidden;
-}
-.marquee-1 {
-    position: absolute;
-    display: block;
-    margin: auto auto;
-    white-space: nowrap;
-    overflow: hidden;
-    min-width: 100%;
-    height: 100%;
-}
-.marquee-1 span {
-    display: inline-block;  
-    padding-left: 100%;
-    text-align: center;
-    font-weight: 100;
-    -webkit-text-stroke: 1px #f0d2d2;
-    white-space: nowrap;
-    min-width: 100%;
-    height: 100%;
-    line-height: 25px;
-    font-size: 20px;
-    animation: marquee 10s linear infinite;
-}
-.marquee2-1 span {
-    animation-delay: 3.5s;
-}
-.marquee3 span {
-    animation-delay: 3.5s;
-}
-@keyframes marquee-1 {
-    0% {
-        transform: translateY(0, 0);
-    }
-    100% {
-        transform: translateY(-100%);
-    }
-}
+  
 /* swiper js */
 
 .swiper {
@@ -675,4 +586,112 @@ font-weight: 600;
   .fa-caret-down {
     float: right;
     padding-right: 8px;
+  }
+
+
+  /* marquee tool start */
+  .marquee-w {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 24px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: hidden;
+}
+.marquee {
+    position: absolute;
+    display: block;
+    margin: auto auto;
+    white-space: nowrap;
+    overflow: hidden;
+    min-width: 100%;
+    height: 100%;
+}
+.marquee span {
+    display: inline-block;  
+    padding-left: 100%;
+    text-align: center;
+    font-weight: 100;
+    -webkit-text-stroke: 1px #f0d2d2;
+    white-space: nowrap;
+    min-width: 100%;
+    height: 100%;
+    line-height: 25px;
+    font-size: 20px;
+    animation: marquee 6s linear infinite;
+}
+
+.marquee2 span {
+    animation-delay: 6s;
+} 
+@keyframes marquee {
+    0% {
+        transform: translate(0, 0);
+    }
+    100% {
+        transform: translate(-100%, 0);
+    }
+}
+  .marquee-w-1 {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 24px;
+    top: 50%;
+    left: 50%;
+    transform:translateY(-100%)
+    overflow: hidden;
+}
+.marquee-1 {
+    position: absolute;
+    display: block;
+    margin: auto auto;
+    white-space: nowrap;
+    overflow: hidden;
+    min-width: 100%;
+    height: 100%;
+}
+.marquee-1 span {
+    display: inline-block;  
+    padding-left: 100%;
+    text-align: center;
+    font-weight: 100;
+    -webkit-text-stroke: 1px #f0d2d2;
+    white-space: nowrap;
+    min-width: 100%;
+    height: 100%;
+    line-height: 25px;
+    font-size: 20px;
+    animation: marquee 10s linear infinite;
+}
+.marquee2-1 span {
+    animation-delay: 3.5s;
+}
+.marquee3 span {
+    animation-delay: 3.5s;
+}
+@keyframes marquee-1 {
+    0% {
+        transform: translateY(0, 0);
+    }
+    100% {
+        transform: translateY(-100%);
+    }
+}
+  /* marquee tool end*/
+  
+  .news-slider-new{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .news-slider-new p{
+    padding: 0px;
+    margin: 0px;
+  }
+  .news-slider-new-div{
+    display: flex;
+    align-items: center;
   }
