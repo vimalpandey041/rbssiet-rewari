@@ -36,3 +36,12 @@ for (i = 0; i < dropdown.length; i++) {
     }
   });
 }
+
+
+// light box js start 
+lightbox.option({
+  'resizeDuration': 200,
+  'maxWidth': 100,
+  'wrapAround': true,
+
+})

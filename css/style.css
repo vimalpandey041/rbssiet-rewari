@@ -83,7 +83,6 @@ header{
 }
 header .logo{
   margin-left: 50px;
-  width: 80px;
   position:relative;
   font-weight: 700;
   color: rgb(8, 6, 61);
@@ -93,6 +92,9 @@ header .logo{
   letter-spacing: 2px;
   transition: 0.6s;
 
+}
+header .logo img{
+  width: 90px;
 }
 header .menu-font{
   font-size: 14px;
@@ -141,6 +143,46 @@ header.sticky{
 header.sticky .logo{
   color: rgb(255, 255, 255);
   margin-left: 50px
+}
+header .menu-font{
+  color: rgb(207, 203, 203);
+}
+header .menu-font:hover{
+  color: rgb(255, 255, 255);
+}
+header .dropdown-item{
+  background-color: rgb(252, 252, 252);
+  color: rgb(2, 2, 36);
+  border-radius: 9px;
+  margin: 0px 0px;
+}
+header .dropdown-item:hover{
+  background-color: rgb(204, 189, 189);
+  color: #000;
+  border-radius: 9px;
+  margin: 0px 0px;
+}
+header .dropdown-menu{
+  border: 0px;
+  margin-top: 40px;
+  background-color: rgb(255, 255, 255);
+}
+header.sticky .dropdown-item{
+  background-color: rgb(252, 252, 252);
+  color: blue;
+  border-radius: 9px;
+  margin: 0px 0px;
+}
+header.sticky .dropdown-item:hover{
+  background-color: rgb(204, 189, 189);
+  color: #000;
+  border-radius: 9px;
+  margin: 0px 0px;
+}
+header.sticky .dropdown-menu{
+  border: 0px;
+  margin-top: 40px;
+  background-color: rgb(255, 255, 255);
 }
 header.sticky ul{
   color: #ececec;
@@ -378,7 +420,10 @@ header .dropdown {
   width: 200px;
 }
 
-@media screen and (max-width: 668px) {
+@media screen and (max-width: 640px) {
+  .heading-1 h4{
+    font-size: 10px;
+  }
   .service__faq__wrapper__title {
     font-size: 20px;
   }
@@ -387,7 +432,7 @@ header .dropdown {
     height: 40px;
     margin: 16px 0;
   }
-  .ye h4 {
+  .ye h4 {                
     font-size: 12px;
   }
   .service__faq {
@@ -399,8 +444,11 @@ header .dropdown {
     padding: 5px 10px;
   }
   header .logo{
-    padding-top: 10px;
-    width: 50px;
+    padding: 1px 0px;
+    margin-left:0px ;
+  }
+  header .logo img{
+   width: 50px;
   }
   header h3{
     color: #ffffff;
@@ -422,11 +470,14 @@ header .dropdown {
     background-color: rgb(58, 12, 10);
   }
   header.sticky .logo{
-    padding-top: 10px;
+    padding: 1px 0px;
+    margin-left:0px ;
+  }
+  header.sticky .logo img{
     width: 50px;
   }
   header.sticky .bars{
-    color: white;
+    color: rgb(255, 255, 255);
   }
   header .bars{
     color:#fcfbff;
@@ -439,7 +490,7 @@ header .dropdown {
   }
   .img1 {
     width: 20px;
-    transition: all 0.3s;
+    transition: all 0.3s;            
     cursor: pointer;
   }
   
@@ -695,3 +746,47 @@ font-weight: 600;
     display: flex;
     align-items: center;
   }
+  .heading-1 h4{
+    font-size: 28px;
+  
+@media screen and (max-width: 1050px) {
+    .heading-1 h4{
+      font-size: 18px;
+    }
+  }
+
+/* light box start */
+.dropdown-menu li {
+  position: relative;
+  }
+  .dropdown-menu .dropdown-submenu {
+  display: none;
+  position: absolute;
+  left: 100%;
+  top: -7px;
+  }
+  .dropdown-menu .dropdown-submenu-left {
+  right: 100%;
+  left: auto;
+  }
+  .dropdown-menu > li:hover > .dropdown-submenu {
+  display: block;
+  }
+
+  .all-text-justify{
+    text-align: justify;
+  }
+/* light box end */
+
+/* route box start*/
+.route-box{
+  height: 300px;
+  border: 2px solid black;
+  background-color: red;
+  width: 100%;
+}
+/* route box end*/
+
+.card-h2{
+  height: 300px;
+}
