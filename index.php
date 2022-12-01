@@ -93,22 +93,35 @@ include("header.php");
 </div>
 <!-- Carousel wrapper -->
 
-  <div class="container-fluid bg-danger ">
+  <div class="container-fluid py-0 bg-danger">
     <div class="row">
-      <div class="col-sm-2 bg-warning justify-content-center align-items-center d-flex" style="z-index: 999;">
+      <div class="col-sm-2 bg-warning justify-content-center align-items-center heading-1 d-flex py-0 " style="z-index: 999;">
         <h4>Announcement </h4>
         
       </div>
-      <div class="col-sm-10 text-white h5 py-0 d-flex align-items-center justify-content-center">
+      <!-- <div class="col-sm-10 text-white h5 py-0 px-0 d-flex align-items-center justify-content-center">
         <div class="marquee-w">
           <div class="marquee">
               <span>Admissions open for all respective Branches</span>
-          </div>
-          <div class="marquee marquee2">
-              <span>Apply soon to be a part of ongoing counselling process and avail your seat now. </span>
+              <span>Admissions open for all respective Branches</span>
           </div>
           
       </div>
+      </div> -->
+      <div class="col-sm-10 text-white h5 py-0 px-0 d-flex align-items-center justify-content-center ">
+      <marquee class="news-slider-new-div" width="100%" behavior="scroll" direction="left" scrollamount="9" onmouseover="this.stop();" onmouseout="this.start();">
+         <div class="news-slider-new">
+         <p class="px-3 py-0"> <a href="#" class="text-decoration-none  h6 text-white ">Registration open for PMS and NPS scholarships for the sessioin 2022-23</a></p>
+         <span>||</span>
+          <p class="px-3 py-0"> <a href="#" class="text-decoration-none  h6 text-white ">Fee Notice for 4th, 6th and 8th semester students.</a></p>
+          <span>||</span>
+          <p class="px-3 py-0"> <a href="#" class="text-decoration-none  h6 text-white ">Notice regarding offline classes for next semester</a></p>
+          <span>||</span>
+          <p class="px-3 py-0"> <a href="#" class="text-decoration-none  h6 text-white ">Advertisement for Empanelment of Guest faculty</a></p>
+          <span>||</span>
+          <p class="px-3 py-0"> <a href="#" class="text-decoration-none  h6 text-white ">GUIDELINES FOR AICTE - POST GRADUATE (PG) SCHOLARSHIP SCHEME 2021-22</a></p>
+         </div>
+            </marquee>
       </div>
     </div>
   </div>
@@ -139,6 +152,9 @@ include("header.php");
                 <div class="direc-img image_popup ">
                   <img src="./img/51.png" class="card-img img-fluid  " alt="">
                 </div>
+              </div>
+              <div class="card-footer text-center ">
+                <span>D.K. Rawat</span>
               </div>
             </div>
           </div>
@@ -559,14 +575,14 @@ Haryana
 </div>
  </div>
   <div class="container-fluid">
-    <div class="row py-5 px-md-2  flex flex-column flex-md-row">
+    <div class="row py-4 px-md-2  flex flex-column flex-md-row">
       <div class="col col-md-6 my-5 my-md-1">
         <h2 class=" text-uppercase main_title">Let's Have a
           <span class="text-danger text-uppercase ">campus tour!</span>
         </h2>
         <div class="double-line-bottom-theme-colored-2"></div>
         <div class="card rounded " >
-          <img src="img/slider/IMG_20220511_204335-scaled.jpg" class="card-img image_popup rounded campus_tour">
+         <video src="./video/Writer laptop work.mp4" controls autoplay muted class="card-img image_popup rounded campus_tour"> </video>
         </div>
       </div>
       <div class="col col-md-6 ">
@@ -580,77 +596,102 @@ Haryana
               <div class="col-sm-4 py-1 px-1 col-6">
   
                 <div class="card rounded">
+                  <a href="img/Rbssiet Photos/4.jpeg" data-lightbox="models" data-title="College Function ">
                   <img src="img/Rbssiet Photos/4.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  </a>
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
+                <a href="img/Rbssiet Photos/4.jpeg" data-lightbox="models" data-title="College Function ">
                   <img src="img/Rbssiet Photos/4.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  </a>
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                  <img src="img/Rbssiet Photos/9.jpeg" class="card-img rounded image_popup" height="120px" >
+                <a href="img/Rbssiet Photos/9.jpeg" data-lightbox="models" data-title="College Function ">
+                  <img src="img/Rbssiet Photos/9.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  </a>
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                  <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded image_popup" height="120px" >
+                <a href="img/Rbssiet Photos/43.jpeg" data-lightbox="models" data-title="College Function ">
+                  <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  </a>
                 </div>
                 </div>
             
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
+                <a href="img/Rbssiet Photos/43.jpeg" data-lightbox="models" data-title="College Function ">
                   <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  </a>
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
+                <a href="img/Rbssiet Photos/43.jpeg" data-lightbox="models" data-title="College Function ">
                   <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  </a>
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                  <img src="img/Rbssiet Photos/12.jpeg" class="card-img rounded image_popup" height="120px" >
+                <a href="img/Rbssiet Photos/12.jpeg" data-lightbox="models" data-title="College Function ">
+                  <img src="img/Rbssiet Photos/12.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  </a>
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                  <img src="img/Rbssiet Photos/25.jpeg" class="card-img rounded image_popup" height="120px" >
+                <a href="img/Rbssiet Photos/25.jpeg" data-lightbox="models" data-title="College Function ">
+                  <img src="img/Rbssiet Photos/25.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  </a>
                 </div>
                 </div>
             
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
+                <a href="img/Rbssiet Photos/30.jpeg" data-lightbox="models" data-title="College Function ">
                   <img src="img/Rbssiet Photos/30.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  </a>
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
+                <a href="img/Rbssiet Photos/30.jpeg" data-lightbox="models" data-title="College Function ">
                   <img src="img/Rbssiet Photos/30.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  </a>
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                  <img src="img/Rbssiet Photos/27.jpeg" class="card-img rounded image_popup" height="120px" >
+                <a href="img/Rbssiet Photos/27.jpeg" data-lightbox="models" data-title="College Function ">
+                  <img src="img/Rbssiet Photos/27.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  </a>
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                  <img src="img/Rbssiet Photos/33.jpeg" class="card-img rounded image_popup" height="120px" >
+                <a href="img/Rbssiet Photos/33.jpeg" data-lightbox="models" data-title="College Function ">
+                  <img src="img/Rbssiet Photos/33.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  </a>
                 </div>
                 </div>
+                
             </div>
          
 
@@ -658,9 +699,18 @@ Haryana
         </div>
       </div>
       </div>
+      <div class="row">
+                  <div class="col d-flex justify-content-center py-4">
+                    <div class="btn btn-primary px-5">
+                      View All
+                    </div>
+                  </div>
+                </div>
     </div>
+    
   </div>
-  <section class="service__faq gradient11">
+  
+  <section class="service__faq gradient11 py-5">
     <div class="column ">
       <div class="row justify-content-center">
         <div class="service__faq__wrapper">
@@ -710,6 +760,8 @@ Haryana
       <img src="/img/img.jpg" class="img-fluid" alt="">
     </div>
 
+    
+    
     <?php
     include("footer.php")
     ?>

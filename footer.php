@@ -1,7 +1,7 @@
 <footer>
       <div class="container-fluid gradient11" >
         <div class="row">
-          <div class="col-12 cl-md-6 col-lg-3 " >
+          <div class="col-12 col-md-6 col-lg-4 " >
            <div class="text-center mt-3">
             <img src="img/rbssiet new logo.png " class="img-fluid" width="110px" alt="">
            </div>
@@ -35,7 +35,7 @@
               </div>
             </div>
           </div>
-          <div class="col-12 cl-md-6 col-lg-3" >
+          <div class="col-12 cl-md-6 col-lg-4" >
             <h4 class="text-center h2 text-white mt-3">Quick Links</h4>
             <ul class="mt-3">
               <li class="py-2  " style="list-style:none ;"><a href="www.techadmissionshry.gov.in" class="text-decoration-none h6 text-white">www.techadmissionshry.gov.in</a></li>
@@ -46,7 +46,7 @@
               <li class="py-2  " style="list-style:none ;"><a href="https://pandeywebsolution.in" class="text-decoration-none h6 text-white">https://pandeywebsolution.in</a></li>
             </ul>
           </div>
-          <div class="col-12 cl-md-6 col-lg-3" >
+          <div class="col-12 cl-md-6 col-lg-4" >
             <h4 class="text-center h2 text-white mt-3">Explore</h4>
             <ul class="mt-3">
               <li class="py-2  " style="list-style:none ;"><a href="www.techadmissionshry.gov.in" class="text-decoration-none h6 text-white ">About Us</a></li>
@@ -57,7 +57,7 @@
               <li class="py-2  " style="list-style:none ;"><a href="https://pandeywebsolution.in" class="text-decoration-none h6 text-white">Route To The Institution</a></li>
             </ul>
           </div>
-          <div class="col-12 cl-md-6 col-lg-3" >
+          <div class="col-12 cl-md-6 col-lg-3 d-none" >
             <h4 class="text-center h2 text-white mt-3">Fees Submit</h4>
             <div class="row my-4 mx-5">
               <div class="col rounded-4 bg-warning flex justify-content-center align-items-center " style="height: 100px;">
@@ -208,6 +208,6 @@ $(function(){
     $("ul#ticker01").liScroll();
 });
 </script>
-
+<script src="./lightbox-plus-jquery.js"></script>
 </body>
 </html>
