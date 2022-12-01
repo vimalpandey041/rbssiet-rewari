@@ -120,7 +120,8 @@ include("header.php");
           <span class="text-danger text-uppercase ">RBSSIET</span>
         </h2>
         <div class="double-line-bottom-theme-colored-2"></div>
-        <p style="text-align:justify;">RBSSIET aims to guide  you to accomplish your dreams. An integrated platform for budding talents to grow and innovate to be an asset to the nation. Feel the proud of being a part of this nurturing institute of technology. The main building includes four departments namely- Mechanical Engineering ,Electrical Engineering , Civil Engineering and Computer Engineering. Besides other facilities, you will get supportive
+        <p style="text-align:justify;">Rao Birender Singh State Institute of Engineering & Technology has been established by the Govt. of Haryana to promote quality technical education in the state. The Haryana Govt. has provided modern and best infrastructural facilities for students to create a progressive academic environment and conducive academics for professional and technical growth.
+        RBSSIET aims to guide  you to accomplish your dreams. An integrated platform for budding talents to grow and innovate to be an asset to the nation. Feel the proud of being a part of this nurturing institute of technology. The main building includes four departments namely- Mechanical Engineering ,Electrical Engineering , Civil Engineering and Computer Engineering. Besides other facilities, you will get supportive
            faculty here .    </p>
         <div class="text-center">
           <button type="button" class="btn btn-danger py-2  px-4 my-3"> View More</button>
