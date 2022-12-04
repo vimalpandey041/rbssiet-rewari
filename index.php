@@ -128,18 +128,16 @@ include("header.php");
   
   <div class="container-fluid my-5 px-3 px-sm-5">
     <div class="row justify-content-center ">
-      <div class="col-md-11  col-lg-6 bg-white px-sm-4  my-3">
+      <div class="col-md-11  col-lg-6 bg-white px-sm-4  my-3 ">
         <h2 class="h2 text-uppercase">About
           <span class="text-danger text-uppercase ">RBSSIET</span>
         </h2>
         <div class="double-line-bottom-theme-colored-2"></div>
         <p style="text-align:justify;">RBSSIET aims to guide  you to accomplish your dreams. An integrated platform for budding talents to grow and innovate to be an asset to the nation. Feel the proud of being a part of this nurturing institute of technology. The main building includes four departments namely- Mechanical Engineering ,Electrical Engineering , Civil Engineering and Computer Engineering. Besides other facilities, you will get supportive
            faculty here .    </p>
-        <div class="text-center">
-          <button type="button" class="btn btn-danger py-2  px-4 my-3"> View More</button>
-        </div>
+        
       </div>
-      <div class="col-md-11  col-lg-6 px-sm-4 my-3" >
+      <div class="col-md-11  col-lg-6 px-sm-4 my-3 " >
         <h2 class="h2 text-uppercase">Director's
           <span class="text-danger text-uppercase ">Corner</span>
         </h2>
@@ -160,12 +158,14 @@ include("header.php");
           <div class="col-lg-8 col-md-12">
             <p style="text-align:justify; " class="my-0">It's my gratitude to be the part of this prestigious institute . I feel it  my immense pleasure to play my part responsibly to encourage students to come out with flying colors . 
             We are aiming to build a strong foundation in the years to come to provide a supportive environment that will encourage students. Thanks a million to students and all my fellow members  </p>
-            <div class="text-center my-4">
-              <button type="button" class="btn btn-danger py-2  px-4  " > View More</button>
-            </div>
+             
           </div>
         </div>
       </div>
+    </div>
+    <div class="row">
+      <div class="col-6">  <button type="button" class="btn btn-danger btn-full-width btn-block " > View More</button></div>
+      <div class="col-6"> <button type="button" class="btn btn-danger btn-full-width " > View More</button></div>
     </div>
   </div>
   <div class="container-fluid">

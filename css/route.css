@@ -1,0 +1,30 @@
+.card-body p{
+  text-align: justify;
+}
+.all-text-justify{
+  text-align: justify;
+}
+.route-card-heading{
+  padding: 10px 10px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(44, 9, 77);
+  border-radius: 23px;
+  margin: 10px;
+  margin-top: 10px !important;
+  font-weight: bolder;
+}
+.route-card-box-1{
+  background-color:#323035 !important;
+}
+.route-card-box-2{
+  background-color:#69540e !important;
+}
+.route-card-box-3{
+  background-color:#285e2f !important;
+}
+.route-table-color{
+  color: rgb(247, 247, 247) !important;
+}
+.header-img-text span{
+font-size: 36px;
+}

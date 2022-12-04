@@ -779,14 +779,3 @@ font-weight: 600;
 /* light box end */
 
 /* route box start*/
-.route-box{
-  height: 300px;
-  border: 2px solid black;
-  background-color: red;
-  width: 100%;
-}
-/* route box end*/
-
-.card-h2{
-  height: 300px;
-}

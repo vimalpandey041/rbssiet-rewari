@@ -4,13 +4,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Home || RBSSIET</title>
-  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="css/style.css?version=51">
   <link rel="stylesheet" href="./css/syllabus.css">
   <link rel="stylesheet" href="./css/slider.css">
   <link rel="stylesheet" href="./css/department.css">
   <link rel="stylesheet" href="./css/faculty.css">
   <link rel="stylesheet" href="./css/placement.css">
   <link rel="stylesheet" href="./css/lightbox.css">
+  <link rel="stylesheet" href="./css/route.css">
   
   <!-- CSS only -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
