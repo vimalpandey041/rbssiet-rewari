@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="./css/placement.css">
   <link rel="stylesheet" href="./css/lightbox.css">
   <link rel="stylesheet" href="./css/route.css">
+  <link rel="stylesheet" href="./css/gallery.css">
   
   <!-- CSS only -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
