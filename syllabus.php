@@ -13,7 +13,6 @@ include("header.php");
     </nav>
     <img src="https://img.jagranjosh.com/imported/images/E/Articles/UPSEE_Syllabus_2018_thumbnail.jpg"  alt="" >
 
-            
         </div>
         <!---- header image end -->
         <div class="col-lg-12 col-sm-12 col-xs-12 Start">Syllabi  as per university guidelines</div>

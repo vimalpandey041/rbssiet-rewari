@@ -136,6 +136,9 @@ include("header.php");
         <p style="text-align:justify;">Rao Birender Singh State Institute of Engineering & Technology has been established by the Govt. of Haryana to promote quality technical education in the state. The Haryana Govt. has provided modern and best infrastructural facilities for students to create a progressive academic environment and conducive academics for professional and technical growth.
         RBSSIET aims to guide  you to accomplish your dreams. An integrated platform for budding talents to grow and innovate to be an asset to the nation. Feel the proud of being a part of this nurturing institute of technology. The main building includes four departments namely- Mechanical Engineering ,Electrical Engineering , Civil Engineering and Computer Engineering. Besides other facilities, you will get supportive
            faculty here .    </p>
+           <div class="row my-4 ">
+      <div class="col-12 text-center"> <a href="about.php"  class="btn btn-outline-dark rounded-5 " style="width:100% ;"  > View More</a></div>
+    </div>
         
       </div>
       <div class="col-md-11  col-lg-6 px-sm-4 my-3 " >
@@ -145,13 +148,13 @@ include("header.php");
         <div class="double-line-bottom-theme-colored-2"></div>
         <div class="row">
           <div class="col-lg-4 col-md-12">
-            <div class="card ">
-              <div class="card-body text-center">
+            <div class="card  rounded-4 shadow ">
+              <div class="card-body text-center ">
                 <div class="direc-img image_popup ">
-                  <img src="./img/51.png" class="card-img img-fluid  " alt="">
+                  <img src="./img/51.png" class="card-img img-fluid " alt="">
                 </div>
               </div>
-              <div class="card-footer text-center ">
+              <div class="text-center director-footer ">
                 <span>D.K. Rawat</span>
               </div>
             </div>
@@ -159,14 +162,14 @@ include("header.php");
           <div class="col-lg-8 col-md-12">
             <p style="text-align:justify; " class="my-0">It's my gratitude to be the part of this prestigious institute . I feel it  my immense pleasure to play my part responsibly to encourage students to come out with flying colors . 
             We are aiming to build a strong foundation in the years to come to provide a supportive environment that will encourage students. Thanks a million to students and all my fellow members  </p>
+            
              
           </div>
         </div>
-      </div>
+        <div class="row my-3">
+      <div class="col-12"> <a href="principaldesk.php"  class="btn btn-outline-dark rounded-5 " style="width:100% ;"  > View More</a></div>
     </div>
-    <div class="row">
-      <div class="col-6">  <button type="button" class="btn btn-danger btn-full-width btn-block " > View More</button></div>
-      <div class="col-6"> <button type="button" class="btn btn-danger btn-full-width " > View More</button></div>
+      </div>
     </div>
   </div>
   <div class="container-fluid">
@@ -577,14 +580,13 @@ Haryana
   <div class="container-fluid">
     <div class="row py-4 px-md-2  flex flex-column flex-md-row">
       <div class="col col-md-6 my-5 my-md-1">
-        <h2 class=" text-uppercase main_title">Azadi Ka  
-          <span class="text-danger text-uppercase ">Amritmahotsav   44\4\7
-            
+        <h2 class=" text-uppercase main_title" style="font-weight:700 ;">आज़ादी का 
+          <span class="text-danger text-uppercase ">अमृत महोत्सव
           Tour </span>
         </h2>
         <div class="double-line-bottom-theme-colored-2"></div>
         <div class="card rounded " >
-         <video src="./video/Writer laptop work.mp4" controls autoplay muted class="card-img image_popup rounded campus_tour"> </video>
+         <video src="./video/y2mate.com - Azadi Ka Amrit Mahotsav Celebrating 75 years of Indias independence_360p.mp4" controls autoplay muted class="card-img image_popup rounded campus_tour"> </video>
         </div>
       </div>
       <div class="col col-md-6 ">
@@ -703,9 +705,7 @@ Haryana
       </div>
       <div class="row">
                   <div class="col d-flex justify-content-center py-4">
-                    <div class="btn btn-primary px-5">
-                      View All
-                    </div>
+                      <a href="gallery.php" class="btn btn-primary px-5 rounded-5 shadow" >View Gallery</a>
                   </div>
                 </div>
     </div>

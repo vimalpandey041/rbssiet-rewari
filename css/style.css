@@ -779,3 +779,20 @@ font-weight: 600;
 /* light box end */
 
 /* route box start*/
+
+  }
+
+  .director-footer{
+    background-color: rgb(23, 6, 43);
+    margin: 0px 10px 10px 10px;
+    border-radius: 23px;
+    color: #e7e9ec;
+    font-size: 18px;
+    font-weight: 700;
+  }
+  .director-footer:hover{
+    transform: scale(1.1);
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+  }
