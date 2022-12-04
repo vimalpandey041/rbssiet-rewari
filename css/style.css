@@ -9,66 +9,67 @@ body{
 /*    heading lines start  */
 
 .double-line-bottom-theme-colored-2:after {
-    border-radius: 8px;
-    bottom: 1px;
-    content: "";
-    height: 2px;
-    left: 0;
-    position: absolute;
-    width: 64px;
-    background-color: red;
+  border-radius: 8px;
+  bottom: 1px;
+  content: "";
+  height: 2px;
+  left: 0;
+  position: absolute;
+  width: 64px;
+  background-color: red;
 }
 .double-line-bottom-theme-colored-2:before {
-    border-radius: 8px;
-    bottom: -1px;
-    content: "";
-    height: 6px;
-    left: 10px;
-    position: absolute;
-    width: 24px;
-    background-color: red;
+  border-radius: 8px;
+  bottom: -1px;
+  content: "";
+  height: 6px;
+  left: 10px;
+  position: absolute;
+  width: 24px;
+  background-color: red;
 }     
 .double-line-bottom-theme-colored-2 {
-    margin-bottom: 20px;
-    margin-top: 8px;
-    padding-bottom: 5px;
-    position: relative;
+  margin-bottom: 20px;
+  margin-top: 8px;
+  padding-bottom: 5px;
+  position: relative;
 }
 .double-line-bottom-centered-theme-colored-2 {
-    margin-bottom: 20px;
-    margin-top: 8px;
-    padding-bottom: 5px;
-    position: relative;
+  margin-bottom: 20px;
+  margin-top: 8px;
+  padding-bottom: 5px;
+  position: relative;
 }
 .double-line-bottom-centered-theme-colored-2:before {
-    border-radius: 8px;
-    bottom: 0;
-    content: "";
-    height: 6px;
-    bottom: -2px;
-    left: 0px;
-    right: 0px;
-    margin: 0 auto;
-    position: absolute;
-    width: 24px;
-    background-color: red;
+  border-radius: 8px;
+  bottom: 0;
+  content: "";
+  height: 6px;
+  bottom: -2px;
+  left: 0px;
+  right: 0px;
+  margin: 0 auto;
+  position: absolute;
+  width: 24px;
+  background-color: red;
 }
 .double-line-bottom-centered-theme-colored-2:after {
-    border-radius: 8px;
-    bottom: 0;
-    content: "";
-    height: 2px;
-    left: 0;
-    right: 0px;
-    margin: 0 auto;
-    position: absolute;
-    width: 64px;
-    background-color: red;
+  border-radius: 8px;
+  bottom: 0;
+  content: "";
+  height: 2px;
+  left: 0;
+  right: 0px;
+  margin: 0 auto;
+  position: absolute;
+  width: 64px;
+  background-color: red;
 }
 
 /* heading lines end  */
 
-/* header start */
+/* Header Start  */
+
 header{
   background-color: rgb(9 9 56) ;
   top: 40px;
@@ -204,6 +205,7 @@ header.sticky h3{
 }
 
 /* header end */
+
 /* faq start*/
 .service__faq {
   margin: 25px 0px 30px;
@@ -306,250 +308,65 @@ header .dropdown {
 .act_img {
   transform: rotate(45deg);
 }
-/* faq end */
 
 .list{
-    list-style: none;
+  list-style: none;
 }
 
 .target{
-    animation: flowing 10s linear infinite;
-    transform: translateX(100%);
+  animation: flowing 10s linear infinite;
+  transform: translateX(100%);
 
-  }
-  
-  @keyframes flowing {
-    100% {
-      transform: translateX(-100%);
-    }
-  }
-  
-  
-  @media screen and (max-width: 668px) {
-    .item1 {
-      font-size: 17px;
-    }
-  }
-  
-  @media screen and (max-width: 608px) {
-    .item1 {
-      font-size: 15px;
-    }
-  }
-
-  .gradient11{
-    background-image: linear-gradient(
-    to right bottom,
-    #051937,
-    #181f36,
-    #242636,
-    #2e2d35,
-    #353535
-  );
-  transition: background-color 0.3s;
-  }
-
-  /* swiper js code */
-
-  .news-alerts {
-    width: 100%;
-    height: 300px;
-    padding: 5px;
-    overflow: hidden;
-    background-color: #fff;
-    border: 1px solid #ccc;
-    font-family: "Archivo", sans-serif;
-  }
-  
-  .news-alerts ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    position: relative;
-  }
-  
-  .news-alerts ul li {
-    padding: 10px 0px;
-  }
-  
-  .news-alerts ul li a {
-    color: #000;
-    text-decoration: none;
-  }
-  
-  .news-alerts ul li a:hover {
-    color: #333;
-    text-decoration: underline;
-  }
-
-  
-/* swiper js */
-
-.swiper {
-  width: 100%;
-  height: 100%;
 }
 
-.swiper-slide {
-  text-align: center;
-  font-size: 18px;
-  background: #fff;
+@keyframes flowing {
+  100% {
+    transform: translateX(-100%);
+  }
+}
+.gradient11{
+  background-image: linear-gradient(
+  to right bottom,
+  #051937,
+  #181f36,
+  #242636,
+  #2e2d35,
+  #353535
+);
+transition: background-color 0.3s;
+}
+/* faq end */
 
-  /* Center slide text vertically */
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
+/* header image section start*/
+.breadcrumb-img{
+  background-color: rgba(38, 38, 40, 0.6);
+  width: 100%;
+  height: 220px;
+  position: absolute;
+  left: 0;
   display: flex;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  -webkit-justify-content: center;
+  flex-direction: column;
   justify-content: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  -webkit-align-items: center;
   align-items: center;
-}
-
-.swiper-slide img {
-  display: block;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-.direc-img img {
-  width: 200px;
-}
-
-@media screen and (max-width: 640px) {
-  .heading-1 h4{
-    font-size: 10px;
   }
-  .service__faq__wrapper__title {
-    font-size: 20px;
+  .breadcrumb-img span{
+  color: rgb(239, 237, 243);
+  font-size: 40px;
+  font-weight: bold;
   }
-  .item1 {
-    font-size: 12px;
-    height: 40px;
-    margin: 16px 0;
-  }
-  .ye h4 {                
-    font-size: 12px;
-  }
-  .service__faq {
-    margin: 10px 0px 10px;
-    padding: 10px 10px;
-  }
-  header{
-    top: 0px;
-    padding: 5px 10px;
-  }
-  header .logo{
-    padding: 1px 0px;
-    margin-left:0px ;
-  }
-  header .logo img{
-   width: 50px;
-  }
-  header h3{
-    color: #ffffff;
-    font-size: 11px;
-  }
-  header .mainh1{
-    font-size: 24px;
-  }
-  header .mainh2{
-    font-size: 11px;
-  }
-  header.sticky h3{
-    font-size: 11px;
-    color: rgb(255, 255, 255);
-  }
-  
-  header.sticky{
-    padding: 5px 10px;
-    background-color: rgb(58, 12, 10);
-  }
-  header.sticky .logo{
-    padding: 1px 0px;
-    margin-left:0px ;
-  }
-  header.sticky .logo img{
-    width: 50px;
-  }
-  header.sticky .bars{
-    color: rgb(255, 255, 255);
-  }
-  header .bars{
-    color:#fcfbff;
-    cursor: pointer;
-  }
-  header .menu-font{
-    font-size: 14px;
-    font-weight: 500;
-    color: rgb(0, 0, 0);
-  }
-  .img1 {
-    width: 20px;
-    transition: all 0.3s;            
-    cursor: pointer;
-  }
-  
-  .active1 {
-    height: 130px;
-  }
-  
-  .act_img {
-    transform: rotate(45deg);
+  .breadcrumb-img ol li a{
+  color: rgb(239, 237, 243);
+  text-decoration: none;
+  font-weight: 600;
   }
   .header-img img{
     height: 220px;
+    width: 100%;
+    object-fit: cover;
   }
-  .breadcrumb-img{
-    top: 60px;
-    }
-    .main_title{
-      font-size: 21px;
-    }
-    
-}
-.breadcrumb-img{
-background-color: rgba(38, 38, 40, 0.6);
-width: 100%;
-height: 220px;
-position: absolute;
-left: 0;
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-}
-.breadcrumb-img span{
-color: rgb(239, 237, 243);
-font-size: 40px;
-font-weight: bold;
-}
-.breadcrumb-img ol li a{
-color: rgb(239, 237, 243);
-text-decoration: none;
-font-weight: 600;
-}
+/* header image section end*/
 
-/*
- header image section start 
- */
-.header-img img{
-  height: 220px;
-  width: 100%;
-  object-fit: cover;
-}
-/*
- header image section end 
- */
-  
-
- /* directors page img */
-
- .director_img{
+.director_img{
   display: flex;
   justify-content: center;
   z-index: 11;
@@ -589,173 +406,50 @@ font-weight: 600;
     transform: scale(1.04);
     transition: ease-in-out;
   }
-
-  @media screen and (max-width: 668px) {
-    .campus_tour{
-      height: 220px;
-      object-fit: cover;
-    }
-  }
-
-  .mobile_menu a, .dropdown-btn {
-    padding: 6px 8px 6px 16px;
-    text-decoration: none;
-    font-size: 20px;
-    color: #818181;
-    display: block;
-    border: none;
-    background: none;
-    width:100%;
-    text-align: left;
-    cursor: pointer;
-    outline: none;
-  }
   
-  /* On mouse-over */
-  .mobile_menu a:hover, .dropdown-btn:hover {
-    color: #f1f1f1;
-  }
-  
-  /* Main content */
-  .main {
-    margin-left: 200px; /* Same as the width of the sidenav */
-    font-size: 20px; /* Increased text to enable scrolling */
-    padding: 0px 10px;
-  }
-  
-  /* Add an active class to the active dropdown button */
-  .active {
-    color: white;
-  }
-  
-  /* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
-  .dropdown-container {
-    display: none;
-    background-color: #262626;
-    padding-left: 8px;
-  }
-  
-  /* Optional: Style the caret down icon */
-  .fa-caret-down {
-    float: right;
-    padding-right: 8px;
-  }
-
-
-  /* marquee tool start */
-  .marquee-w {
-    position: relative;
-    display: block;
-    width: 100%;
-    height: 24px;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    overflow: hidden;
-}
-.marquee {
-    position: absolute;
-    display: block;
-    margin: auto auto;
-    white-space: nowrap;
-    overflow: hidden;
-    min-width: 100%;
-    height: 100%;
-}
-.marquee span {
-    display: inline-block;  
-    padding-left: 100%;
-    text-align: center;
-    font-weight: 100;
-    -webkit-text-stroke: 1px #f0d2d2;
-    white-space: nowrap;
-    min-width: 100%;
-    height: 100%;
-    line-height: 25px;
-    font-size: 20px;
-    animation: marquee 6s linear infinite;
+.mobile_menu a, .dropdown-btn {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #818181;
+  display: block;
+  border: none;
+  background: none;
+  width:100%;
+  text-align: left;
+  cursor: pointer;
+  outline: none;
 }
 
-.marquee2 span {
-    animation-delay: 6s;
-} 
-@keyframes marquee {
-    0% {
-        transform: translate(0, 0);
-    }
-    100% {
-        transform: translate(-100%, 0);
-    }
+/* On mouse-over */
+.mobile_menu a:hover, .dropdown-btn:hover {
+  color: #f1f1f1;
 }
-  .marquee-w-1 {
-    position: relative;
-    display: block;
-    width: 100%;
-    height: 24px;
-    top: 50%;
-    left: 50%;
-    transform:translateY(-100%)
-    overflow: hidden;
+
+/* Main content */
+.main {
+  margin-left: 200px; /* Same as the width of the sidenav */
+  font-size: 20px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
 }
-.marquee-1 {
-    position: absolute;
-    display: block;
-    margin: auto auto;
-    white-space: nowrap;
-    overflow: hidden;
-    min-width: 100%;
-    height: 100%;
+
+/* Add an active class to the active dropdown button */
+.active {
+  color: white;
 }
-.marquee-1 span {
-    display: inline-block;  
-    padding-left: 100%;
-    text-align: center;
-    font-weight: 100;
-    -webkit-text-stroke: 1px #f0d2d2;
-    white-space: nowrap;
-    min-width: 100%;
-    height: 100%;
-    line-height: 25px;
-    font-size: 20px;
-    animation: marquee 10s linear infinite;
+
+/* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
+.dropdown-container {
+  display: none;
+  background-color: #262626;
+  padding-left: 8px;
 }
-.marquee2-1 span {
-    animation-delay: 3.5s;
+
+/* Optional: Style the caret down icon */
+.fa-caret-down {
+  float: right;
+  padding-right: 8px;
 }
-.marquee3 span {
-    animation-delay: 3.5s;
-}
-@keyframes marquee-1 {
-    0% {
-        transform: translateY(0, 0);
-    }
-    100% {
-        transform: translateY(-100%);
-    }
-}
-  /* marquee tool end*/
-  
-  .news-slider-new{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-  }
-  .news-slider-new p{
-    padding: 0px;
-    margin: 0px;
-  }
-  .news-slider-new-div{
-    display: flex;
-    align-items: center;
-  }
-  .heading-1 h4{
-    font-size: 28px;
-  
-@media screen and (max-width: 1050px) {
-    .heading-1 h4{
-      font-size: 18px;
-    }
-  }
 
 /* light box start */
 .dropdown-menu li {
@@ -780,31 +474,156 @@ font-weight: 600;
   }
 /* light box end */
 
-/* route box start*/
+.director-footer{
+  background-color: rgb(23, 6, 43);
+  margin: 0px 10px 10px 10px;
+  border-radius: 23px;
+  color: #e7e9ec;
+  font-size: 18px;
+  font-weight: 700;
+}
+.director-footer:hover{
+  transform: scale(1.1);
+  background-color: yellow;
+  color: rgb(0, 0, 0);
+  border: 1px solid black;
+}
 
-  }
+.principal-points{
+  font-size: 23px;
+}
 
-  .director-footer{
-    background-color: rgb(23, 6, 43);
-    margin: 0px 10px 10px 10px;
-    border-radius: 23px;
-    color: #e7e9ec;
-    font-size: 18px;
-    font-weight: 700;
-  }
-  .director-footer:hover{
-    transform: scale(1.1);
-    background-color: yellow;
-    color: rgb(0, 0, 0);
-    border: 1px solid black;
-  }
+/*test section */
+.news-slider-new{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.news-slider-new p{
+  padding: 0px;
+  margin: 0px;
+}
+.news-slider-new-div{
+  display: flex;
+  align-items: center;
+}
+.heading-1 h4{
+  font-size: 24px;
+}
 
-  .principal-points{
-    font-size: 23px;
-  }
+@media only screen and  (max-width: 480px){
+  .item1 {
+      font-size: 17px;
+    }
+    .campus_tour{
+      height: 220px;
+      object-fit: cover;
+    }
+    .heading-1 h4{
+      font-size: 20px;
+    }
+    .service__faq__wrapper__title {
+      font-size: 20px;
+    }
+    .item1 {
+      font-size: 12px;
+      height: 40px;
+      margin: 16px 0;
+    }
+    .ye h4 {                
+      font-size: 12px;
+    }
+    .service__faq {
+      margin: 10px 0px 10px;
+      padding: 10px 10px;
+    }
+    header{
+      top: 0px;
+      padding: 5px 10px;
+    }
+    header .logo{
+      padding: 1px 0px;
+      margin-left:0px ;
+    }
+    header .logo img{
+     width: 50px;
+    }
+    header h3{
+      color: #ffffff;
+      font-size: 11px;
+    }
+    header .mainh1{
+      font-size: 24px;
+    }
+    header .mainh2{
+      font-size: 11px;
+    }
+    header.sticky h3{
+      font-size: 11px;
+      color: rgb(255, 255, 255);
+    }
+    
+    header.sticky{
+      padding: 5px 10px;
+      background-color: rgb(58, 12, 10);
+    }
+    header.sticky .logo{
+      padding: 1px 0px;
+      margin-left:0px ;
+    }
+    header.sticky .logo img{
+      width: 50px;
+    }
+    header.sticky .bars{
+      color: rgb(255, 255, 255);
+    }
+    header .bars{
+      color:#fcfbff;
+      cursor: pointer;
+    }
+    header .menu-font{
+      font-size: 14px;
+      font-weight: 500;
+      color: rgb(0, 0, 0);
+    }
+    .img1 {
+      width: 20px;
+      transition: all 0.3s;            
+      cursor: pointer;
+    }
+    
+    .active1 {
+      height: 130px;
+    }
+    
+    .act_img {
+      transform: rotate(45deg);
+    }
+    .header-img img{
+      height: 220px;
+    }
+    .breadcrumb-img{
+      top: 60px;
+      }
+      .main_title{
+        font-size: 21px;
+      }
+      .principal-points{
+          font-size: 14px;
+        }
+     
 
-  @media screen and (max-widht:668px) {
-    .principal-points{
+  
+}
+
+@media only screen and (min-width: 480px) and (max-width: 1024px){
+  .campus_tour{
+      height: 320px;
+      object-fit: cover;
+    }
+    .heading-1 h4{
       font-size: 14px;
     }
-  }
+  
+  
+}
