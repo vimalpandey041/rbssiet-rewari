@@ -540,7 +540,7 @@ font-weight: 600;
 .header-img img{
   height: 220px;
   width: 100%;
-  object-fit: cover;
+  object-fit: contain;
 }
 /*
  header image section end 
