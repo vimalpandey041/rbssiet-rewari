@@ -11,7 +11,7 @@ include("header.php");
             <li class="breadcrumb-item active text-white" aria-current="page">Syllabus</li>
         </ol>
     </nav>
-    <img src="https://bit.ly/3izdmp4"  alt="" >
+    <img src="https://swall.teahub.io/photos/small/105-1050582_person-holding-opened-book-medieval-mystic-hand-girl.jpg"  alt="" >
 
             
         </div>
