@@ -577,9 +577,9 @@ Haryana
   </div>
 </div>
  </div>
-  <div class="container-fluid">
+  <div class="container">
     <div class="row py-4 px-md-2  flex flex-column flex-md-row">
-      <div class="col col-md-6 my-5 my-md-1">
+      <div class="col col-md-12 col-lg-6 my-5 my-md-1">
         <h2 class=" text-uppercase main_title" style="font-weight:700 ;">आज़ादी का 
           <span class="text-danger text-uppercase ">अमृत महोत्सव
           Tour </span>
@@ -589,7 +589,7 @@ Haryana
          <video src="./video/y2mate.com - Azadi Ka Amrit Mahotsav Celebrating 75 years of Indias independence_360p.mp4" controls autoplay muted class="card-img image_popup rounded campus_tour"> </video>
         </div>
       </div>
-      <div class="col col-md-6 ">
+      <div class="col col-md-12 col-lg-6 ">
         <div class="container ">
           <h2 class=" text-uppercase main_title">See Glimpse of
             <span class="text-danger text-uppercase ">our gallery!</span>

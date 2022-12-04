@@ -798,3 +798,13 @@ font-weight: 600;
     color: rgb(0, 0, 0);
     border: 1px solid black;
   }
+
+  .principal-points{
+    font-size: 23px;
+  }
+
+  @media screen and (max-widht:668px) {
+    .principal-points{
+      font-size: 14px;
+    }
+  }
