@@ -52,6 +52,7 @@ lightbox.option({
 
 
 // gallery javascript
+
 xgallery_images = [
   {
     url: "https://bit.ly/3B9OyKu",

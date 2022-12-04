@@ -2,14 +2,6 @@
 include("header.php");
 ?>
 
-
-
-
-
-
-
-
-
 <div class="x-container">
   <div class="x-header">
     <div class="xh-inner">
