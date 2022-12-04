@@ -52,6 +52,7 @@ lightbox.option({
 
 
 // gallery javascript
+
 xgallery_images = [
   {
     url: "https://assets.codepen.io/1692350/61.png",
