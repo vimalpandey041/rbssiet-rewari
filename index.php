@@ -577,8 +577,10 @@ Haryana
   <div class="container-fluid">
     <div class="row py-4 px-md-2  flex flex-column flex-md-row">
       <div class="col col-md-6 my-5 my-md-1">
-        <h2 class=" text-uppercase main_title">Let's Have a
-          <span class="text-danger text-uppercase ">campus tour!</span>
+        <h2 class=" text-uppercase main_title">Azadi Ka  
+          <span class="text-danger text-uppercase ">Amritmahotsav   44\4\7
+            
+          Tour </span>
         </h2>
         <div class="double-line-bottom-theme-colored-2"></div>
         <div class="card rounded " >
