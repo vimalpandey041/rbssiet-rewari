@@ -558,21 +558,23 @@ font-weight: 600;
  }
  .director_img img{
   height: 200px;
-  background-color: rgb(177, 245, 19);
-  border: 5px solid rgb(60, 107, 209);
+  background-color: rgb(231, 233, 238);
+  border: 5px solid rgb(28, 2, 21);
  }
   .director_about{
     padding-top: 120px;
     padding-bottom: 30px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(68,19,61,1) 100%, rgba(0,212,255,1) 100%);
   }
-
+  
   .campus_tour{
     height: 510px;
     object-fit: cover;
   }
 
   .slider_data{
-    border-radius: 23px;
+    border-radius: 13px;
     background: rgba(4, 4, 49, 0.6);
   }
   .slider_data:hover{
