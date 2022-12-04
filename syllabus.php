@@ -11,7 +11,7 @@ include("header.php");
             <li class="breadcrumb-item active text-white" aria-current="page">Syllabus</li>
         </ol>
     </nav>
-    <img src="https://bit.ly/3izdmp4"  alt="" >
+    <img src="https://img.jagranjosh.com/imported/images/E/Articles/UPSEE_Syllabus_2018_thumbnail.jpg"  alt="" >
 
             
         </div>
