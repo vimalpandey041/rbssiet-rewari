@@ -1,83 +1,23 @@
-
-.info{padding-left: 100px;
-    position: relative;
-}
-  .text {
-    font-size: 20px;
-    padding-left: 60px;
-    align-items: center;
-  }
-.image{
-display:flex ;
-align-items:center ;
-}
 .image img{
-border: 6px solid white;
-height: 200px;
-width: 200px;
+  width:150px;
+  height:150px
 }
-.image1{
-  position: absolute;
-  left: 15%;
-  z-index: 2222;
+.image{
+  position: relative;
+  transform: translatex(100px);
 }
 .image2{
-height: 250px;
-display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-direction: column;
-}
-.faculty_detail_1{
-  font-size: 3rem;
-  color: rgb(24, 4, 41);
-  font-weight: bold;
-}
-.faculty_detail_2{
-  font-size: 9px;
-  color: rgb(24, 4, 41);
-  font-weight: 500;
-}
-.faculty_detail_3{
-  font-size: 10px;
-  color: rgb(24, 4, 41);
-  font-weight: 500;
-}
-.faculty_detail_4{
-  font-size: 10px;
-  color: rgb(0, 0, 0);
-  font-weight: 700;
+  height: 120px;
 }
 
-@media screen and (max-width: 668px) {
+
+@media only screen (max-width: 480px){  
+
   
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 1024px){
   .image img{
-    height: 70px;
-    border: 3px solid white;
-    width: 70px;
-    }
-    .image1{
-      left:10%
-    }
-    .image2{
-      height: 80px;
-    }
-    .faculty_detail_1{
-      font-size: 1.2rem;
-    }
-    .faculty_detail_2{
-      font-size: 9px;
-      color: rgb(24, 4, 41);
-      font-weight: 500;
-    }
-    .faculty_detail_3{
-      font-size: 10px;
-      color: rgb(24, 4, 41);
-      font-weight: 500;
-    }
-    .faculty_detail_4{
-      font-size: 10px;
-      color: rgb(0, 0, 0);
-      font-weight: 700;
-    }
+   
 }

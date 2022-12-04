@@ -37,8 +37,8 @@ include("header.php");
    <div class="container">
 <div class="row my-2">
 <div class="col-2 align-items-center d-flex ">
-<div class="image image1 ">
-        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg"  class="rounded-circle border-white-5 shadow">
+<div class="image ">
+        <img src="https://i.pinimg.com/originals/26/ea/fc/26eafc0b14488fea03fa8fa9751203ff.jpg"  class="rounded-circle img-fluid border-white-5 shadow">
       </div>
 </div>
  <div class="col-10">
