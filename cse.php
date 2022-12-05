@@ -449,10 +449,10 @@ include("header.php");
   <div class="double-line-bottom-theme-colored-2"></div>
   <div class="row">
     <div class="col-lg-4 col-md-12">
-      <div class="card ">
+      <div class="card " height="300px">
         <div class="card-body text-center">
           <div class="direc-img">
-            <img src="https://bit.ly/3HegFMv" class=" img-fluid  " alt="" height="300px">
+            <img src="img/Smit sir.jpg" class=" img-fluid  " alt="" height="300px">
           </div>
         </div>
       </div>
