@@ -452,7 +452,7 @@ include("header.php");
       <div class="card ">
         <div class="card-body text-center">
           <div class="direc-img">
-            <img src="./img/WhatsApp Image 2022-10-07 at 21.23.52 (8).jpeg" class=" img-fluid  " alt="" height="300px">
+            <img src="https://bit.ly/3HegFMv" class=" img-fluid  " alt="" height="300px">
           </div>
         </div>
       </div>
