@@ -230,7 +230,7 @@
 
 /* RESET */
 *, *::before, *::after {
-  /* get rid of those pesky browser presets! */
+  get rid of those pesky browser presets!
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -238,11 +238,7 @@
   transition: all 300ms ease-in-out; /* save your typing hand --> applies smooth transition to all elements such as hover effects */
 }
 
-/* :root {
-  font-size: 10px; /* insures all fonts are not affected by browser presets and easy to convert to rem units | 18px = 1.8rem */
-  font-family: "Special Elite", serif;
-} */
-/* MAIN STYLES */
+
 
 /* GALLERY */
 .cardm-container {
