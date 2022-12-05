@@ -68,7 +68,7 @@
 /* section2 */
 
 
-.sect2 {
+/* .sect2 {
   width: 100%;
   height: auto;
   min-height: 100vh;
@@ -218,7 +218,7 @@
   }
 }
 
-
+ */
 
 
 
@@ -237,13 +237,11 @@
   border: 0;
   transition: all 300ms ease-in-out; /* save your typing hand --> applies smooth transition to all elements such as hover effects */
 }
-img {
-  max-width: 100%; /* keep those images in their containers where they belong */
-}
-:root {
+
+/* :root {
   font-size: 10px; /* insures all fonts are not affected by browser presets and easy to convert to rem units | 18px = 1.8rem */
   font-family: "Special Elite", serif;
-}
+} */
 /* MAIN STYLES */
 
 /* GALLERY */
@@ -297,20 +295,7 @@ img {
 
 
 /* section4 */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-body {
-  font-family: "Open Sans", sans-serif;
-  color: #fff;
-  background-color: #000000;
-  z-index: 0;
-}
-p {
-  color: #fff;
-}
+
 /* -----------------------------------
       Gallery Section
 --------------------------------------*/
@@ -442,7 +427,4 @@ p {
   cursor: pointer;
 }
 
-/*******Responsive media query******/
-
-/* Extra small devices (portrait phones, less than 576px)*/
-
+/* Section 5 */
