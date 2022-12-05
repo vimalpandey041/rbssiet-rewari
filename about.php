@@ -4,17 +4,17 @@ include("header.php");
 
 <div class="container-fluid m-0 p-0 header-img"   >
     <nav aria-label="breadcrumb" class="breadcrumb-img header-img-text">
-       <span >Route To The Institute</span>
+       <span >About us </span>
         <ol class="breadcrumb text-white">
             <li class="breadcrumb-item text-white"><a href="index2.php">Home</a></li>
-            <li class="breadcrumb-item text-white"><a href="contact.php">About</a></li>
-            <li class="breadcrumb-item active text-white" aria-current="page">Route To The Institute</li>
+            <li class="breadcrumb-item text-white"><a href="route.php">Route To The Institute</a></li>
+            <li class="breadcrumb-item active text-secondary" aria-current="page">About</li>
         </ol>
     </nav>
-    <img src="https://bit.ly/3uopxrl"  alt="">
+    <img src="https://bit.ly/3Hapc2V"  alt="">
 
             
-        </div>
+    </div>
         <div class="anim container-fluid p-0 m-0">
         <p class="atext">Explore this amazing institute</p>
         </div>  

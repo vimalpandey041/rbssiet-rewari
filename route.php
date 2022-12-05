@@ -7,11 +7,11 @@ include("header.php");
        <span >Route To The Institute</span>
         <ol class="breadcrumb text-white">
             <li class="breadcrumb-item text-white"><a href="index2.php">Home</a></li>
-            <li class="breadcrumb-item text-white"><a href="contact.php">About</a></li>
-            <li class="breadcrumb-item active text-white" aria-current="page">Route To The Institute</li>
+            <li class="breadcrumb-item text-white"><a href="contact.php">Contact</a></li>
+            <li class="breadcrumb-item active text-secondary" aria-current="page">Route To The Institute</li>
         </ol>
     </nav>
-    <img src="https://c1.wallpaperflare.com/preview/443/122/419/book-pile-stack-literature.jpg"  alt="">
+    <img src="https://bit.ly/3UxWKv9"  alt="">
 
             
         </div>
