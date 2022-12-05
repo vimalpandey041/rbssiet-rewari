@@ -230,12 +230,12 @@
 
 /* RESET */
 *, *::before, *::after {
-  get rid of those pesky browser presets!
+
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   border: 0;
-  transition: all 300ms ease-in-out; /* save your typing hand --> applies smooth transition to all elements such as hover effects */
+  transition: all 300ms ease-in-out; 
 }
 
 
