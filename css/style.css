@@ -603,8 +603,9 @@ transition: background-color 0.3s;
       height: 220px;
     }
     .breadcrumb-img{
-      top: 0px;
+      top: 60x;
       position: absolute;
+      height: 220px;
       }
       .main_title{
         font-size: 21px;
