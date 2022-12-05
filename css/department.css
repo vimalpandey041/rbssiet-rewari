@@ -1,23 +1,62 @@
-.image img{
-  width:150px;
-  height:150px
-}
-.image{
-  position: relative;
-  transform: translatex(100px);
-}
-.image2{
-  height: 120px;
+.img-hover-zoom--colorize img {
+  border-radius: 50%;
+  width: 150px;
+  height: auto;
+  margin-top: 20px;
+  padding: 1px;
+  transition: transform .5s;
+  filter: grayscale(100%);
 }
 
+.img-hover-zoom--colorize:hover img {
+  filter: grayscale(0);
+  transform: scale(1.05);
+}
 
-@media only screen (max-width: 480px){  
+.role {
+  color: #7a7a7a;
+}
 
-  
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fab {
+  font-size: 1.5rem;
+  color: darkgray;
+  transition: transform .5s;
+}
+
+.fab:hover {
+  color: black;
+  transform: scale(1.1);
+}
+
+.card h4 {
+  font-size: 1rem;
 }
 
 
-@media only screen and (min-width: 480px) and (max-width: 1024px){
-  .image img{
-   
+/* MEDIA */
+
+@media only screen and (min-width: 1200px) {
+  .img-hover-zoom--colorize img {
+      width: 200px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .h3,
+  h3 {
+      font-size: 2rem;
+  }
+}
+#myTabContent span{
+color: black;
+padding: 30px;
+font-weight: 700;
+font-size: 18px;
+
 }
