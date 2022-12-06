@@ -13,7 +13,7 @@ include("header.php");
       <li class="breadcrumb-item active text-white" aria-current="page">CSE Department</li>
     </ol>
   </nav>
-  <img src="https://c1.wallpaperflare.com/preview/443/122/419/book-pile-stack-literature.jpg" alt="">
+  <img src="https://bit.ly/3Y1iSAM" alt="">
 
 
 </div>
@@ -37,12 +37,12 @@ include("header.php");
   <div class="container">
     <div class=" row row-cols-3 d-flex justify-content-center">
     <div class="col-11  col-md-6 col-lg-4 my-3 ">
-        <div class="card h-100 shadow-sm rounded-4">
+        <div class="card h-100 shadow-sm rounded-4 bg-danger">
           <div class="text-center">
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize">
-              <img class="shadow" src="https://source.unsplash.com/B4TjXnI0Y2c/600x600" alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="img/faculty/Sudesh kumar.jpg" alt="Another Image zoom-on-hover effect" height="500px" width="500px">
             </div>
 
           </div>
@@ -54,9 +54,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center text-white">
 
-              <h3>Dr. S</h3>
+              <h3>Dr.Sudesh Kumar</h3>
 
             </div>
             <div class="mb-3">
@@ -79,13 +79,13 @@ include("header.php");
                 </ul>
                 <div class="tab-content mt-3" id="myTabContent">
                   <div class="tab-pane fade show active" id="education-1" role="tabpanel" aria-labelledby="education-tab-1">
-                    <span class=""> M.Tech , PHD</span>
+                    <span class=""> M.Tech , PhD</span>
                   </div>
                   <div class="tab-pane fade" id="whatsapp-1" role="tabpanel" aria-labelledby="whatsapp-tab-1">
-                    <span class=""> <a href="we.me/91987654321" class="text-decoration-none text-dark">+91 987654321</a></span>
+                    <span class=""> <a href="we.me/9466377067" class="text-decoration-none text-dark"></a>9466377067</span>
                   </div>
                   <div class="tab-pane fade" id="email-1" role="tabpanel" aria-labelledby="email-tab-1">
-                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark">Vimalpandey@gmail.com</a></span>
+                    <span class=""> <a href="mailto:sudeshjakhar@gmail.com" class="text-decoration-none text-dark">sudeshjakhar@gmail.com</a></span>
                   </div>
                 </div>
 
@@ -98,7 +98,7 @@ include("header.php");
         </div>
       </div>  
     <div class="col-11  col-md-6 col-lg-4 my-3 ">
-        <div class="card h-100 shadow-sm rounded-4">
+        <div class="card h-100 shadow-sm rounded-4 bg-dark">
           <div class="text-center">
 
 
@@ -115,7 +115,7 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center text-white">
 
               <h3>Sushma Rani</h3>
 
@@ -140,13 +140,13 @@ include("header.php");
                 </ul>
                 <div class="tab-content mt-3" id="myTabContent">
                   <div class="tab-pane fade show active" id="education-2" role="tabpanel" aria-labelledby="education-tab-2">
-                    <span class=""> M.Tech , PHD</span>
+                    <span class=""> M.Tech </span>
                   </div>
                   <div class="tab-pane fade" id="whatsapp-2" role="tabpanel" aria-labelledby="whatsapp-tab-2">
-                    <span class=""> <a href="we.me/91987654321" class="text-decoration-none text-dark">+91 987654321</a></span>
+                    <span class=""> <a href="#" class="text-decoration-none text-dark">NA</a></span>
                   </div>
                   <div class="tab-pane fade" id="email-2" role="tabpanel" aria-labelledby="email-tab-2">
-                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark">Vimalpandey@gmail.com</a></span>
+                    <span class=""> <a href="sushmarani0989@gmail.com" class="text-decoration-none text-dark">sushmarani0989@gmail.com</a></span>
                   </div>
                 </div>
 
@@ -159,7 +159,7 @@ include("header.php");
         </div>
       </div>  
     <div class="col-11  col-md-6 col-lg-4 my-3 ">
-        <div class="card h-100 shadow-sm rounded-4">
+        <div class="card h-100 shadow-sm rounded-4 bg-primary">
           <div class="text-center">
 
 
@@ -176,9 +176,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center text-white">
 
-              <h3>Sushma Rani</h3>
+              <h3>Nagina</h3>
 
             </div>
             <div class="mb-3">
@@ -201,13 +201,13 @@ include("header.php");
                 </ul>
                 <div class="tab-content mt-3" id="myTabContent">
                   <div class="tab-pane fade show active" id="education-3" role="tabpanel" aria-labelledby="education-tab-3">
-                    <span class=""> M.Tech , PHD</span>
+                    <span class=""> M.Tech </span>
                   </div>
                   <div class="tab-pane fade" id="whatsapp-3" role="tabpanel" aria-labelledby="whatsapp-tab-3">
-                    <span class=""> <a href="we.me/91987654321" class="text-decoration-none text-dark">+91 987654321</a></span>
+                    <span class=""> <a href="#" class="text-decoration-none text-dark">NA</a></span>
                   </div>
                   <div class="tab-pane fade" id="email-3" role="tabpanel" aria-labelledby="email-tab-3">
-                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark">Vimalpandey@gmail.com</a></span>
+                    <span class=""> <a href="mailto:nagina2k22@gmail.com" class="text-decoration-none text-dark">nagina2k22@gmail.com</a></span>
                   </div>
                 </div>
 
@@ -220,12 +220,12 @@ include("header.php");
         </div>
       </div>  
     <div class="col-11  col-md-6 col-lg-4 my-3 ">
-        <div class="card h-100 shadow-sm rounded-4">
+        <div class="card h-100 shadow-sm rounded-4 bg-warning   ">
           <div class="text-center">
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize">
-              <img class="shadow" src="https://source.unsplash.com/B4TjXnI0Y2c/600x600" alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="" alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -239,7 +239,7 @@ include("header.php");
 
             <div class="my-2 text-center">
 
-              <h3>Sushma Rani</h3>
+              <h3>Ashish Kumar</h3>
 
             </div>
             <div class="mb-3">
@@ -262,13 +262,13 @@ include("header.php");
                 </ul>
                 <div class="tab-content mt-3" id="myTabContent">
                   <div class="tab-pane fade show active" id="education-4" role="tabpanel" aria-labelledby="education-tab-4">
-                    <span class=""> M.Tech , PHD</span>
+                    <span class=""> M.Tech </span>
                   </div>
                   <div class="tab-pane fade" id="whatsapp-4" role="tabpanel" aria-labelledby="whatsapp-tab-4">
-                    <span class=""> <a href="we.me/91987654321" class="text-decoration-none text-dark">+91 987654321</a></span>
+                    <span class=""> <a href="#" class="text-decoration-none text-dark">NA</a></span>
                   </div>
                   <div class="tab-pane fade" id="email-4" role="tabpanel" aria-labelledby="email-tab-4">
-                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark">Vimalpandey@gmail.com</a></span>
+                    <span class=""> <a href="mailto:sangwanashi333@gmail.com" class="text-decoration-none text-dark">sangwanashi333@gmail.com</a></span>
                   </div>
                 </div>
 
@@ -281,7 +281,7 @@ include("header.php");
         </div>
       </div>  
     <div class="col-11  col-md-6 col-lg-4 my-3 ">
-        <div class="card h-100 shadow-sm rounded-4">
+        <div class="card h-100 shadow-sm rounded-4 bg-danger">
           <div class="text-center">
 
 
@@ -298,9 +298,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center text-white">
 
-              <h3>Sushma Rani</h3>
+              <h3>Priya Darshini</h3>
 
             </div>
             <div class="mb-3">
@@ -326,10 +326,10 @@ include("header.php");
                     <span class=""> M.Tech , PHD</span>
                   </div>
                   <div class="tab-pane fade" id="whatsapp-5" role="tabpanel" aria-labelledby="whatsapp-tab-5">
-                    <span class=""> <a href="we.me/91987654321" class="text-decoration-none text-dark">+91 987654321</a></span>
+                    <span class=""> <a href="#" class="text-decoration-none text-dark">NA</a></span>
                   </div>
                   <div class="tab-pane fade" id="email-5" role="tabpanel" aria-labelledby="email-tab-5">
-                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark">Vimalpandey@gmail.com</a></span>
+                    <span class=""> <a href="" class="text-decoration-none text-dark"></a></span>
                   </div>
                 </div>
 
@@ -342,7 +342,7 @@ include("header.php");
         </div>
       </div>  
     <div class="col-11  col-md-6 col-lg-4 my-3 ">
-        <div class="card h-100 shadow-sm rounded-4">
+        <div class="card h-100 shadow-sm rounded-4 bg-dark">
           <div class="text-center">
 
 
@@ -359,9 +359,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center text-white">
 
-              <h3>Sushma Rani</h3>
+              <h3>Dimple </h3>
 
             </div>
             <div class="mb-3">
@@ -384,13 +384,13 @@ include("header.php");
                 </ul>
                 <div class="tab-content mt-3" id="myTabContent">
                   <div class="tab-pane fade show active" id="education-6" role="tabpanel" aria-labelledby="education-tab-6">
-                    <span class=""> M.Tech , PHD</span>
+                    <span class=""> M.Tech </span>
                   </div>
                   <div class="tab-pane fade" id="whatsapp-6" role="tabpanel" aria-labelledby="whatsapp-tab-6">
-                    <span class=""> <a href="we.me/91987654321" class="text-decoration-none text-dark">+91 987654321</a></span>
+                    <span class=""> <a href="#" class="text-decoration-none text-dark"></a>NA</span>
                   </div>
                   <div class="tab-pane fade" id="email-6" role="tabpanel" aria-labelledby="email-tab-6">
-                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark">Vimalpandey@gmail.com</a></span>
+                    <span class=""> <a href="dimplemalik1234@gmail.com" class="text-decoration-none text-dark">dimplemalik1234@gmail.com</a></span>
                   </div>
                 </div>
 
@@ -545,6 +545,45 @@ while($x <= 5) {
   </div>
 </div>
 </div>
+
+
+
+    <!-- tired! -->
+    <div class="slider-scontainer">
+      <div class="left-slide">
+        <div style="background-color: #fde">
+          <h1>Pink Cherrish</h1>
+          <p>to evolve into care</p>
+        </div>
+        <div style="background-color: rgb(254,160,0)">
+          <h1>Yellow Luck</h1>
+          <p>Shinning the clouds</p>
+        </div>
+        <div style="background-color: rgb(231, 58, 95)">
+          <h1>Redness Lust</h1>
+          <p>in the wilderness</p>
+        </div>
+        <div style="background-color: rgb(176, 136, 240)">
+          <h1>Lavanda Love</h1>
+          <p>in the sunset</p>
+        </div>
+      </div>
+      <div class="right-slide">
+        <div style="background-image: url('https://images.unsplash.com/photo-1528756514091-dee5ecaa3278?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8Zmxvd2Vyc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1296&q=60');"></div>
+        <div style="background-image: url('https://images.unsplash.com/photo-1519378058457-4c29a0a2efac?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8Zmxvd2Vyc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1296&q=60');"></div>
+        <div style="background-image: url('https://images.unsplash.com/photo-1490750967868-88aa4486c946?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8Zmxvd2Vyc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1296&q=60');"></div>
+        <div style="background-image: url('https://images.unsplash.com/photo-1462275646964-a0e3386b89fa?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80');"></div>
+      </div>
+      <div class="action-buttons">
+        <button class="down-button">
+          <i class="fas fa-arrow-down"></i>
+        </button>
+        <button class="up-button">
+          <i class="fas fa-arrow-up"></i>
+        </button>
+      </div>
+    </div>
+
 
 <div class="container">
   <h2 class="h2 text-uppercase">Message From

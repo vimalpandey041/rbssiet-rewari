@@ -14,11 +14,12 @@
   <link rel="stylesheet" href="./css/route.css">
   <link rel="stylesheet" href="./css/gallery.css">
   <link rel="stylesheet" href="./css/about.css">
+   <link rel="stylesheet" href="./css/cse.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+
 
   <!-- gallery -->
-  <meta Content-Type: text/html; charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
   <!-- Font links -->
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
   <!-- Font Awesome -->
