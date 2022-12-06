@@ -617,6 +617,7 @@ function shuffle(arr) {
   }
 
   return arr;
+<<<<<<< HEAD
 }
 
 
@@ -654,4 +655,6 @@ const changeSlide = (direction) => {
 
     slideRight.style.transform = `translateY(-${activeSlideIndex * sliderHeight}px)`
     slideLeft.style.transform = `translateY(${activeSlideIndex * sliderHeight}px)`
+=======
+>>>>>>> 586de012631baab836a7139cb8869e4c860f9ad7
 }
