@@ -563,9 +563,7 @@ while($x <= 5) {
     </div>
     <div class="col-lg-10 col-md-12 px-4">
       <p style="text-align:justify; " class="my-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum fugiat repudiandae in inventore! Earum officia pariatur, sit quisquam nam corrupti. Aut voluptas accusamus aperiam, voluptatibus beatae eaque officia iure dignissimos distinctio. Atque eaque consequuntur fugit, deserunt mollitia nihil nesciunt praesentium dicta quos expedita recusandae aperiam? Commodi, ab beatae, consequatur sapiente incidunt natus quisquam ea dolor rerum tempore  </p>
-      <div class="text-center my-4">
-        <button type="button" class="btn btn-danger py-2  px-4  "> View More</button>
-      </div>
+      
     </div>
   </div>
 </div>
