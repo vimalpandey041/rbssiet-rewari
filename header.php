@@ -14,6 +14,7 @@
   <link rel="stylesheet" href="./css/lightbox.css">
   <link rel="stylesheet" href="./css/route.css">
   <link rel="stylesheet" href="./css/gallery.css">
+  <link rel="stylesheet" href="./css/craousel.css">
   <link rel="stylesheet" href="./css/about.css">
 
   <!-- gallery -->
