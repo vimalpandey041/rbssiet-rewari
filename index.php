@@ -132,8 +132,8 @@ include("header.php");
   </div>
   
   <div class="container-fluid my-5 px-3 px-sm-5">
-    <div class="row justify-content-center ">
-      <div class="col-md-11  col-lg-6 bg-white px-sm-4  my-3 ">
+    <div class="row justify-content-center  block-height">
+      <div class="col-md-11  col-lg-6 bg-white px-sm-4  my-3  ">
         <h2 class="h2 text-uppercase">About
           <span class="text-danger text-uppercase ">RBSSIET</span>
         </h2>
@@ -153,10 +153,10 @@ include("header.php");
         <div class="double-line-bottom-theme-colored-2"></div>
         <div class="row d-flex justify-content-center">
           <div class="col-lg-4 col-md-6 col-6 mb-3">
-            <div class="card  rounded-4 shadow ">
+            <div class="card img-fluid rounded-4 shadow ">
               <div class="card-body text-center ">
                 <div class="direc-img image_popup ">
-                  <img src="./img/51.png" class="card-img img-fluid " alt="">
+                  <img src="./img/51.png" class="card-img " alt="">
                 </div>
               </div>
               <div class="text-center director-footer ">
