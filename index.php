@@ -1,88 +1,33 @@
 <?php 
 include("header.php");
 ?> 
-<!-- Carousel wrapper -->
-<div id="carouselBasicExample" style="z-index: 1;" class="carousel slide carousel-fade" data-bs-ride="carousel">
-
-  <!-- Inner -->
-  <div class="carousel-inner">
-    <!-- Single item -->
-    <div class="carousel-item active">
-      <img
-        src="./img/slider/IMG_20220511_204335-scaled.jpg"
-        class="d-block w-100"
-        alt="Sunset Over the City"
-      />
-      <!-- <div class="carousel-caption d-none  slider_data d-md-block">
-        <h5>First slide label</h5>
-        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-      </div> -->
-    </div>
-
-    <!-- Single item -->
-    <div class="carousel-item">
-      <img
-        src="./img/slider/IMG-20220828-WA0026.jpg"
-        class="d-block w-100"
-        alt="Canyon at Nigh"
-      />
-    </div>
-    <div class="carousel-item active">
-      <img
-        src="./img/slider/1665039525475-scaled.jpg"
-        class="d-block w-100"
-        alt="Sunset Over the City"
-      />
-    </div>
-
-    <!-- Single item -->
-    <div class="carousel-item">
-      <img
-        src="./img/slider/28-1.jpeg"
-        class="d-block w-100"
-        alt="Canyon at Nigh"
-      />
-    </div>
-
-    <!-- Single item -->
-    <div class="carousel-item">
-      <img
-        src="./img/slider/36.jpeg"
-        class="d-block w-100"
-        alt="Cliff Above a Stormy Sea"
-      />
-    </div>
-   
-    <div class="carousel-item">
-      <img
-        src="./img/slider/IMG-20220730-WA0000.jpg"
-        class="d-block w-100"
-        alt="Cliff Above a Stormy Sea"
-      />
-    </div>
-   
-  </div>
-  <!-- Inner -->
-
-  <!-- Controls -->
-  <button
-    class="carousel-control-prev"
-    type="button"
-    data-bs-target="#carouselBasicExample"
-    data-bs-slide="prev"
-  >
-    <span class="carousel-control-prev-icon " aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button
-    class="carousel-control-next"
-    type="button"
-    data-bs-target="#carouselBasicExample"
-    data-bs-slide="next"
-  >
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
+<div class="container-fluid p-0">
+<section class="carousel">
+  <button class="slider-button slider-button-prev" data-slide-direction="prev"><i class="fa-solid fa-angle-left fa-md-3x fa-2x"></i></button>
+  <button class="slider-button slider-button-next" data-slide-direction="next">
+  <i class="fa-solid fa-chevron-right fa-md-3x fa-2x"></i></button>
+  <ul class="slides">
+    <li class="slide" data-active-slide>
+      <img src="./img/slider/IMG_20220511_204335-scaled.jpg" alt="Nature Image #1" />
+    </li>
+    <li class="slide">
+      <img src="./img/slider/36.jpeg" />
+    </li>
+    <li class="slide">
+      <img src="./img/slider/28-1.jpeg" />
+    </li>
+  
+    <li class="slide">
+      <img src="./img/slider/1665039525475-scaled.jpg" />
+    </li>
+    <li class="slide">
+      <img src="./img/slider/IMG-20220730-WA0000.jpg" />
+    </li>
+    <li class="slide">
+      <img src="./img/slider/IMG-20220828-WA0026.jpg" />
+    </li>
+  </ul>
+</section>
 </div>
   <div class="container-fluid py-0 bg-danger">
     <div class="row">
