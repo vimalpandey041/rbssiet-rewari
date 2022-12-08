@@ -49,12 +49,12 @@ include("header.php");
          <div class="news-slider-new">
          <p class="px-3 py-0"> <a href="https://scholarships.gov.in/fresh/loginPage" class="text-decoration-none  h6 text-white ">Registration open for PMS and NPS scholarships for the sessioin 2022-23</a></p>
          <span>||</span>
-          <p class="px-3 py-0"> <a href="./downloads/anouncement/New Doc 2022-08-31 17.05.24.pdf" class="text-decoration-none  h6 text-white ">Fee Notice for 4th, 6th and 8th semester students.</a></p>
+          <p class="px-3 py-0"> <a href="./downloads/anouncement/New Doc 2022-08-31 17.05.24.pdf" class="text-decoration-none  h6 text-white ">Fee Notice for 3rd, 5th and 7  th semester students.</a></p>
           <span>||</span>
           
           <p class="px-3 py-0"> <a href="./downloads/Emplanment_guest faculty.jpg" class="text-decoration-none  h6 text-white ">Advertisement for Empanelment of Guest faculty</a></p>
           <span>||</span>
-          <p class="px-3 py-0"> <a href="https://pgscholarship.aicte-india.org/" class="text-decoration-none  h6 text-white ">GUIDELINES FOR AICTE - POST GRADUATE (PG) SCHOLARSHIP SCHEME 2021-22</a></p>
+          <p class="px-3 py-0"> <a href="https://pgscholarship.aicte-india.org/assets/manuals/Manual_for_Student_New_PG_Portal.pdf" class="text-decoration-none  h6 text-white ">GUIDELINES FOR AICTE - POST GRADUATE (PG) SCHOLARSHIP SCHEME 2021-22</a></p>
          </div>
             </marquee>
       </div>
@@ -429,10 +429,9 @@ include("header.php");
         <marquee height="400px" width="100%" behavior="scroll" direction="up" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
           <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Registration open for PMS and NPS scholarships for the sessioin 2022-23</a></p>
           <br>
-          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="" class="text-decoration-none text-danger h6 ">Fee Notice for 4th, 6th and 8th semester students.</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="" class="text-decoration-none text-danger h6 ">Fee Notice for 3rd, 5th and 7th semester students.</a></p>
           <br>
-          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Notice regarding offline classes for next semester</a></p>
-          <br>
+          
           <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="./downloads/Emplanment_guest faculty.jpg" class="text-decoration-none text-danger h6 ">Advertisement for Empanelment of Guest faculty</a></p>
           <br>
           <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">GUIDELINES FOR AICTE - POST GRADUATE (PG) SCHOLARSHIP SCHEME 2021-22</a></p>
