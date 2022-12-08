@@ -8,9 +8,9 @@ include("header.php");
     <nav aria-label="breadcrumb" class="breadcrumb-img">
        <span>Contact Us</span>
         <ol class="breadcrumb text-white">
-            <li class="breadcrumb-item text-white"><a href="index2.php">Home</a></li>
+            <li class="breadcrumb-item text-white"><a href="index.php">Home</a></li>
             <li class="breadcrumb-item text-white"><a href="about.php">About</a></li>
-            <li class="breadcrumb-item active text-secondary" aria-current="page">Contact Us</li>
+            <li class="breadcrumb-item active " aria-current="page"><span>Contact Us</span></li>
         </ol>
     </nav>
     <img src="https://bit.ly/3F0qvPy"  alt="">

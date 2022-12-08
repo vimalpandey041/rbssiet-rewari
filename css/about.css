@@ -41,3 +41,19 @@
   .pera-justify{
     text-align: justify;
   }
+  .about-background p{
+    color: rgb(34, 5, 58);
+    font-weight: 600;
+    font-size: 2.1vw;
+    text-align: justify;
+    padding: 0px 30px;
+  }
+  .atext{
+    font-size: 3.5vw;
+  }
+  @media screen and (max-width:480px) {
+    .about-background p{
+      font-size: 14px;
+      padding: 0px 5px;
+    }
+  }

@@ -7,8 +7,8 @@ include("header.php");
        <span >Route To The Institute</span>
         <ol class="breadcrumb text-white">
             <li class="breadcrumb-item text-white"><a href="index2.php">Home</a></li>
-            <li class="breadcrumb-item text-white"><a href="contact.php">Contact</a></li>
-            <li class="breadcrumb-item active text-secondary" aria-current="page">Route To The Institute</li>
+            <li class="breadcrumb-item text-white"><a href="contact.php">About</a></li>
+            <li class="breadcrumb-item active text-secondary" aria-current="page"><span>Route To The Institute</span></li>
         </ol>
     </nav>
     <img src="https://bit.ly/3UxWKv9"  alt="">

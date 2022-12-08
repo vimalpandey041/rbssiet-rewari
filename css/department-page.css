@@ -1,15 +1,15 @@
 .img-hover-zoom--colorize img {
   border-radius: 50%;
   width: 150px;
-  height: auto;
+  height: 150px;
   margin-top: 20px;
   padding: 1px;
+  object-fit:cover;
   transition: transform .5s;
-  filter: grayscale(100%);
 }
 
 .img-hover-zoom--colorize:hover img {
-  filter: grayscale(0);
+  filter: grayscale(100);
   transform: scale(1.05);
 }
 
@@ -43,7 +43,8 @@
 
 @media only screen and (min-width: 1200px) {
   .img-hover-zoom--colorize img {
-      width: 200px;
+      width: 210px;
+      height: 210px;
   }
 }
 

@@ -2,7 +2,7 @@
 include("header.php");
 ?> 
 <!-- Carousel wrapper -->
-<div id="carouselBasicExample" class="carousel slide carousel-fade" data-bs-ride="carousel">
+<div id="carouselBasicExample" style="z-index: 1;" class="carousel slide carousel-fade" data-bs-ride="carousel">
 
   <!-- Inner -->
   <div class="carousel-inner">
@@ -95,7 +95,7 @@ include("header.php");
 
   <div class="container-fluid py-0 bg-danger">
     <div class="row">
-      <div class="col-sm-2 bg-warning justify-content-center align-items-center heading-1 d-flex py-0 " style="z-index: 999;">
+      <div class="col-sm-2 bg-warning justify-content-center align-items-center heading-1 d-flex py-0 " style="z-index: 1;">
         <h4>Announcement </h4>
         
       </div>
@@ -146,8 +146,8 @@ include("header.php");
           <span class="text-danger text-uppercase ">Corner</span>
         </h2>
         <div class="double-line-bottom-theme-colored-2"></div>
-        <div class="row">
-          <div class="col-lg-4 col-md-12">
+        <div class="row d-flex justify-content-center">
+          <div class="col-lg-4 col-md-6 col-6 mb-3">
             <div class="card  rounded-4 shadow ">
               <div class="card-body text-center ">
                 <div class="direc-img image_popup ">
@@ -166,7 +166,7 @@ include("header.php");
              
           </div>
         </div>
-        <div class="row my-3">
+        <div class="row my-3 my-md-1">
       <div class="col-12"> <a href="principaldesk.php"  class="btn btn-outline-dark rounded-5 " style="width:100% ;"  > View More</a></div>
     </div>
       </div>

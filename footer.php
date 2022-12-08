@@ -1,7 +1,7 @@
 <footer>
       <div class="container-fluid gradient11" >
         <div class="row">
-          <div class="col-12 col-md-6 col-lg-4 " >
+          <div class="col-12 col-md-12 p-md-0 col-lg-4 " >
            <div class="text-center mt-3">
             <img src="img/rbssiet new logo.png " class="img-fluid" width="110px" alt="">
            </div>
@@ -35,9 +35,9 @@
               </div>
             </div>
           </div>
-          <div class="col-12 cl-md-6 col-lg-4" >
-            <h4 class="text-center h2 text-white mt-3">Quick Links</h4>
-            <ul class="mt-3">
+          <div class="col-12 p-md-0 col-md-6 col-lg-4 mt-3 px-md-5" >
+            <h4 class=" h2 text-white mt-3">Quick Links</h4>
+            <ul class="mt-3 p-0">
               <li class="py-2  " style="list-style:none ;"><a href="www.techadmissionshry.gov.in" class="text-decoration-none h6 text-white">www.techadmissionshry.gov.in</a></li>
               <li class="py-2  " style="list-style:none ;"><a href="www.hstes.org.in" class="text-decoration-none h6 text-white">www.hstes.org.in</a></li>
               <li class="py-2  " style="list-style:none ;"><a href="www.techeduhry.gov.in" class="text-decoration-none h6 text-white">www.techeduhry.gov.in</a></li>
@@ -46,9 +46,9 @@
               <li class="py-2  " style="list-style:none ;"><a href="https://pandeywebsolution.in" class="text-decoration-none h6 text-white">https://pandeywebsolution.in</a></li>
             </ul>
           </div>
-          <div class="col-12 cl-md-6 col-lg-4" >
-            <h4 class="text-center h2 text-white mt-3">Explore</h4>
-            <ul class="mt-3">
+          <div class="col-12 col-md-6 p-md-0 col-lg-4 mt-3 px-md-5" >
+            <h4 class=" h2 text-white mt-3">Explore</h4>
+            <ul class="mt-3 p-0">
               <li class="py-2  " style="list-style:none ;"><a href="www.techadmissionshry.gov.in" class="text-decoration-none h6 text-white ">About Us</a></li>
               <li class="py-2  " style="list-style:none ;"><a href="www.hstes.org.in" class="text-decoration-none h6 text-white">Contact Us</a></li>
               <li class="py-2  " style="list-style:none ;"><a href="www.techeduhry.gov.in" class="text-decoration-none h6 text-white">Departments</a></li>
@@ -92,12 +92,8 @@
 <script src="owlcarousel/jquery.min.js"></script>
 <script src="owlcarousel/owl.carousel.min.js"></script>
 <script src="script.js"></script>  
-<script>
-  window.addEventListener("scroll", function(){
-    var header = document.querySelector("header");
-    header.classList.toggle("sticky", window.scrollY > 0);
-  })
-  </script>
+<script src="script1.js"></script>  
+
 <script>
   $('.owl-carousel').owlCarousel({
 
@@ -112,7 +108,12 @@
 })
 </script>
 
-
+<script>
+  window.addEventListener("scroll", function(){
+  var header = document.querySelector("header");
+  header.classList.toggle("sticky", window.scrollY > 0);
+})
+</script>
 <script>
   jQuery.fn.liScroll = function(settings) {
 	settings = jQuery.extend({
@@ -189,6 +190,9 @@ $(function(){
 $(function(){
     $("ul#ticker01").liScroll();
 });
+</script>
+<script>
+  
 </script>
 <script src="./lightbox-plus-jquery.js"></script>
 </body>

@@ -7,19 +7,19 @@
   <link rel="stylesheet" href="./css/style.css">
   <link rel="stylesheet" href="./css/syllabus.css">
   <link rel="stylesheet" href="./css/slider.css">
-  <link rel="stylesheet" href="./css/department.css">
+  <link rel="stylesheet" href="./css/department-page.css">
+  <link rel="stylesheet" href="./css/departments.css">
   <link rel="stylesheet" href="./css/faculty.css">
   <link rel="stylesheet" href="./css/placement.css">
   <link rel="stylesheet" href="./css/lightbox.css">
   <link rel="stylesheet" href="./css/route.css">
   <link rel="stylesheet" href="./css/gallery.css">
   <link rel="stylesheet" href="./css/about.css">
-   <link rel="stylesheet" href="./css/cse.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
-
 
   <!-- gallery -->
-  
+  <meta Content-Type: text/html; charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <!-- Font links -->
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
   <!-- Font Awesome -->
@@ -84,326 +84,271 @@
     </div>
   </div>
   <header class="">
-    <div class="container-fluid text-white text-center">
-      <div class="row">
-        <div class="col-2 d-flex justify-content-start">
-          <a href="#" class="logo">
-            <img src="./img/rbssiet new logo.png" class="" alt="">
-          </a>
-        </div>
-        <div class="col-9  d-flex justify-content-start flex-column align-items-center">
-       <div class="row">
-        <div class="col">
-          <h3>
-           <span class="mainh1"> Rao Birender Singh</span> 
-           <br class="d-block d-md-none"> State Institute Of Engineering And Technology
-          </h3 >
-          
-        </div>
-       </div>  
-     
-      
-      <div class="row d-none d-lg-block">
-        <div class="col">
-          <ul class="navbar-nav text-uppercase d-flex flex-row justify-content-center rounded-3" style="font-size:12px ; font-weight: 600;">
-            <li class="nav-item  menu-font "><a href="index.php" class="nav-link menu-font ">Home</a></li>
-            <div class="dropdown">
-              <a
-                class="btn dropdown-toggle menu-font" 
-                href="#"
-                role="button"
-                id="dropdownMenuLink"
-                data-bs-toggle="dropdown"
-                aria-expanded="false"
-              >
-                About
-              </a>
-            
-              <ul class="dropdown-menu py-2" aria-labelledby="dropdownMenuLink">
-                <li><a class="dropdown-item py-3" href="principaldesk.php">Principal's Desk</a></li>
-                <li><a class="dropdown-item py-3" href="placement.php">Placements</a></li>
-                <li><a class="dropdown-item py-3" href="#">Projects</a></li>
-                <li><a class="dropdown-item py-3" href="#">Luminaries</a></li>
-                <li><a class="dropdown-item py-3" href="#">Annual Report</a></li>
-                <li><a class="dropdown-item py-3" href="#">Mandatory Disclosure</a></li>
-                <li><a class="dropdown-item py-3" href="#">RTI Act 2005</a></li>
-                <li><a class="dropdown-item py-3" href="contact.php">Contact</a></li>
-                <li><a class="dropdown-item py-3" href="route.php">Route To Institute</a></li>
-              </ul>
-            </div>
-            <div class="dropdown">
-              <a
-                class="btn  dropdown-toggle menu-font"
-                href="#"
-                role="button"
-                id="dropdownMenuLink"
-                data-bs-toggle="dropdown"
-                aria-expanded="false"
-              >
-                Students
-              </a>
-            
-              <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                <li><a class="dropdown-item py-3" href="#">Departments</a></li>
-                <li><a class="dropdown-item py-3" href="syllabus.php">Syllabus</a></li>
-                <li><a class="dropdown-item py-3" href="#">Academic Calander</a></li>
-                <li><a class="dropdown-item py-3" href="#">Time Table</a></li>
-                <li><a class="dropdown-item py-3" href="#">Skill cources</a></li>
-                <li><a class="dropdown-item py-3" href="#">Apprenticeship</a></li>
-                <li><a class="dropdown-item py-3" href="#">NCC / NSS</a></li>
-                <li><a class="dropdown-item py-3" href="#">Award </a></li>
-                <li><a class="dropdown-item py-3" href="#">Scholarship</a></li>
-                <li><a class="dropdown-item py-3" href="#">Exams</a></li>
-                <li><a class="dropdown-item py-3" href="#">Results</a></li>
-                <li><a class="dropdown-item py-3" href="#">Anti Ragging</a></li>
-                <li><a class="dropdown-item py-3" href="#">Student Helpline</a></li>
-                <li><a class="dropdown-item py-3" href="#">E - Services</a></li>
-              </ul>
-            </div>
-            <div class="dropdown">
-              <a
-                class="btn  dropdown-toggle menu-color menu-font"
-                href="#"
-                role="button"
-                id="dropdownMenuLink"
-                data-bs-toggle="dropdown"
-                aria-expanded="false"
-              >
-               
-Faculty
-              </a>
-            
-              <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                <li><a class="dropdown-item py-3" href="#">faculty</a></li>
-                <li><a class="dropdown-item py-3" href="#">Code of Conduct</a></li>
-                <li><a class="dropdown-item py-3" href="#">Training Policy</a></li>
-                <li><a class="dropdown-item py-3" href="#">Service Rules</a></li>
-                <li><a class="dropdown-item py-3" href="#">HRMS</a></li>
-                <li><a class="dropdown-item py-3" href="#">IQAC- Quality cell</a></li>
-                <li><a class="dropdown-item py-3" href="#">E - Services</a></li>
-              </ul>
-            </div>
-            <div class="dropdown">
-              <a
-                class="btn  dropdown-toggle menu-font" 
-                href="#"
-                role="button"
-                id="dropdownMenuLink"
-                data-bs-toggle="dropdown"
-                aria-expanded="false"
-              >
-               
+        <div class="container-fluid text-white text-center">
+            <div class="row d-md-flex align-items-center">
+                <div class="col-lg-1 col-2 d-flex align-items-center justify-content-start">
+                    <a href="#" class="logo">
+                        <img src="./img/rbssiet new logo.png" class="" alt="">
+                    </a>
+                </div>
+                <div class="col-9 col-lg-11  d-flex justify-content-start flex-column align-items-center">
+                    <div class="row">
+                        <div class="col">
+                            <h3>
+                                <span class="mainh1"> Rao Birender Singh</span>
+                                <br class="d-block d-md-none"> State Institute Of Engineering And Technology
+                            </h3>
 
-              Admissions
-              </a>
-            
-              <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                <li><a class="dropdown-item py-3" href="#">Open counseling</a></li>
-                <li><a class="dropdown-item py-3" href="#">B.Tech Prospectus 2022-2023</a></li>
-                <li><a class="dropdown-item py-3" href="#">B.Tech (LEET) Prospectus 2022-2023</a></li>
-                <li><a class="dropdown-item py-3" href="#">Key Dates</a></li>
-                <li><a class="dropdown-item py-3" href="#">Fees Structure</a></li>
-                <li><a class="dropdown-item py-3" href="#">Additional Query</a></li>
-              </ul>
-            </div>
-            <div class="dropdown">
-              <a
-                class="btn  dropdown-toggle menu-font" 
-                href="#"
-                role="button"
-                id="dropdownMenuLink"
-                data-bs-toggle="dropdown"
-                aria-expanded="false"
-              >
-               
+                        </div>
+                    </div>
 
-              
-Media
-              </a>
-            
-              <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                <li><a class="dropdown-item py-3" href="#">Photos</a></li>
-                <li><a class="dropdown-item py-3" href="#">Videos</a></li>
-              </ul>
-            </div>
-            <div class="dropdown">
-              <a
-                class="btn  dropdown-toggle menu-font"
-                href="#"
-                role="button"
-                id="dropdownMenuLink"
-                data-bs-toggle="dropdown"
-                aria-expanded="false"
-              >
-               
 
-              
-Events/ Activities
-              </a>
-            
-              <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                <li><a class="dropdown-item py-3" href="#">India Mobile Congress 2022</a></li>
-                <li><a class="dropdown-item py-3" href="#">Events</a></li>
-              </ul>
+                    <div class="row  py-2">
+                        <div class="col">
+                            <nav>
+                                <div class="topnav mobiletopnav" id="myTopnav">
+                                    <a href="index.php" class="closebtn d-block d-lg-none"  onclick="closeNav()">&times;</a>
+                                <a href="index.php">Home</a>
+                                <div class="dropdown">
+                                    <button class="drop-btn" onclick="location.href='about.php'" >
+                                        About <i class="fa-solid fa-caret-down ps-1"></i>
+                                    </button>
+                                    <div class="dropdown-content">
+                                        <a href="principaldesk.php">Principal's Desk</a>
+                                        <a href="">Placements</a>
+                                        <a href="#">Projects</a>
+                                        <a href="#">Luminaries</a>
+                                        <a href="#">Annual Report</a>
+                                        <a href="#">Mandatory Disclosure</a>
+                                        <a href="rti.php">RTI Act 2005</a>
+                                        <a href="contact.php">Contact</a>
+                                        <a href="route.php">Route To Institute</a>
+                                    </div>
+                                </div>
+                                <div class="dropdown">
+                                    <button class="drop-btn">
+                                        Students <i class="fa-solid fa-caret-down ps-1"></i>
+                                    </button>
+                                    <div class="dropdown-content">
+                                        <div class="dropdown-right">
+                                            <button class="dropright-btn" onclick="location.href='departments.php'">
+                                                Departments <i class="fa-solid fa-caret-right "></i>
+                                            </button>
+                                            <div class="dropdown-right-content">
+                                                <a href="cse.php">Computer Engineering</a>
+                                                <a href="ce.php">Civil Engineering</a>
+                                                <a href="ee.php">Electrical Engineering</a>
+                                                <a href="ece.php">Electronics & Comm. Engineering</a>
+                                                <a href="me.php">Mechanical Engineering</a>
+                                            </div>
+                                        </div>
+                                        <div class="dropdown-right">
+                                            <button class="dropright-btn" onclick="location.href='syllabus.php'">
+                                                Syllabus<i class="fa-solid fa-caret-right "></i>
+                                            </button>
+                                            <div class="dropdown-right-content">
+                                            <div class="dropdown-right-sub">
+                                            <button class="dropright-btn">
+                                            Computer Engineering <i class="fa-solid fa-caret-right "></i>
+                                            </button>
+                                            <div class="dropdown-right-sub-content">
+                                            <a href="https://drive.google.com/file/d/1tQnCESJ49zu2vHI6b8BwL4rbyoKGizf4/view?usp=sharing">1st & 2nd SEM (CSE)</a>
+                                            <a href="http://igu.ac.in/2021/wp-content/uploads/BTECH_3rd-and-4th-sem-_CSE.pdf">3rd & 4th SEM (CSE)</a>
+                                            <a href="https://drive.google.com/file/d/1l2cZNsKXqqE7pr7B04OY2bas_-n6_u8g/view">5th & 6th SEM (CSE)</a>
+                                            <a href="https://drive.google.com/file/d/19H3zPeqnxo4kpZdNLW8X-Ox8FEsSSQV4/view">7th & 8th SEM (CSE)</a>
+                                            </div>
+                                        </div>
+                                            <div class="dropdown-right-sub">
+                                            <button class="dropright-btn">
+                                            Civil Engineering <i class="fa-solid fa-caret-right "></i>
+                                            </button>
+                                            <div class="dropdown-right-sub-content">
+                                            <a href="https://drive.google.com/file/d/1tQnCESJ49zu2vHI6b8BwL4rbyoKGizf4/view?usp=sharing">1st & 2nd SEM (CE)</a>
+                                            <a href="https://drive.google.com/open?id=17-hPw27nq1-o-k8_DkfWrrAenETuRPSp">3rd & 4th SEM (CE)</a>
+                                            <a href="https://drive.google.com/file/d/1gRzyw0YQyKYzP-WeA6jY2cI2Nqn5VGzC/view">5th & 6th SEM (CE)</a>
+                                            <a href="https://drive.google.com/file/d/1Q4-o1NraLR-n8OwqSPdjmQMQwvZ0pJoz/view?usp=sharing">7th & 8th SEM (CE)</a>
+                                            </div>
+                                        </div>
+                                            <div class="dropdown-right-sub">
+                                            <button class="dropright-btn">
+                                            Electrical Engineering <i class="fa-solid fa-caret-right "></i>
+                                            </button>
+                                            <div class="dropdown-right-sub-content">
+                                            <a href="https://drive.google.com/file/d/1tQnCESJ49zu2vHI6b8BwL4rbyoKGizf4/view?usp=sharing">1st & 2nd SEM (EE)</a>
+                                            <a href="https://drive.google.com/file/d/1y4ri6NcQovK84zle9tnmw1aACuG05H76/view">3rd & 4th SEM (EE)</a>
+                                            <a href="https://drive.google.com/file/d/1KCwRktFjDA7Ny5WKlLy6DaEEEraN6M0v/view?usp=sharing">5th & 6th SEM (EE)</a>
+                                            <a href="https://drive.google.com/file/d/15qMC1mGJ2CL-kGqBVhp1d5kQLxD9n6V2/view?usp=sharing">7th & 8th SEM (EE)</a>
+                                            </div>
+                                        </div>
+                                            <div class="dropdown-right-sub">
+                                            <button class="dropright-btn">
+                                            Electronics & Comm. Engineering <i class="fa-solid fa-caret-right "></i>
+                                            </button>
+                                            <div class="dropdown-right-sub-content">
+                                            <a href="https://drive.google.com/file/d/1tQnCESJ49zu2vHI6b8BwL4rbyoKGizf4/view?usp=sharing">1st & 2nd SEM (ECE)</a>
+                                            <a href="https://drive.google.com/open?id=11KllD2QsCryc8I_Cdc4mgv9ofZ6sPyJI">3rd & 4th SEM (ECE)</a>
+                                            <a href="http://igu.ac.in/2021/wp-content/uploads/B.Tech_ECE_3rd_year_new.pdf">5th & 6th SEM (ECE)</a>
+                                            <a href="https://drive.google.com/file/d/1K5pgLDHpJRkv4OIJcqwGiZWMFx9YqIO2/view?usp=sharing">7th & 8th SEM (ECE)</a>
+                                            </div>
+                                        </div>
+                                            <div class="dropdown-right-sub">
+                                            <button class="dropright-btn">
+                                            Mechanical Engineering<i class="fa-solid fa-caret-right "></i>
+                                            </button>
+                                            <div class="dropdown-right-sub-content">
+                                            <a href="https://drive.google.com/file/d/1tQnCESJ49zu2vHI6b8BwL4rbyoKGizf4/view?usp=sharing">1st & 2nd SEM (ME)</a>
+                                            <a href="https://drive.google.com/open?id=1YpaACra46qC2jLjIYYXV43myMSdgJW10">3rd & 4th SEM (ME)</a>
+                                            <a href="https://drive.google.com/file/d/1vi4lHYslkl_xeYs9-UznQYbJChFwMA9B/view?usp=sharing">5th & 6th SEM (ME)</a>
+                                            <a href="https://drive.google.com/file/d/1qIyZdz61D9_OGPBpVu_rirQhpLBcWRjH/view?usp=sharing">7th & 8th SEM (ME)</a>
+                                            </div>
+                                        </div>
+                                            </div>
+                                        </div>
+                                        
+                                        <a href="./downloads/acadmic calander/Academic-Calendar-2022-23.pdf">Academic Calender </a>
+                                        <a href="./downloads/acadmic calander/time-table.pdf">Time Table</a>
+                                        <a href="#">Skill Courses</a>
+                                        <a href="#">Apprenticeship</a>
+                                        <a href="#">NCC/NSS </a>
+                                        <a href="./downloads/acadmic calander/Engg-Day-Quiz-result.pdf">Award</a>
+                                        <a href="fees-structure-and-scholorship.php">Scholarship</a>
+                                        <a href="#">Exam</a>
+                                        <a href="https://igu1.ucanapply.com/result-details">Results</a>
+                                        <a href="#">Anti Ragging</a>
+                                        <a href="#">Student Helpline</a>
+                                        <a href="#">E Services</a>
+                                    </div>
+                                </div>
+                                <div class="dropdown">
+                                    <button class="drop-btn">
+                                        Faculty <i class="fa-solid fa-caret-down ps-1"></i>
+                                    </button>
+                                    <div class="dropdown-content">
+                                        <div class="dropdown-right">
+                                            <button class="dropright-btn">
+                                               Faculty <i class="fa-solid fa-caret-right "></i>
+                                            </button>
+                                            <div class="dropdown-right-content">
+                                            <a href="teachingfaculty.php">Teaching Faculty</a>
+                                            <a href="nonteachingfaculty.php">Non Teaching Staff</a>
+                                            </div>
+                                        </div>
+                                        <a href="#">Code Of Conduct</a>
+                                        <a href="#">Training Policy</a>
+                                        <a href="#">Service Rules</a>
+                                        <a href="https://intrahry.gov.in/">HRMS</a>
+                                        <a href="#">IQAC-Quality cell</a>
+                                        <a href="#">E-Services</a>
+                                    </div>
+                                </div>
+                                <div class="dropdown">
+                                    <button class="drop-btn">
+                                        Admissions <i class="fa-solid fa-caret-down ps-1"></i>
+                                    </button>
+                                    <div class="dropdown-content">
+                                        <a href="./downloads/acadmic calander/open-councelling.pdf">Open counseling</a>
+                                        <a href="./downloads/acadmic calander/B.Tech_.-B.Arch_.-Prospectus-2022-23-6.pdf">B.Tech Prospectus 2022-2023</a>
+                                        <a href="http://hstes.org.in/PDF/2022_pdf/Prospectus/B.Tech%20(LEET)%20Prospectus%202022-23.pdf#page=20">B.Tech (LEET) Prospectus 2022-2023</a>
+                                        <div class="dropdown-right">
+                                            <button class="dropright-btn">
+                                               Key Dates <i class="fa-solid fa-caret-right "></i>
+                                            </button>
+                                            <div class="dropdown-right-content">
+                                            <a href="./downloads/acadmic calander/Schedule-B.Tech-and-B.Arch_.pdf">B.Tech 2022</a>
+                                            <a href="./downloads/acadmic calander/btech leet.pdf">B.Tech LEET 2022</a>
+                                            </div>
+                                        </div>
+                                        <a href="./downloads/acadmic calander/btech leet.pdf">Fees Structure</a>
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8oldXsTsajZcA2KWGClOL6oCRSb_2PUdt09qO3Ya7XtXW7A/viewform?usp=sf_link">Additional Query</a>
+                                    </div>
+                                </div>
+                                <div class="dropdown">
+                                    <button class="drop-btn">
+                                        Media <i class="fa-solid fa-caret-down ps-1"></i>
+                                    </button>
+                                    <div class="dropdown-content">
+                                        <div class="dropdown-right">
+                                            <button class="dropright-btn">
+                                               Photos <i class="fa-solid fa-caret-right "></i>
+                                            </button>
+                                            <div class="dropdown-right-content">
+                                            <a href="">India Mobile Congress 2022</a>
+                                            <a href="">Labs</a>
+                                            <a href="">Events</a>
+                                            <a href="">Hostel</a>
+                                            </div>
+                                        </div>
+                                        <a href="#">Videos</a>
+                                    </div>
+                                </div>
+                                <a href="#contact">Tenders</a>
+                                <div class="dropdown">
+                                    <button class="drop-btn">
+                                        News/Notices/Announcements <i class="fa-solid fa-caret-down ps-1"></i>
+                                    </button>
+                                    <div class="dropdown-content">
+                                        <div class="dropdown-left">
+                                            <button class="dropleft-btn">
+                                               Notices <i class="fa-solid fa-caret-right "></i>
+                                            </button>
+                                            <div class="dropdown-left-content">
+                                            <a href="">Scholarship</a>
+                                            <a href="">Fees Submission</a>
+                                            </div>
+                                        </div>
+                                        <div class="dropdown-left">
+                                            <button class="dropleft-btn">
+                                               Forms <i class="fa-solid fa-caret-right "></i>
+                                            </button>
+                                            <div class="dropdown-left-content">
+                                            <a href="">Admission Form</a>
+                                            <a href="">Hostel Form</a>
+                                            <div class="dropdown-right">
+                                                <button class="dropright-btn">
+                                                   Security Form<i class="fa-solid fa-caret-right "></i>
+                                                </button>
+                                                <div class="dropdown-right-content">
+                                                <a href="./downloads/notice/security-form.pdf">Hostel</a>
+                                                <a href="./downloads/notice/security-form.pdf">College</a>
+                                                </div>
+                                            </div>
+                                            <a href="./downloads/notice/PassForm-haryana-roadwaya.pdf">Bus Pass</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-1 align-items-center bars d-flex d-block d-lg-none bars" onclick="openNav()">
+                    <i class="fa-solid fa-bars "></i>
+                </div>
             </div>
-              <li class="nav-item menu-font " ><a href="#" class="nav-link ">
-                Tenders</a></li>
-              <div class="dropdown">
-                <a
-                  class="btn  dropdown-toggle menu-font"
-                  href="#"
-                  role="button"
-                  id="dropdownMenuLink"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-News/ Notices/Announcements
-                </a>
-              
-                <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                  <li><a class="dropdown-item py-3" href="#">Notices</a></li>
-                  <li><a class="dropdown-item py-3" href="#">Forms</a></li>
-                </ul>
-              </div>
-              
-             
         </div>
-      </div>
+    </header>
+    <div class="container-fluid px-0 d-block d-lg-none">
+    <nav class="nav1">
+  <a href="index.php" class="nav___link">
+  <i class="fa-sharp fa-solid fa-house fa-2x"></i>
+    <span class="nav___text">Home</span>
+  </a>
+  <a href="https://igu1.ucanapply.com/result-details" class="nav___link">
+  <i class="fa-brands fa-wpforms fa-2x"></i>
+    <span class="nav___text">Results</span>
+  </a>
+  <a href="syllabus.php" class="nav___link nav___link--active">
+  <i class="fa-solid fa-circle-info fa-2x"></i>
+    <span class="nav___text">Syllabus</span>
+  </a>
+  <a href="gallery.php" class="nav___link">
+  <i class="fa-sharp fa-solid fa-image fa-2x"></i>
+    <span class="nav___text">Gallery</span>
+  </a>
+  <a href="contact.php" class="nav___link">
+  <i class="fa-solid fa-address-book fa-2x"></i>
+    <span class="nav___text">Contact</span>
+  </a>
+</nav>
     </div>
-    <div class="col-1 align-items-center bars d-flex d-block d-lg-none bars" data-bs-toggle="offcanvas" data-bs-target="#demo">
-      <i class="fa-solid fa-bars "></i>
-    </div>
-    </div>
-    <div class="offcanvas offcanvas-start bg-dark text-white"  id="demo">
-  <div class="offcanvas-header d-flex justify-content-end">
-<i class="fa-solid fa-xmark text-white fa-2x" data-bs-dismiss="offcanvas"></i>
-  </div>
-  <div class="offcanvas-body mobile_menu ">
-  <a href="index.php">Home</a>
-  <button class="dropdown-btn">About
-    <i class="fa fa-caret-down"></i>
-  </button>
-  <div class="dropdown-container">
-    <a href="principaldesk.php">Principal's Desk</a>
-    <a href="placement.php">Placements</a>
-    <a href="#">Projects</a>
-    <a href="#">Luminaries</a>
-    <a href="#">Annual Report</a>
-    <a href="#">Mandatory Disclosure</a>
-    <a href="#">RTI Act 2005</a>
-    <a href="contact.php">Contact</a>
-    <a href="route.php">Route To Institute</a>
-  </div>
-  <button class="dropdown-btn">Students
-    <i class="fa fa-caret-down"></i>
-  </button>
-  <div class="dropdown-container">
-  <button class="dropdown-btn">Departments
-    <i class="fa fa-caret-down"></i>
-  </button>
-  <div class="dropdown-container">
-    <a href="cse.php">COMPUTER ENGG.</a>
-    <a href="#">CIVIL ENGG.</a>
-    <a href="#">ELECTRICAL ENGG.</a>
-    <a href="#">ELECTRONICS & COMM. ENGG.</a>
-    <a href="#">MECHANICAL ENGG.</a>
-  </div>
-  <button class="dropdown-btn">Syllabus
-    <i class="fa fa-caret-down"></i>
-  </button>
-  <div class="dropdown-container">
-  <a href="#">COMPUTER ENGG.</a>
-    <a href="#">CIVIL ENGG.</a>
-    <a href="#">ELECTRICAL ENGG.</a>
-    <a href="#">ELECTRONICS & COMM. ENGG.</a>
-    <a href="#">MECHANICAL ENGG.</a>
-  </div>
-    <a href="#">Academic Calander</a>
-    <a href="#">Time Table</a>
-    <a href="#">Skill Cources</a>
-    <a href="#">Apprenticeship</a>
-    <a href="#">NCC/NSS </a>
-    <a href="#">Award</a>
-    <a href="#">Scholarship</a>
-    <a href="#">Exam</a>
-    <a href="#">Results</a>
-    <a href="#">Anti Ragging</a>
-    <a href="#">Student Helpline</a>
-    <a href="#">E Services</a>
-  </div>
-  <button class="dropdown-btn">Faculty
-    <i class="fa fa-caret-down"></i>
-  </button>
-  <div class="dropdown-container">
-  <button class="dropdown-btn">Faculty
-    <i class="fa fa-caret-down"></i>
-  </button>
-  <div class="dropdown-container">
-  <a href="faculty.php">Teaching Faculty</a>
-  <a href="#">Non Teaching Staffs</a>
-  </div>
-    <a href="#">Code Of Conduct</a>
-    <a href="#">Training Policy</a>>
-    <a href="#">Service Rules</a>>
-    <a href="#">HRMS</a>>
-    <a href="#">IQAC-Quality cell</a>>
-    <a href="#">E-Services</a>>
-  </div>
-  <button class="dropdown-btn">Admissions
-    <i class="fa fa-caret-down"></i>
-  </button>
-  <div class="dropdown-container">
-    <a href="#">Open counseling</a>
-    <a href="#">B.Tech Prospectus 2022-2023</a>
-    <a href="#">B.Tech (LEET) Prospectus 2022-2023</a>
-    <a href="#">Key Dates</a>
-    <a href="#">Fees Structure</a>
-    <a href="#">Additional Query</a>
-  </div>
-  <button class="dropdown-btn">Media
-    <i class="fa fa-caret-down"></i>
-  </button>
-  <div class="dropdown-container">
-  <button class="dropdown-btn">Photos
-    <i class="fa fa-caret-down"></i>
-  </button>
-  <div class="dropdown-container">
-    <a href="#">India Mobile Congress 2022</a>
-    <a href="#">Labs</a>
-    <a href="#">Events</a>
-    <a href="#">hostel</a>
-  </div>
-    <a href="#">Videos</a>
-  </div>
-  <button class="dropdown-btn">Events/Activities
-    <i class="fa fa-caret-down"></i>
-  </button>
-  <div class="dropdown-container">
-    <a href="#">India Mobile Congress 2022 </a>
-    <a href="#">Events </a>
-  </div>
-  <a href="#contact">Tenders</a>
-  <button class="dropdown-btn">News/Notices/Announcements
-    <i class="fa fa-caret-down"></i>
-  </button>
-  <div class="dropdown-container">
-  <button class="dropdown-btn">Notices
-    <i class="fa fa-caret-down"></i>
-  </button>
-  <div class="dropdown-container">
-    <a href="#">Scholarship</a>
-    <a href="#">Fees Submission</a>
-  </div>
-  <button class="dropdown-btn">Forms
-    <i class="fa fa-caret-down"></i>
-  </button>
-  <div class="dropdown-container">
-    <a href="#">Admission Form</a>
-    <a href="#">Hostel Form</a>
-    <a href="#">Security Form</a>
-    <a href="#">Bus Pass</a>
-  </div>
-  </div>
-  </div>
-</div>
-  </header>
