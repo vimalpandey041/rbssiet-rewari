@@ -25,7 +25,7 @@ include("header.php")
     <div class="col-12 col-md-12 col-lg-7">
     <h2 class="title text-uppercase text-center mt-4 mt-lg-0 "><span class="text-theme-colored2 text-danger">Director's </span> Corner</h2>         
         <div class="double-line-bottom-centered-theme-colored-2"></div>
-        <p style="text-align:justify; line-height:30px;" class="my-0  text-dark">It's my gratitude to be the part of this prestigious institute . I feel it  my immense pleasure to play my part responsibly to encourage students to come out with flying colors . 
+        <p style="text-align:justify; line-height:45px; font-size: 19px;" class="my-0  text-dark">It's my gratitude to be the part of this prestigious institute . I feel it  my immense pleasure to play my part responsibly to encourage students to come out with flying colors . 
             We are aiming to build a strong foundation in the years to come to provide a supportive environment that will encourage students. Thanks a million to students and all my fellow members  </p>
           </div>
             </div> 
