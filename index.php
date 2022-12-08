@@ -86,7 +86,7 @@ include("header.php");
           </div>
         </div>
         <div class="row my-3 my-md-1">
-      <div class="col-12"> <a href="principaldesk.php"  class="btn btn-outline-dark rounded-5 " style="width:100% ;"  > View More</a></div>
+      <div class="col-12 text-center"> <a href="principaldesk.php"  class="btn btn-outline-dark rounded-5 " style="width:50% ;"  > View More</a></div>
     </div>
       </div>
       <div class="col-md-11  col-lg-12 bg-white d-flex flex-column align-self-stretch px-sm-4  my-3  ">
@@ -96,7 +96,7 @@ include("header.php");
         RBSSIET aims to guide  you to accomplish your dreams. An integrated platform for budding talents to grow and innovate to be an asset to the nation. Feel the proud of being a part of this nurturing institute of technology. The main building includes four departments namely- Mechanical Engineering ,Electrical Engineering , Civil Engineering and Computer Engineering. Besides other facilities, you will get supportive
            faculty here .    </p>
            <div class="row my-4 ">
-      <div class="col-12 text-center"> <a href="about.php"  class="btn btn-outline-dark rounded-5 " style="width:100% ;"  > View More</a></div>
+      <div class="col-12 text-center"> <a href="about.php"  class="btn btn-outline-dark rounded-5 " style="width:50% ;"  > View More</a></div>
     </div>
         
       </div>
