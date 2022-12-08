@@ -13,10 +13,10 @@ include("header.php");
         class="d-block w-100"
         alt="Sunset Over the City"
       />
-      <div class="carousel-caption d-none  slider_data d-md-block">
+      <!-- <div class="carousel-caption d-none  slider_data d-md-block">
         <h5>First slide label</h5>
         <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-      </div>
+      </div> -->
     </div>
 
     <!-- Single item -->
@@ -26,47 +26,52 @@ include("header.php");
         class="d-block w-100"
         alt="Canyon at Nigh"
       />
-      <div class="carousel-caption d-none  slider_data d-md-block">
-        <h5>Second slide label</h5>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
     </div>
     <div class="carousel-item active">
       <img
-        src="./img/slider/IMG_20220511_204335-scaled.jpg"
+        src="./img/slider/1665039525475-scaled.jpg"
         class="d-block w-100"
         alt="Sunset Over the City"
       />
-      <div class="carousel-caption d-none  slider_data d-md-block">
-        <h5>First slide label</h5>
-        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-      </div>
     </div>
 
     <!-- Single item -->
     <div class="carousel-item">
       <img
-        src="./img/slider/IMG-20220828-WA0026.jpg"
+        src="./img/slider/28-1.jpeg"
         class="d-block w-100"
         alt="Canyon at Nigh"
       />
-      <div class="carousel-caption d-none  slider_data d-md-block">
-        <h5>Second slide label</h5>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
     </div>
 
     <!-- Single item -->
     <div class="carousel-item">
       <img
-        src="./img/slider/IMG_20220511_204335-scaled.jpg"
+        src="./img/slider/36.jpeg"
         class="d-block w-100"
         alt="Cliff Above a Stormy Sea"
       />
-      <div class="carousel-caption slider_data d-none d-md-block">
-        <h5>Third slide label</h5>
-        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-      </div>
+    </div>
+    <div class="carousel-item">
+      <img
+        src="./img/slider/IMG-20190829-WA0022.jpg"
+        class="d-block w-100"
+        alt="Cliff Above a Stormy Sea"
+      />
+    </div>
+    <div class="carousel-item">
+      <img
+        src="./img/slider/IMG-20220730-WA0000.jpg"
+        class="d-block w-100"
+        alt="Cliff Above a Stormy Sea"
+      />
+    </div>
+    <div class="carousel-item">
+      <img
+        src="./img/slider/Screenshot_20220219-160043_1.png"
+        class="d-block w-100"
+        alt="Cliff Above a Stormy Sea"
+      />
     </div>
   </div>
   <!-- Inner -->
@@ -759,7 +764,7 @@ Haryana
    
     
     <div class="container-fluid mt-4 p-0">
-      <img src="/img/img.jpg" class="img-fluid" alt="">
+      <img src=".       /img/img.jpg" class="img-fluid" alt="">
     </div>
 
     
