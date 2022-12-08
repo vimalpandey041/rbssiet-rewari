@@ -123,7 +123,7 @@ include("header.php");
           
           <p class="px-3 py-0"> <a href="./downloads/Emplanment_guest faculty.jpg" class="text-decoration-none  h6 text-white ">Advertisement for Empanelment of Guest faculty</a></p>
           <span>||</span>
-          <p class="px-3 py-0"> <a href="#" class="text-decoration-none  h6 text-white ">GUIDELINES FOR AICTE - POST GRADUATE (PG) SCHOLARSHIP SCHEME 2021-22</a></p>
+          <p class="px-3 py-0"> <a href="https://pgscholarship.aicte-india.org/" class="text-decoration-none  h6 text-white ">GUIDELINES FOR AICTE - POST GRADUATE (PG) SCHOLARSHIP SCHEME 2021-22</a></p>
          </div>
             </marquee>
       </div>
