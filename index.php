@@ -67,10 +67,10 @@ include("header.php");
         <div class="double-line-bottom-centered-theme-colored-2"></div>
         <div class="row d-flex justify-content-center">
           <div class="col-lg-2 col-md-6 col-6 mb-3">
-            <div class="card rounded-4 shadow ">
-              <div class="card-body text-center ">
+            <div class="card rounded-4 border-0 shadow  p-0">
+              <div class="card-body text-center border-0 p-2">
                 <div class=" image_popup ">
-                  <img src="./img/51.png" class=" img-fluid bg-dark rounded-4" alt="">
+                  <img src="./img/51.png" class=" img-fluid bg-dark rounded-4 border-0 p-0" alt="">
                 </div>
               </div>
               <div class="text-center director-footer ">
