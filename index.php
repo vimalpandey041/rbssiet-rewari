@@ -69,7 +69,7 @@ include("header.php");
             <div class="card rounded-4 shadow ">
               <div class="card-body text-center ">
                 <div class=" image_popup ">
-                  <img src="./img/51.png" class=" img-fluid " alt="">
+                  <img src="./img/51.png" class=" img-fluid bg-dark rounded-4" alt="">
                 </div>
               </div>
               <div class="text-center director-footer ">
