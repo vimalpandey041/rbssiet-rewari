@@ -30,7 +30,7 @@ include("header.php");
     <div class="banner items_4">
         <div class="picture_wrapper">
             <h4 class="title">Title 1</h4>
-            <img src="img/Rbssiet Photos/43.jpeg" alt="">
+            <img src="https://bit.ly/3ux2zhA" alt="">
         </div>
         <div class="picture_wrapper">
             <h4 class="title">Title 2</h4>
