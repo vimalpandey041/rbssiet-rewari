@@ -651,6 +651,9 @@ transition: background-color 0.3s;
   height: 10px;
   width: 100%;
 }
+.block-height{
+  height: 400px;
+}
 
 @media only screen and  (max-width: 480px){
   .item1 {
