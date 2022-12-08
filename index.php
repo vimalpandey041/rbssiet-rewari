@@ -479,11 +479,11 @@ include("header.php");
 <div class="col-sm-12 col-md-4 col-lg-3 col-7">
   <div class="card border-0" >
     <div class="card-body">
-      <img src="https://cdlsiet.ac.in/wp-content/uploads/2019/11/anil-vij-150x150.jpg" class="card-img rounded-circle" alt="">
+      <img src="./img/important persons/anil-vij-150x150.jpg" class="card-img rounded-circle" alt="">
       <h4 class="card-title text-center h5 py-2">Sh. Anil Vij</h4>
       <p class="card-text text-center">
-        Technical Education Minister
-Haryana
+      Hon’ble Technical Education Minister,
+Government of Haryana
       </p>
     </div>
   </div>
@@ -491,11 +491,13 @@ Haryana
 <div class="col-sm-6 col-md-4 col-lg-3 col-6">
   <div class="card border-0" >
     <div class="card-body">
-      <img src="https://cdlsiet.ac.in/wp-content/uploads/2019/11/anil-vij-150x150.jpg" class="card-img rounded-circle" alt="">
-      <h4 class="card-title text-center h5 py-2">Sh. Anil Vij</h4>
+      <img src="./img/important persons/vijayendra kumar.jpg" class="card-img rounded-circle" alt="">
+      <h4 class="card-title text-center h5 py-2">Sh.Vijayendra Kumar, IAS </h4>
       <p class="card-text text-center">
-        Technical Education Minister
-Haryana
+      Principal Secretary to Government,
+Technical Education Department, Haryana
+
+
       </p>
     </div>
   </div>
@@ -504,10 +506,13 @@ Haryana
 <div class="col-sm-6 col-md-4 col-lg-3 col-6">
   <div class="card border-0" >
     <div class="card-body">
-      <img src="https://cdlsiet.ac.in/wp-content/uploads/2022/02/RAJAN-removebg-preview-150x150.jpg" class="card-img rounded-circle" alt="">
-      <h4 class="card-title text-center h5 py-2">Sh. Rajiv Rattan</h4>
+      <img src="./img/important persons/RAJAN-removebg-preview-150x150.jpg" class="card-img rounded-circle" alt="">
+      <h4 class="card-title text-center h5 py-2">Sh. Rajiv Rattan, IAS (DGTE)</h4>
       <p class="card-text text-center">
-        Director General, Technical Education 
+      Director-General, Technical Education Department,
+Haryana, Panchkula
+
+
       </p>
     </div>
   </div>
