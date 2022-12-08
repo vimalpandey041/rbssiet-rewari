@@ -24,6 +24,35 @@ include("header.php");
       </div>
     </div>
 </div>
+
+
+<div class="banner_gallery_grid">
+    <div class="banner items_4">
+        <div class="picture_wrapper">
+            <h4 class="title">Title 1</h4>
+            <img src="https://bit.ly/3ux2zhA" alt="">
+        </div>
+        <div class="picture_wrapper">
+            <h4 class="title">Title 2</h4>
+            <img src="https://images.pexels.com/photos/699466/pexels-photo-699466.jpeg?auto=compress&cs=tinysrgb&w=600" alt="">
+        </div>
+        <div class="picture_wrapper">
+            <h4 class="title">Title 3</h4>
+            <img src="https://images.pexels.com/photos/919884/pexels-photo-919884.jpeg?auto=compress&cs=tinysrgb&w=600" alt="">
+        </div>
+        <div class="picture_wrapper">
+            <h4 class="title">Title 4</h4>
+            <img src="https://images.pexels.com/photos/919884/pexels-photo-919884.jpeg?auto=compress&cs=tinysrgb&w=600" alt="">
+        </div>
+      <div class="picture_wrapper">
+            <h4 class="title">Title 5</h4>
+            <img src="img/Rbssiet Photos/33.jpeg" alt="">
+        </div>
+    </div>
+</div>
+
+
+
 <div class="container">
     <div class="row shadow-lg rounded-5 my-5 mx-1 mx-md-0 d-flex justify-content-start p-0 align-items-center flex-column flex-lg-row">
         <div class="col-9 col-md-10  col-lg-2 my-3 ps-3 d-flex justify-content-center align-items-center">

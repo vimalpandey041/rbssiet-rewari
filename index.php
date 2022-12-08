@@ -49,15 +49,14 @@ include("header.php");
       <div class="col-sm-10 text-white h5 py-0 px-0 d-flex align-items-center justify-content-center ">
       <marquee class="news-slider-new-div" width="100%" behavior="scroll" direction="left" scrollamount="9" onmouseover="this.stop();" onmouseout="this.start();">
          <div class="news-slider-new">
-         <p class="px-3 py-0"> <a href="#" class="text-decoration-none  h6 text-white ">Registration open for PMS and NPS scholarships for the sessioin 2022-23</a></p>
+         <p class="px-3 py-0"> <a href="https://scholarships.gov.in/fresh/loginPage" class="text-decoration-none  h6 text-white ">Registration open for PMS and NPS scholarships for the sessioin 2022-23</a></p>
          <span>||</span>
-          <p class="px-3 py-0"> <a href="#" class="text-decoration-none  h6 text-white ">Fee Notice for 4th, 6th and 8th semester students.</a></p>
+          <p class="px-3 py-0"> <a href="./downloads/anouncement/New Doc 2022-08-31 17.05.24.pdf" class="text-decoration-none  h6 text-white ">Fee Notice for 4th, 6th and 8th semester students.</a></p>
           <span>||</span>
-          <p class="px-3 py-0"> <a href="#" class="text-decoration-none  h6 text-white ">Notice regarding offline classes for next semester</a></p>
+          
+          <p class="px-3 py-0"> <a href="./downloads/Emplanment_guest faculty.jpg" class="text-decoration-none  h6 text-white ">Advertisement for Empanelment of Guest faculty</a></p>
           <span>||</span>
-          <p class="px-3 py-0"> <a href="#" class="text-decoration-none  h6 text-white ">Advertisement for Empanelment of Guest faculty</a></p>
-          <span>||</span>
-          <p class="px-3 py-0"> <a href="#" class="text-decoration-none  h6 text-white ">GUIDELINES FOR AICTE - POST GRADUATE (PG) SCHOLARSHIP SCHEME 2021-22</a></p>
+          <p class="px-3 py-0"> <a href="https://pgscholarship.aicte-india.org/" class="text-decoration-none  h6 text-white ">GUIDELINES FOR AICTE - POST GRADUATE (PG) SCHOLARSHIP SCHEME 2021-22</a></p>
          </div>
             </marquee>
       </div>
@@ -218,7 +217,7 @@ include("header.php");
                 <div class="card  rounded-4  px-2 pt-2 shadow " >
                   <img src="img/physicslab1.png" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
-                    <a href="#" class="btn btn-warning rounded-5  my-3 " >Physics Lab</a>
+                    <a href="#" class="btn btn-warning rounded-5  my-3 ">Physics Lab</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
@@ -356,7 +355,7 @@ include("header.php");
                 <div class="card  rounded-4  px-2 pt-2 shadow " >
                   <img src="https://bit.ly/3gcqDCy" alt="" class="card-img img-fluid image_popup rounded-4"
                      style="height: 250px; object-fit: cover;">
-                    <a href="#" class="btn btn-warning rounded-5  my-3 " >Computer Science & Engg.</a>
+                    <a href="#" class="btn btn-warning rounded-5  my-3  ">Computer Science & Engg.</a>
                 </div>
               </div>
               <div class="swiper-slide rounded-4">
@@ -409,13 +408,13 @@ include("header.php");
       </div>
       <div class="card-body ">
         <marquee height="400px" width="100%" behavior="scroll" direction="up" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
-          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Registration open for PMS and NPS scholarships for the sessioin 2022-23</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="https://scholarships.gov.in/fresh/loginPage" class="text-decoration-none text-danger h6 ">Registration open for PMS and NPS scholarships for the session 2022-23</a></p>
           <br>
-          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Fee Notice for 4th, 6th and 8th semester students.</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="./downloads/anouncement/New Doc 2022-08-31 17.05.24.pdf" class="text-decoration-none text-danger h6 ">Fee Notice for  3rd ,5th and 7th semester students.</a></p>
           <br>
-          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Notice regarding offline classes for next semester</a></p>
-          <br>
-          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Advertisement for Empanelment of Guest faculty</a></p>
+          
+          
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="./downloads/Emplanment_guest faculty.jpg" class="text-decoration-none text-danger h6 ">Advertisement for Empanelment of Guest faculty</a></p>
           <br>
           <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">GUIDELINES FOR AICTE - POST GRADUATE (PG) SCHOLARSHIP SCHEME 2021-22</a></p>
           <br>
@@ -432,11 +431,11 @@ include("header.php");
         <marquee height="400px" width="100%" behavior="scroll" direction="up" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
           <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Registration open for PMS and NPS scholarships for the sessioin 2022-23</a></p>
           <br>
-          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Fee Notice for 4th, 6th and 8th semester students.</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="" class="text-decoration-none text-danger h6 ">Fee Notice for 4th, 6th and 8th semester students.</a></p>
           <br>
           <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Notice regarding offline classes for next semester</a></p>
           <br>
-          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Advertisement for Empanelment of Guest faculty</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="./downloads/Emplanment_guest faculty.jpg" class="text-decoration-none text-danger h6 ">Advertisement for Empanelment of Guest faculty</a></p>
           <br>
           <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">GUIDELINES FOR AICTE - POST GRADUATE (PG) SCHOLARSHIP SCHEME 2021-22</a></p>
           <br>
@@ -457,7 +456,7 @@ include("header.php");
           <br>
           <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Notice regarding offline classes for next semester</a></p>
           <br>
-          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">Advertisement for Empanelment of Guest faculty</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="./downloads/Emplanment_guest faculty.jpg  " class="text-decoration-none text-danger h6 ">Advertisement for Empanelment of Guest faculty</a></p>
           <br>
           <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="#" class="text-decoration-none text-danger h6 ">GUIDELINES FOR AICTE - POST GRADUATE (PG) SCHOLARSHIP SCHEME 2021-22</a></p>
           <br>
