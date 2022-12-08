@@ -84,8 +84,6 @@ include("header.php");
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-<!-- Carousel wrapper -->
-
   <div class="container-fluid py-0 bg-danger">
     <div class="row">
       <div class="col-sm-2 bg-warning justify-content-center align-items-center heading-1 d-flex py-0 " style="z-index: 1;">

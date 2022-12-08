@@ -41,7 +41,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/rajaramsir.jpg"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -92,7 +92,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -143,7 +143,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -182,7 +182,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -233,7 +233,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -272,7 +272,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -324,7 +324,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -363,7 +363,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/manoj.jpg"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -402,7 +402,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -441,7 +441,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/rajender.jpg"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -480,7 +480,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -519,7 +519,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -558,7 +558,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -609,7 +609,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -648,7 +648,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -687,7 +687,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -744,7 +744,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -783,7 +783,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -822,7 +822,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -879,7 +879,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -918,7 +918,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -957,7 +957,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -996,7 +996,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -1035,7 +1035,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -1074,7 +1074,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -1113,7 +1113,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -1152,7 +1152,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -1191,7 +1191,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -1230,7 +1230,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src="https://images.unsplash.com/photo-1669619534708-9316a186cecb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>

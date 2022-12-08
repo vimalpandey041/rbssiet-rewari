@@ -651,11 +651,15 @@ transition: background-color 0.3s;
   height: 10px;
   width: 100%;
 }
-.block-height{
-  height: 400px;
+.carousel-item{
+  height: 500px !important;
+}
+.carousel-item img{
+  object-fit:contain !important;
 }
 
 @media only screen and  (max-width: 480px){
+  
   .item1 {
       font-size: 17px;
     }
