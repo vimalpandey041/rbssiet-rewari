@@ -17,9 +17,8 @@ include("header.php");
       <img src="./img/slider/28-1.jpeg" />
     </li>
   
-    <li class="slide">
-      <img src="./img/slider/1665039525475-scaled.jpg" />
-    </li>
+    
+    
     <li class="slide">
       <img src="./img/slider/IMG-20220730-WA0000.jpg" />
     </li>
@@ -546,24 +545,24 @@ Haryana, Panchkula
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                <a href="img/Rbssiet Photos/4.jpeg" data-lightbox="models" data-title="College Function ">
-                  <img src="img/Rbssiet Photos/4.jpeg" class="card-img rounded image_popup " height="120px"  >
+                <a href="img/Rbssiet Photos/33.jpeg" data-lightbox="models" data-title="College Function ">
+                  <img src="img/Rbssiet Photos/33.jpeg" class="card-img rounded image_popup " height="120px"  >
                   </a>
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                <a href="img/Rbssiet Photos/9.jpeg" data-lightbox="models" data-title="College Function ">
-                  <img src="img/Rbssiet Photos/9.jpeg" class="card-img rounded image_popup " height="120px"  >
+                <a href="img/Rbssiet Photos/singing1.jpeg" data-lightbox="models" data-title="College Function ">
+                  <img src="img/Rbssiet Photos/singing1.jpeg" class="card-img rounded image_popup " height="120px"  >
                   </a>
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                <a href="img/Rbssiet Photos/43.jpeg" data-lightbox="models" data-title="College Function ">
-                  <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded image_popup " height="120px"  >
+                <a href="img/Rbssiet Photos/dance1.png" data-lightbox="models" data-title="College Function ">
+                  <img src="img/Rbssiet Photos/dance1.png" class="card-img rounded image_popup " height="120px"  >
                   </a>
                 </div>
                 </div>
@@ -571,15 +570,15 @@ Haryana, Panchkula
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                <a href="img/Rbssiet Photos/43.jpeg" data-lightbox="models" data-title="College Function ">
-                  <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded image_popup " height="120px"  >
+                <a href="img/Rbssiet Photos/grp1.jpeg" data-lightbox="models" data-title="College Function ">
+                  <img src="img/Rbssiet Photos/grp1.jpeg" class="card-img rounded image_popup " height="120px"  >
                   </a>
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                <a href="img/Rbssiet Photos/43.jpeg" data-lightbox="models" data-title="College Function ">
+                <a href="img/Rbssiet Photos/.jpeg" data-lightbox="models" data-title="College Function ">
                   <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded image_popup " height="120px"  >
                   </a>
                 </div>
