@@ -52,13 +52,7 @@ include("header.php");
         alt="Cliff Above a Stormy Sea"
       />
     </div>
-    <div class="carousel-item">
-      <img
-        src="./img/slider/IMG-20190829-WA0022.jpg"
-        class="d-block w-100"
-        alt="Cliff Above a Stormy Sea"
-      />
-    </div>
+   
     <div class="carousel-item">
       <img
         src="./img/slider/IMG-20220730-WA0000.jpg"
@@ -66,13 +60,7 @@ include("header.php");
         alt="Cliff Above a Stormy Sea"
       />
     </div>
-    <div class="carousel-item">
-      <img
-        src="./img/slider/Screenshot_20220219-160043_1.png"
-        class="d-block w-100"
-        alt="Cliff Above a Stormy Sea"
-      />
-    </div>
+   
   </div>
   <!-- Inner -->
 
