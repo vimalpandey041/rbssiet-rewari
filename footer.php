@@ -192,6 +192,18 @@ $(function(){
 });
 </script>
 <script>
+  const $ = document;
+let img_btn = $.querySelectorAll(".img1");
+let items = $.querySelectorAll(".item");
+
+img_btn.forEach((item) => {
+  item.addEventListener("click", (e) => {
+    item.classList.toggle("act_img");
+    e.target.parentElement.parentElement.classList.toggle("active1");
+  });
+});
+</script>
+<script>
   
 </script>
 <SCript>
