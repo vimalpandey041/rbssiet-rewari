@@ -15,7 +15,7 @@
                <i class="fa-solid fa-phone px-3"></i>
               </div>
               <div class="col-10">
-                <a href="tel: +91987654321" class="nav-link">+91 987654321</a>
+                <a href="tel: +9101281260000" class="nav-link">+91 01281-260000</a>
               </div>
             </div>
             <div class="row mt-3 text-white flex ">
@@ -23,7 +23,7 @@
                <i class="fa-solid fa-phone px-3"></i>
              </div>
              <div class="col-10">
-               <a href="mailto:support@rbssietrewari.ac.in" class="nav-link">support@rbssietrewari.ac.in</a>
+               <a href="mailto:officerbssiet@gmail.com" class="nav-link">officerbssiet@gmail.com</a>
              </div>
             </div>
             <div class="row my-4 text-white flex text-center ">
@@ -80,7 +80,7 @@
       </div>
 		</footer>
     <footer class="text-center bg-dark text-light fw-bold">
-      <div class="text-center py-2" style="background-color: rgb(84 25 48 / 90%);">
+      <div class="text-center py-2 footer-height" style="background-color: rgb(84 25 48 / 90%);">
         Copyright   © 2022
         <a class="text-reset  text-decoration-none" style="" href="http://rbssietrewari.ac.in/">Rbssietrewari.ac.in</a>
         <span>||</span>

@@ -1,7 +1,7 @@
 <?php 
 include("header.php");
 ?> 
-<div class="container-fluid p-0">
+<div class="container-fluid m-0 p-0">
 <section class="carousel">
   <button class="slider-button slider-button-prev" data-slide-direction="prev"><i class="fa-solid fa-angle-left fa-md-3x fa-2x"></i></button>
   <button class="slider-button slider-button-next" data-slide-direction="next">
@@ -28,7 +28,7 @@ include("header.php");
   </ul>
 </section>
 </div>
-  <div class="container-fluid py-0 bg-danger">
+  <div class="container-fluid py-0  bg-danger">
     <div class="row">
       <div class="col-sm-2 bg-warning justify-content-center align-items-center heading-1 d-flex py-0 " style="z-index: 1;">
         <h4>Announcement </h4>
@@ -59,14 +59,29 @@ include("header.php");
       </div>
     </div>
   </div>
-  <div class="container-fluid my-3 px-3 px-sm-3">
-    <div class="row justify-content-center  block-height">
-    <div class="col-md-11  col-lg-12 px-sm-4 my-3 " >
-    <h2 class="title text-uppercase text-center"><span class="text-theme-colored2 text-danger">DIRECTOR'S</span> CORNER</h2>         
+  <div class="container-fluid my-5 p-0 m-0">
+    <div class="row p-0">
+      <div class="col-12 col-lg-5 p-0 my-4 px-5 block-vimal" >
+     <div class="row">
+      <div class="col">
+      <h2 class="title text-uppercase text-center"><span class="text-theme-colored2 text-danger">About</span> RBSSIET</h2>         
         <div class="double-line-bottom-centered-theme-colored-2"></div>
-        <div class="row d-flex justify-content-center">
-          <div class="col-lg-2 col-md-6 col-6 mb-3">
-            <div class="card rounded-4 border-0 shadow  p-0">
+      </div>
+     </div>
+        <p style="text-align:justify;">Rao Birender Singh State Institute of Engineering & Technology has been established by the Govt. of Haryana to promote quality technical education in the state. The Haryana Govt. has provided modern and best infrastructural facilities for students to create a progressive academic environment and conducive academics for professional and technical growth.
+        RBSSIET aims to guide  you to accomplish your dreams. An integrated platform for budding talents to grow and innovate to be an asset to the nation. Feel the proud of being a part of this nurturing institute of technology. The main building includes four departments namely- Mechanical Engineering ,Electrical Engineering , Civil Engineering and Computer Engineering. Besides other facilities, you will get supportive faculty here .   </p>
+           <div class="col-12 my-4 text-center"> <a href="about.php"  class="btn btn-outline-dark rounded-5 " style="width:100% ;"  > View More</a></div>
+      </div>
+      <div class="col-12 col-lg-7 my-4 px-5 block-vimal  p-0 ">
+      <div class="row">
+        <div class="col">
+        <h2 class="title text-uppercase text-center"><span class="text-theme-colored2 text-danger">DIRECTOR'S</span> CORNER</h2>         
+        <div class="double-line-bottom-centered-theme-colored-2"></div>
+        </div>
+      </div>
+        <div class="row d-flex justify-content-center ">
+          <div class="col-lg-4 d-flex col-7 mb-5">
+          <div class="card rounded-4 border-0 shadow  ">
               <div class="card-body text-center border-0 p-2">
                 <div class=" image_popup ">
                   <img src="./img/51.png" class=" img-fluid bg-dark rounded-4 border-0 p-0" alt="">
@@ -77,28 +92,14 @@ include("header.php");
               </div>
             </div>
           </div>
-          <div class="col-lg-10 col-md-12">
-            <p style="text-align:justify; font-size: 1rem;" class="my-0">It's my gratitude to be the part of this prestigious institute . I feel it  my immense pleasure to play my part responsibly to encourage students to come out with flying colors . 
+          <div class="col-lg-8 col-12">
+          <p style="text-align:justify; font-size: 1rem;" class="my-0">It's my gratitude to be the part of this prestigious institute . I feel it  my immense pleasure to play my part responsibly to encourage students to come out with flying colors . 
             We are aiming to build a strong foundation in the years to come to provide a supportive environment that will encourage students. Thanks a million to students and all my fellow members  </p>
-            
-             
           </div>
+      </div>
+      <div class="col-12 text-center my-4"> <a href="principaldesk.php"  class="btn btn-outline-dark rounded-5 " style="width:100% ;"  > View More</a></div>
         </div>
-        <div class="row my-3 my-md-1">
-      <div class="col-12 text-center"> <a href="principaldesk.php"  class="btn btn-outline-dark rounded-5 " style="width:50% ;"  > View More</a></div>
-    </div>
-      </div>
-      <div class="col-md-11  col-lg-12 bg-white d-flex flex-column align-self-stretch px-sm-4  my-3  ">
-      <h2 class="title text-uppercase text-center"><span class="text-theme-colored2 text-danger">About</span> RBSSIET</h2>         
-        <div class="double-line-bottom-centered-theme-colored-2"></div>
-        <p style="text-align:justify;">Rao Birender Singh State Institute of Engineering & Technology has been established by the Govt. of Haryana to promote quality technical education in the state. The Haryana Govt. has provided modern and best infrastructural facilities for students to create a progressive academic environment and conducive academics for professional and technical growth.
-        RBSSIET aims to guide  you to accomplish your dreams. An integrated platform for budding talents to grow and innovate to be an asset to the nation. Feel the proud of being a part of this nurturing institute of technology. The main building includes four departments namely- Mechanical Engineering ,Electrical Engineering , Civil Engineering and Computer Engineering. Besides other facilities, you will get supportive
-           faculty here .    </p>
-           <div class="row my-4 ">
-      <div class="col-12 text-center"> <a href="about.php"  class="btn btn-outline-dark rounded-5 " style="width:50% ;"  > View More</a></div>
-    </div>
         
-      </div>
     </div>
   </div>
   <div class="container-fluid">
@@ -405,7 +406,7 @@ include("header.php");
           
           
           
-          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="./downloads/Emplanment_guest faculty.jpg" class="text-decoration-none text-danger h6 ">Advertisement for Empanelment of Guest faculty</a></p>
+          <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="./downloads/Emplanment_guest/faculty.jpg.png" class="text-decoration-none text-danger h6 ">Advertisement for Empanelment of Guest faculty</a></p>
           <br>
           <p><img src="img/new.gif" height="40px" width="40px" alt=""> <a href="https://pgscholarship.aicte-india.org/assets/manuals/Manual_for_Student_New_PG_Portal.pdf" class="text-decoration-none text-danger h6 ">GUIDELINES FOR AICTE - POST GRADUATE (PG) SCHOLARSHIP SCHEME 2021-22</a></p>
           <br>
@@ -538,7 +539,7 @@ Haryana, Panchkula
   
                 <div class="card rounded">
                   <a href="img/Rbssiet Photos/4.jpeg" data-lightbox="models" data-title="College Function ">
-                  <img src="img/Rbssiet Photos/4.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  <img src="img/Rbssiet Photos/4.jpeg" class="card-img rounded image_popup " style="object-fit:cover ;" height="120px"  >
                   </a>
                 </div>
                 </div>
@@ -546,7 +547,7 @@ Haryana, Panchkula
   
                 <div class="card rounded">
                 <a href="img/Rbssiet Photos/33.jpeg" data-lightbox="models" data-title="College Function ">
-                  <img src="img/Rbssiet Photos/33.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  <img src="img/Rbssiet Photos/33.jpeg" class="card-img rounded image_popup " style="object-fit:cover ;" height="120px"  >
                   </a>
                 </div>
                 </div>
@@ -554,7 +555,7 @@ Haryana, Panchkula
   
                 <div class="card rounded">
                 <a href="img/Rbssiet Photos/singing1.jpeg" data-lightbox="models" data-title="College Function ">
-                  <img src="img/Rbssiet Photos/singing1.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  <img src="img/Rbssiet Photos/singing1.jpeg" class="card-img rounded image_popup " style="object-fit:cover ;" height="120px"  >
                   </a>
                 </div>
                 </div>
@@ -562,7 +563,7 @@ Haryana, Panchkula
   
                 <div class="card rounded">
                 <a href="img/Rbssiet Photos/dance1.png" data-lightbox="models" data-title="College Function ">
-                  <img src="img/Rbssiet Photos/dance1.png" class="card-img rounded image_popup " height="120px"  >
+                  <img src="img/Rbssiet Photos/dance1.png" class="card-img rounded image_popup " style="object-fit:cover ;" height="120px"  >
                   </a>
                 </div>
                 </div>
@@ -571,7 +572,7 @@ Haryana, Panchkula
   
                 <div class="card rounded">
                 <a href="img/Rbssiet Photos/grp1.jpeg" data-lightbox="models" data-title="College Function ">
-                  <img src="img/Rbssiet Photos/grp1.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  <img src="img/Rbssiet Photos/dance5.jpeg" class="card-img rounded image_popup " style="object-fit:cover ;" height="120px"  >
                   </a>
                 </div>
                 </div>
@@ -579,7 +580,7 @@ Haryana, Panchkula
   
                 <div class="card rounded">
                 <a href="img/Rbssiet Photos/.jpeg" data-lightbox="models" data-title="College Function ">
-                  <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  <img src="img/Rbssiet Photos/43.jpeg" class="card-img rounded image_popup " style="object-fit:cover ;" height="120px"  >
                   </a>
                 </div>
                 </div>
@@ -587,7 +588,7 @@ Haryana, Panchkula
   
                 <div class="card rounded">
                 <a href="img/Rbssiet Photos/12.jpeg" data-lightbox="models" data-title="College Function ">
-                  <img src="img/Rbssiet Photos/12.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  <img src="img/Rbssiet Photos/12.jpeg" class="card-img rounded image_popup " style="object-fit:cover ;" height="120px"  >
                   </a>
                 </div>
                 </div>
@@ -595,7 +596,7 @@ Haryana, Panchkula
   
                 <div class="card rounded">
                 <a href="img/Rbssiet Photos/25.jpeg" data-lightbox="models" data-title="College Function ">
-                  <img src="img/Rbssiet Photos/25.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  <img src="img/Rbssiet Photos/25.jpeg" class="card-img rounded image_popup " style="object-fit:cover ;" height="120px"  >
                   </a>
                 </div>
                 </div>
@@ -604,15 +605,15 @@ Haryana, Panchkula
   
                 <div class="card rounded">
                 <a href="img/Rbssiet Photos/30.jpeg" data-lightbox="models" data-title="College Function ">
-                  <img src="img/Rbssiet Photos/30.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  <img src="img/Rbssiet Photos/30.jpeg" class="card-img rounded image_popup " style="object-fit:cover ;" height="120px"  >
                   </a>
                 </div>
                 </div>
               <div class="col-sm-4  py-1 px-1 col-6">
   
                 <div class="card rounded">
-                <a href="img/Rbssiet Photos/30.jpeg" data-lightbox="models" data-title="College Function ">
-                  <img src="img/Rbssiet Photos/30.jpeg" class="card-img rounded image_popup " height="120px"  >
+                <a href="img/Rbssiet Photos/independence.jpg" data-lightbox="models" data-title="College Function ">
+                  <img src="img/Rbssiet Photos/independence.jpg" class="card-img rounded image_popup " style="object-fit:cover ;" height="120px"  >
                   </a>
                 </div>
                 </div>
@@ -620,7 +621,7 @@ Haryana, Panchkula
   
                 <div class="card rounded">
                 <a href="img/Rbssiet Photos/27.jpeg" data-lightbox="models" data-title="College Function ">
-                  <img src="img/Rbssiet Photos/27.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  <img src="img/Rbssiet Photos/27.jpeg" class="card-img rounded image_popup " style="object-fit:cover ;" height="120px"  >
                   </a>
                 </div>
                 </div>
@@ -628,7 +629,7 @@ Haryana, Panchkula
   
                 <div class="card rounded">
                 <a href="img/Rbssiet Photos/33.jpeg" data-lightbox="models" data-title="College Function ">
-                  <img src="img/Rbssiet Photos/33.jpeg" class="card-img rounded image_popup " height="120px"  >
+                  <img src="img/Rbssiet Photos/33.jpeg" class="card-img rounded image_popup " style="object-fit:cover ;" height="120px"  >
                   </a>
                 </div>
                 </div>
@@ -642,7 +643,7 @@ Haryana, Panchkula
       </div>
       <div class="row">
                   <div class="col d-flex justify-content-center py-4">
-                      <a href="gallery.php" class="btn btn-primary px-5 rounded-5 shadow" >View Gallery</a>
+                      <a href="gallery2.php" class="btn btn-primary px-5 rounded-5 shadow" >View Gallery</a>
                   </div>
                 </div>
     </div>

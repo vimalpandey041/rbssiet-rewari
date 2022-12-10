@@ -25,31 +25,31 @@ include("header.php");
     </div>
 </div>
 
-
+<!-- 
 <div class="banner_gallery_grid">
-    <div class="banner items_4">
+    <div class="banner items_4 ">
         <div class="picture_wrapper">
-            <h4 class="title">Title 1</h4>
-            <img src="https://bit.ly/3ux2zhA" alt="">
+            <h4 class="title">Computer Science & Engineering</h4>
+            <img src="https://bit.ly/3gcqDCy" alt="">
         </div>
         <div class="picture_wrapper">
-            <h4 class="title">Title 2</h4>
-            <img src="https://images.pexels.com/photos/699466/pexels-photo-699466.jpeg?auto=compress&cs=tinysrgb&w=600" alt="">
+            <h4 class="title">Electronics & Communication Engineering</h4>
+            <img src="https://bit.ly/3VLZDtV" alt="">
         </div>
         <div class="picture_wrapper">
-            <h4 class="title">Title 3</h4>
-            <img src="https://images.pexels.com/photos/919884/pexels-photo-919884.jpeg?auto=compress&cs=tinysrgb&w=600" alt="">
+            <h4 class="title">Electrical Engineering</h4>
+            <img src="https://bit.ly/3DcyA3H" alt="">
         </div>
         <div class="picture_wrapper">
-            <h4 class="title">Title 4</h4>
-            <img src="https://images.pexels.com/photos/919884/pexels-photo-919884.jpeg?auto=compress&cs=tinysrgb&w=600" alt="">
+            <h4 class="title">Civil Engineering</h4>
+            <img src="https://bit.ly/3ToTkew" alt="">
         </div>
       <div class="picture_wrapper">
-            <h4 class="title">Title 5</h4>
-            <img src="img/Rbssiet Photos/33.jpeg" alt="">
+            <h4 class="title">Mechanical Engineering</h4>
+            <img src="https://bit.ly/3gbH95N" alt="">
         </div>
     </div>
-</div>
+</div> -->
 
 
 

@@ -19,19 +19,6 @@ include("header.php");
 <div class="container-fluid py-5">
      <div class="row">
 <div class="col-12 px-lg-5  ">
-<div class="conatiner-fluid">
-<h2>The world in one place</h2>
-<p class="mx-4 all-text-justify">
- There's so much going on that you could never leave campus and still find something new to do every day.
-<br><br>
-Home to 15,000 students from more than 130 countries, our Colchester Campus is the largest of our three sites, making us one of the most internationally diverse campuses on the planet - we like to think of ourselves as the world in one place.
-
-Set within the 200-acre award-winning beautiful parkland - Wivenhoe Park and located two miles from the historic city centre of Colchester – England's oldest recorded development. Our Colchester Campus is also easily reached from London and Stansted Airport in under one hour.
-
-Whether you are planning to visit us at one of our Open Days, or coming to an Applicant day. Our campus conveniently located and easy to reach by car, train or bus.
-</p>
-
-</div>
         </div>
     </div>
 </div>
@@ -42,9 +29,9 @@ Whether you are planning to visit us at one of our Open Days, or coming to an Ap
                 <span class="h3 text-uppercase route-card-heading ">By Road</span>
             <div class="card-body">
             <p class="text-white">
-                Nearest Railway station to the Institute is Dahina railway station. Rewari railway station is well connected to Jhajjar Junction and Rohtak junction and Delhi junction
+                Nearest Bus Stand to the Institute is Dahina Bus Stand. Rewari Bus Stand is well connected to Jhajjar Bus Stand and Rohtak Bus Stand and Sarai Kale Khan (Delhi) Bus Stand
                 </p>
-                  <table class="table  route-table-color">
+                  <table class="table  route-table-color mb-5 ">
                   <tr>
                    <th>
                         Location
@@ -55,26 +42,42 @@ Whether you are planning to visit us at one of our Open Days, or coming to an Ap
                    </tr>
                    <tr>
                     <td>
-                    Jhajjar City
+                    Dahina Bus Stand
                 </td>
                     <td>
-                   62.4 KM
-                </td>
-                   </tr>
-                   <tr>
-                    <td>
-                    Gurugram
-                </td>
-                    <td>
-                   84.2 KM
+                   1 KM
                 </td>
                    </tr>
                    <tr>
                     <td>
-                    Delhi
+                    Rewari  Bus Stand
                 </td>
                     <td>
-                   111.2 KM
+                   26 KM
+                </td>
+                   </tr>
+                   <tr>
+                    <td>
+                    Jhajjar  Bus Stand
+                </td>
+                    <td>
+                   46 KM
+                </td>
+                   </tr>
+                   <tr>
+                    <td>
+                    Rohtak  Bus Stand
+                </td>
+                    <td>
+                   84.8 KM
+                </td>
+                   </tr>
+                   <tr>
+                    <td>
+                   Sarai Kale Khan (Delhi) Bus Stand
+                </td>
+                    <td>
+                   117.7 KM
                 </td>
                    </tr>
                
@@ -89,7 +92,7 @@ Whether you are planning to visit us at one of our Open Days, or coming to an Ap
             <p class="text-white">
                 Nearest Railway station to the Institute is Dahina railway station. Rewari railway station is well connected to Jhajjar Junction and Rohtak junction and Delhi junction
                 </p>
-                  <table class="table  route-table-color">
+                  <table class="table  route-table-color mb-5 ">
                   <tr>
                    <th>
                         Location
@@ -100,26 +103,42 @@ Whether you are planning to visit us at one of our Open Days, or coming to an Ap
                    </tr>
                    <tr>
                     <td>
-                    Jhajjar City
+                   Dahina Zainabad
                 </td>
                     <td>
-                   62.4 KM
-                </td>
-                   </tr>
-                   <tr>
-                    <td>
-                    Gurugram
-                </td>
-                    <td>
-                   84.2 KM
+                  1 KM
                 </td>
                    </tr>
                    <tr>
                     <td>
-                    Delhi
+                    Rewari Junc.
                 </td>
                     <td>
-                   111.2 KM
+                  26 KM
+                </td>
+                   </tr>
+                   <tr>
+                    <td>
+                    Rohtak Junc.
+                </td>
+                    <td>
+                   83.4 KM
+                </td>
+                   </tr>
+                   <tr>
+                    <td>
+                    New Delhi Junc.
+                </td>
+                    <td>
+                   110 KM
+                </td>
+                   </tr>
+                   <tr>
+                    <td>
+                    Jaipur Junc.
+                </td>
+                    <td>
+                  213.6 KM
                 </td>
                    </tr>
                
@@ -132,7 +151,7 @@ Whether you are planning to visit us at one of our Open Days, or coming to an Ap
            <span class="h3 text-uppercase route-card-heading ">By Airport</span>
             <div class="card-body">
             <p class="text-white">
-                Nearest Railway station to the Institute is Dahina railway station. Rewari railway station is well connected to Jhajjar Junction and Rohtak junction and Delhi junction
+                Nearest Airport to the Institute is Indira Gandhi International Airport (delhi). Jaipur International Airport is well connected to Pandit Deen Dayal Upadhyay (Agra) andJolly Grant Airport (Dehradun)
                 </p>
                   <table class="table  route-table-color  ">
                   <tr>
@@ -145,26 +164,34 @@ Whether you are planning to visit us at one of our Open Days, or coming to an Ap
                    </tr>
                    <tr>
                     <td>
-                    Jhajjar City
+                    Indira Gandhi International Airport (delhi)
                 </td>
                     <td>
-                   62.4 KM
-                </td>
-                   </tr>
-                   <tr>
-                    <td>
-                    Gurugram
-                </td>
-                    <td>
-                   84.2 KM
+                   98.4 KM
                 </td>
                    </tr>
                    <tr>
                     <td>
-                    Delhi
+                    Jaipur International Airport
                 </td>
                     <td>
-                   111.2 KM
+                   219.3 KM
+                </td>
+                   </tr>
+                   <tr>
+                    <td>
+                    Pandit Deen Dayal Upadhyay Airport (Agra)
+                </td>
+                    <td>
+                   258.2 KM
+                </td>
+                   </tr>
+                   <tr>
+                    <td>
+                    Jolly Grant Airport (Dehradun)
+                </td>
+                    <td>
+                   335.8 KM
                 </td>
                    </tr>
                

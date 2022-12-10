@@ -53,7 +53,7 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
               <h3>Dr. Raja Ram</h3>
 
@@ -92,7 +92,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -104,9 +104,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Tara Chand</h3>
+              <h3>Mr. Tara Chand</h3>
 
             </div>
             <div class="mb-3">
@@ -143,7 +143,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/sumer.jpg"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -155,9 +155,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Sumer Singh</h3>
+              <h3>Mr. Sumer Singh</h3>
 
             </div>
             <div class="mb-3">
@@ -182,7 +182,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/baljeet.jpg"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -194,9 +194,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Baljeet Kumar</h3>
+              <h3>Mr. Baljeet Kumar</h3>
 
             </div>
             <div class="mb-3">
@@ -233,7 +233,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -245,9 +245,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Sarthi Sharma</h3>
+              <h3>Mr. Sarthi Sharma</h3>
 
             </div>
             <div class="mb-3">
@@ -272,7 +272,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/bhupender.jpg"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -284,9 +284,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Bhupender</h3>
+              <h3>Mr. Bhupender Yadav</h3>
 
             </div>
             <div class="mb-3">
@@ -324,7 +324,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -336,9 +336,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Kuldeep</h3>
+              <h3>Mr. Kuldeep</h3>
 
             </div>
             <div class="mb-3">
@@ -375,9 +375,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Manoj</h3>
+              <h3>Mr. Manoj</h3>
 
             </div>
             <div class="mb-3">
@@ -402,7 +402,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -414,9 +414,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Jitender</h3>
+              <h3>Mr. Jitender</h3>
 
             </div>
             <div class="mb-3">
@@ -453,9 +453,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Rajender</h3>
+              <h3>Mr. Rajender</h3>
 
             </div>
             <div class="mb-3">
@@ -480,7 +480,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/praveen phogat.jpg"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -492,9 +492,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Parveen</h3>
+              <h3>Mr. Parveen</h3>
 
             </div>
             <div class="mb-3">
@@ -519,7 +519,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/tota ram.jpg"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -531,9 +531,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Tota Ram</h3>
+              <h3>Mr. Tota Ram</h3>
 
             </div>
             <div class="mb-3">
@@ -558,7 +558,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/vedprakash.jpg"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -570,9 +570,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Ved Parkash</h3>
+              <h3>Mr. Ved Parkash</h3>
 
             </div>
             <div class="mb-3">
@@ -609,7 +609,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/sanjay.jpg"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -621,9 +621,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Sanjay</h3>
+              <h3>Mr. Sanjay</h3>
 
             </div>
             <div class="mb-3">
@@ -648,7 +648,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/ved mali.jpg"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -660,9 +660,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Ved Parkash</h3>
+              <h3>Mr. Ved Parkash</h3>
 
             </div>
             <div class="mb-3">
@@ -687,7 +687,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/raju.jpg"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -699,9 +699,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Rajender Singh</h3>
+              <h3>Mr. Rajender Singh</h3>
 
             </div>
             <div class="mb-3">
@@ -744,7 +744,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/yogesh.jpg"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -756,9 +756,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Yogender </h3>
+              <h3>Mr. Yogender </h3>
 
             </div>
             <div class="mb-3">
@@ -783,7 +783,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/pradeep sweeper.jpg"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -795,9 +795,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Pardeep</h3>
+              <h3>Mr. Pardeep</h3>
 
             </div>
             <div class="mb-3">
@@ -822,7 +822,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -834,14 +834,92 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Jaibir Singh</h3>
+              <h3>Mr. Jaibir Singh</h3>
 
             </div>
             <div class="mb-3">
 
               <h4 class="text-uppercase text-center role">Teaching Block</h4>
+
+            </div>
+            <div class="box">
+              <div>
+
+
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+      </div>  
+    <div class="col-11  col-md-6 col-lg-3 my-3 ">
+        <div class="card h-100 shadow-sm rounded-4">
+          <div class="text-center">
+
+
+            <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
+              <img class="shadow" src="./img/faculty/harish.jpg"  alt="Another Image zoom-on-hover effect">
+            </div>
+
+          </div>
+
+          <div class="card-body">
+            <div class="clearfix mb-3">
+
+
+            </div>
+
+
+            <div class="my-2 text-center small-font">
+
+              <h3>Mr. Harish</h3>
+
+            </div>
+            <div class="mb-3">
+
+              <h4 class="text-uppercase text-center role">Horticulture</h4>
+
+            </div>
+            <div class="box">
+              <div>
+
+
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+      </div>  
+    <div class="col-11  col-md-6 col-lg-3 my-3 ">
+        <div class="card h-100 shadow-sm rounded-4">
+          <div class="text-center">
+
+
+            <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
+              <img class="shadow" src="./img/faculty/angnaram.jpg"  alt="Another Image zoom-on-hover effect">
+            </div>
+
+          </div>
+
+          <div class="card-body">
+            <div class="clearfix mb-3">
+
+
+            </div>
+
+
+            <div class="my-2 text-center small-font">
+
+              <h3>Mr. Angnaram</h3>
+
+            </div>
+            <div class="mb-3">
+
+              <h4 class="text-uppercase text-center role">Horticulture</h4>
 
             </div>
             <div class="box">
@@ -879,7 +957,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/khuswant.jpg"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -891,9 +969,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Khuswant Singh</h3>
+              <h3>Mr. Khuswant Singh</h3>
 
             </div>
             <div class="mb-3">
@@ -918,7 +996,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/deepak.jpg"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -930,9 +1008,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Deepak Kumar</h3>
+              <h3>Mr. Deepak Kumar</h3>
 
             </div>
             <div class="mb-3">
@@ -957,7 +1035,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/jsawant.jpg"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -969,9 +1047,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Jaswant Singh</h3>
+              <h3>Mr. Jaswant Singh</h3>
 
             </div>
             <div class="mb-3">
@@ -996,7 +1074,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/mohan guard.jpg"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -1008,9 +1086,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Mohan Singh</h3>
+              <h3>Mr. Mohan Singh</h3>
 
             </div>
             <div class="mb-3">
@@ -1035,7 +1113,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/bijender.jpg"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -1047,9 +1125,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Bijender</h3>
+              <h3>Mr. Bijender</h3>
 
             </div>
             <div class="mb-3">
@@ -1074,7 +1152,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -1086,9 +1164,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Mahesh Kumar</h3>
+              <h3>Mr. Mahesh Kumar</h3>
 
             </div>
             <div class="mb-3">
@@ -1113,7 +1191,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -1125,9 +1203,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Mohit</h3>
+              <h3>Mr. Mohit</h3>
 
             </div>
             <div class="mb-3">
@@ -1152,7 +1230,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -1164,9 +1242,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Sandeep Kumar</h3>
+              <h3>Mr. Sandeep Kumar</h3>
 
             </div>
             <div class="mb-3">
@@ -1191,7 +1269,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -1203,9 +1281,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Ravinder Kumar</h3>
+              <h3>Mr. Ravinder Kumar</h3>
 
             </div>
             <div class="mb-3">
@@ -1230,7 +1308,7 @@ include("header.php");
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
-              <img class="shadow" src=""  alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -1242,9 +1320,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sh. Harish</h3>
+              <h3>Mr. Harish</h3>
 
             </div>
             <div class="mb-3">

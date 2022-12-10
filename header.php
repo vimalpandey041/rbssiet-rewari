@@ -14,6 +14,7 @@
   <link rel="stylesheet" href="./css/lightbox.css">
   <link rel="stylesheet" href="./css/route.css">
   <link rel="stylesheet" href="./css/gallery.css">
+  <link rel="stylesheet" href="./css/gallery2.css">
   <link rel="stylesheet" href="./css/craousel.css">
   <link rel="stylesheet" href="./css/about.css">
 
@@ -62,12 +63,12 @@
       <div class="col-sm-4  py-2  d-flex justify-content-center align-items-center text-white">
 
         <i class="fa-solid fa-phone px-3"></i>
-        <a href="tel: +91987654321" class="nav-link">+91 987654321</a>
+        <a href="tel: +9101281260000" class="nav-link">+91 01281-260000</a>
 
       </div>
       <div class="col-sm-5 py-2  d-flex justify-content-center align-items-center text-white">
         <i class="fa-solid fa-envelope px-3"></i>
-        <a href="mailto:support@rbssietrewari.ac.in" class="nav-link">support@rbssietrewari.ac.in</a>
+        <a href="mailto:officerbssiet@gmail.com" class="nav-link">officerbssiet@gmail.com</a>
 
       </div>
       <div class="col-sm-3 py-2  d-flex justify-content-center align-items-center text-white">
@@ -112,18 +113,49 @@
                                 <a href="index.php">Home</a>
                                 <div class="dropdown">
                                     <button class="drop-btn" onclick="location.href='about.php'" >
-                                        About <i class="fa-solid fa-caret-down ps-1"></i>
+                                        About Us <i class="fa-solid fa-caret-down ps-1"></i>
                                     </button>
                                     <div class="dropdown-content">
+                                    <a href="">Affiliation</a>
+                                    <div class="dropdown-right">
+                                            <button class="dropright-btn">
+                                              Recruitment <i class="fa-solid fa-caret-right "></i>
+                                            </button>
+                                            <div class="dropdown-right-content">
+                                            <a href="teachingfaculty.php">Teaching Staff</a>
+                                            <a href="nonteachingfaculty.php">Non Teaching Staff</a>
+                                            </div>
+                                        </div>
+                                        <a href="principaldesk.php">SDGs</a>
+                                        <a href="principaldesk.php">Carbon Footprint</a>
+                                        <a href="principaldesk.php">Green buildings</a>
+                                        <a href="principaldesk.php">National Educational Policy</a>
+                                        <a href="principaldesk.php">History</a>
                                         <a href="principaldesk.php">Principal's Desk</a>
-                                        <a href="">Placements</a>
-                                        <a href="#">Projects</a>
+                                        <a href="principaldesk.php">Rank/accreditation status</a>
+                                        <div class="dropdown-right">
+                                            <button class="dropright-btn">
+                                              Staff <i class="fa-solid fa-caret-right "></i>
+                                            </button>
+                                            <div class="dropdown-right-content">
+                                            <a href="teachingfaculty.php">Teaching Staff</a>
+                                            <a href="nonteachingfaculty.php">Non Teaching Staff</a>
+                                            </div>
+                                        </div>
+                                        <a href="">Students</a>
+                                        <a href="#">Facilities</a>
+                                        <a href="#">Courses offered</a>
+                                        <a href="#">Results</a>
+                                        <a href="#">placements</a>
+                                        <a href="#">Enterpreneurship</a>
                                         <a href="#">Luminaries</a>
+                                        <a href="#">Projects</a>
+                                        <a href="#">Extracurricular achievements</a>
+                                        <a href="#">Unnat Bharat Abhiyan</a>
+                                        <a href="#">Mandatory Disclosure under RTI</a>
                                         <a href="#">Annual Report</a>
-                                        <a href="#">Mandatory Disclosure</a>
-                                        <a href="rti.php">RTI Act 2005</a>
-                                        <a href="contact.php">Contact</a>
-                                        <a href="route.php">Route To Institute</a>
+                                        <a href="contact.php">Contact Us</a>
+                                        <a href="route.php">How to reach the institute</a>
                                     </div>
                                 </div>
                                 <div class="dropdown">
@@ -133,7 +165,7 @@
                                     <div class="dropdown-content">
                                         <div class="dropdown-right">
                                             <button class="dropright-btn" onclick="location.href='departments.php'">
-                                                Departments <i class="fa-solid fa-caret-right "></i>
+                                                Departments/Courses <i class="fa-solid fa-caret-right "></i>
                                             </button>
                                             <div class="dropdown-right-content">
                                                 <a href="cse.php">Computer Engineering</a>
@@ -207,17 +239,22 @@
                                         </div>
                                         
                                         <a href="./downloads/acadmic calander/Academic-Calendar-2022-23.pdf">Academic Calender </a>
-                                        <a href="./downloads/acadmic calander/time-table.pdf">Time Table</a>
+                                        <a href="./downloads/acadmic calander/time-table.pdf">Admissions</a>
+                                        <a href="./downloads/acadmic calander/time-table.pdf">Exams</a>
                                         <a href="#">Skill Courses</a>
+                                        <a href="#">Freelancing</a>
+                                        <a href="#">Incubator</a>
                                         <a href="#">Apprenticeship</a>
                                         <a href="#">NCC/NSS </a>
-                                        <a href="./downloads/acadmic calander/Engg-Day-Quiz-result.pdf">Award</a>
-                                        <a href="fees-structure-and-scholorship.php">Scholarship</a>
-                                        <a href="#">Exam</a>
-                                        <a href="https://igu1.ucanapply.com/result-details">Results</a>
-                                        <a href="#">Anti Ragging</a>
+                                        <a href="./downloads/acadmic calander/Engg-Day-Quiz-result.pdf">Awards/Scholarship</a>
+                                        <a href="fees-structure-and-scholorship.php">Welfare schemes</a>
+                                        <a href="fees-structure-and-scholorship.php">Time table</a>
+                                        <a href="fees-structure-and-scholorship.php">Online Learning Portals</a>
+                                        <a href="fees-structure-and-scholorship.php">Code of conduct for student</a>
                                         <a href="#">Student Helpline</a>
-                                        <a href="#">E Services</a>
+                                        <a href="#">Grievance redressal</a>
+                                        <a href="#">Preception index</a>
+                                        <a href="#">E-Services for students</a>
                                     </div>
                                 </div>
                                 <div class="dropdown">
@@ -225,6 +262,18 @@
                                         Faculty <i class="fa-solid fa-caret-down ps-1"></i>
                                     </button>
                                     <div class="dropdown-content">
+                                    <div class="dropdown-right">
+                                            <button class="dropright-btn" onclick="location.href='departments.php'">
+                                                Departments/Courses <i class="fa-solid fa-caret-right "></i>
+                                            </button>
+                                            <div class="dropdown-right-content">
+                                                <a href="cse.php">Computer Engineering</a>
+                                                <a href="ce.php">Civil Engineering</a>
+                                                <a href="ee.php">Electrical Engineering</a>
+                                                <a href="ece.php">Electronics & Comm. Engineering</a>
+                                                <a href="me.php">Mechanical Engineering</a>
+                                            </div>
+                                        </div>
                                         <div class="dropdown-right">
                                             <button class="dropright-btn">
                                                Faculty <i class="fa-solid fa-caret-right "></i>
@@ -236,10 +285,14 @@
                                         </div>
                                         <a href="#">Code Of Conduct</a>
                                         <a href="#">Training Policy</a>
+                                        <a href="#">Anti ragging</a>
+                                        <a href="#">Anti sexual harassment</a>
                                         <a href="#">Service Rules</a>
+                                        <a href="#">Research papers</a>
+                                        <a href="#">Department instructions</a>
                                         <a href="https://intrahry.gov.in/">HRMS</a>
                                         <a href="#">IQAC-Quality cell</a>
-                                        <a href="#">E-Services</a>
+                                        <a href="#">E-Services for faculty</a>
                                     </div>
                                 </div>
                                 <div class="dropdown">
@@ -273,16 +326,18 @@
                                                Photos <i class="fa-solid fa-caret-right "></i>
                                             </button>
                                             <div class="dropdown-right-content">
-                                            <a href="">India Mobile Congress 2022</a>
+                                            <a href="gallery2.php#imc2022">India Mobile Congress 2022</a>
                                             <a href="">Labs</a>
-                                            <a href="">Events</a>
-                                            <a href="">Hostel</a>
+                                            <a href="gallery2.php#events">Events</a>
+                                            <a href="gallery2.php#hostel">Hostel</a>
                                             </div>
                                         </div>
                                         <a href="#">Videos</a>
+                                        <a href="#">Social Media</a>
                                     </div>
                                 </div>
                                 <a href="#contact">Tenders</a>
+                                
                                 <div class="dropdown">
                                     <button class="drop-btn">
                                         News/Notices/Announcements <i class="fa-solid fa-caret-down ps-1"></i>
@@ -343,7 +398,7 @@
   <i class="fa-solid fa-circle-info fa-2x"></i>
     <span class="nav___text">Syllabus</span>
   </a>
-  <a href="gallery.php" class="nav___link">
+  <a href="gallery2.php" class="nav___link">
   <i class="fa-sharp fa-solid fa-image fa-2x"></i>
     <span class="nav___text">Gallery</span>
   </a>

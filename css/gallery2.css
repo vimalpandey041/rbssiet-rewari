@@ -1,0 +1,117 @@
+.gallery-page {
+    position: relative;
+    display: block;
+    padding: 120px 0 90px;
+  }
+  
+  .gallery-page__single {
+    position: relative;
+    display: block;
+    margin-bottom: 3px;
+  }
+  
+  .gallery-page__img {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    border-radius: var(--oxpins-bdr-radius);
+    z-index: 1;
+  }
+  
+  .gallery-page__img:before {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-radius: 19px;
+    content: "";
+    background: hsla(278, 91%, 14%, 0.4);
+    -webkit-transition: all 700ms ease;
+    -ms-transition: all 700ms ease;
+    -o-transition: all 700ms ease;
+    transition: all 700ms ease;
+    -webkit-transform: translateY(100%);
+    -ms-transform: translateY(100%);
+    -o-transform: translateY(100%);
+    -moz-transform: translateY(100%);
+    transform: translateY(100%);
+  }
+  
+  .gallery-page__single:hover .gallery-page__img:before {
+    -webkit-transform: translateY(0%);
+    -ms-transform: translateY(0%);
+    -o-transform: translateY(0%);
+    -moz-transform: translateY(0%);
+    transform: translateY(0%);
+  }
+  
+  .gallery-page__single .img-popup {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 10;
+  }
+  
+  .gallery-page__img img {
+    width: 100%;
+    border-radius: var(--oxpins-bdr-radius);
+  }
+  
+  .gallery-page__content {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 44px;
+    text-align: center;
+    transform: translateY(-100px);
+    opacity: 0;
+    -webkit-transition: all 700ms ease;
+    -ms-transition: all 700ms ease;
+    -o-transition: all 700ms ease;
+    transition: all 700ms ease;
+  }
+  
+  .gallery-page__single:hover .gallery-page__content {
+    -webkit-transform: translateY(0%);
+    -ms-transform: translateY(0%);
+    -o-transform: translateY(0%);
+    -moz-transform: translateY(0%);
+    transform: translateY(0%);
+    opacity: 1;
+  }
+  
+  .gallery-page__sub-title {
+    font-size: 24px;
+    color: var(--oxpins-black);
+    font-weight: 700;
+    line-height: 24px;
+    font-family: var(--oxpins-font-three);
+    padding-bottom: 8px;
+  }
+  
+  .gallery-page__title {
+    font-size: 24px;
+    font-weight: 900;
+    letter-spacing: -0.04em;
+    line-height: 34px;
+  }
+  
+  .gallery-page__title a {
+   color: aqua;
+  }
+
+  @media screen and (max-width:480px) {
+    .gallery-page__title {
+      font-size: 18px;
+      font-weight: 900;
+      letter-spacing: -0.04em;
+      line-height: 22px;
+    }
+    
+
+    
+  }
+  

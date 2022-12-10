@@ -20,7 +20,7 @@ include("header.php")
 <div class="container-fluid p-0 my-5 px-5">
   <div class="row p-0">
     <div class="col-12 col-md-12 col-lg-5 text-center">
-    <img src="./img/51.png"  class="img-fluid shadow rounded-4 bg-dark" alt="">
+    <img src="./img/51.png"  class="img-fluid shadow rounded-4 " alt="">
     </div>
     <div class="col-12 col-md-12 col-lg-7">
     <h2 class="title text-uppercase text-center mt-4 mt-lg-0 "><span class="text-theme-colored2 text-danger">Director's </span> Corner</h2>         

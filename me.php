@@ -26,7 +26,7 @@ include("header.php");
         <div class="double-line-bottom-centered-theme-colored-2"></div>
       </div>
     </div>
-    <p class="pera-justify px-lg-5 px-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus consectetur repellat eaque ducimus inventore officiis omnis velit quae sapiente suscipit ut reiciendis eius, laudantium nesciunt facere enim tempora exercitationem mollitia doloribus a itaque. Doloribus perspiciatis, facilis, recusandae, natus voluptatum accusamus obcaecati at mollitia dolore ducimus quaerat sequi commodi iusto rerum repudiandae tenetur saepe tempora ut est. Labore debitis consequatur, optio quae repellendus neque assumenda doloribus praesentium nemo aperiam ea fuga amet veritatis aliquam nam, facilis reiciendis aut aspernatur aliquid sit dolorem! Accusamus ducimus voluptatem esse doloribus aliquam? Beatae natus voluptate enim tempore iusto vitae, quia porro fugit modi repudiandae numquam reiciendis quasi earum! Velit quidem ipsam officia, vero autem qui, </p>
+    <p class="pera-justify px-lg-5 px-2">Mechanical engineering is one of the broadest engineering disciplines. Mechanical engineers design, develop, build, and test. They deal with anything that moves, from components to machines to the human body. </p>
   </div>
   <div class="container py-4">
     <h2 class="h2 text-uppercase">Faculty
@@ -36,13 +36,13 @@ include("header.php");
   </div>
   <div class="container">
     <div class=" row row-cols-3 d-flex justify-content-center">
-    <div class="col-11  col-md-6 col-lg-4 my-3 ">
+    <div class="col-11  col-md-6 col-lg-3 my-3 ">
         <div class="card h-100 shadow-sm rounded-4">
           <div class="text-center">
 
 
-            <div class="img-hover-zoom img-hover-zoom--colorize">
-              <img class="shadow" src="https://source.unsplash.com/B4TjXnI0Y2c/600x600" alt="Another Image zoom-on-hover effect">
+            <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
+              <img class="shadow" src="./img/51.png"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -54,9 +54,192 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Dr. S</h3>
+              <h3>Mr. Devender Kumar Rawat</h3>
+
+            </div>
+            <div class="mb-3">
+
+              <h4 class="text-uppercase text-center role">Director-Principal</h4>
+
+            </div>
+            <div class="box">
+              <div>
+                <ul class="nav nav-tabs d-flex justify-content-center" id="myTab" role="tablist">
+                  <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="education-tab-7" data-bs-toggle="tab" data-bs-target="#education-7" type="button" role="tab" aria-controls="home" aria-selected="true"><i class="fa-solid fa-graduation-cap fa-2x"></i></button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="whatsapp-tab-7" data-bs-toggle="tab" data-bs-target="#whatsapp-7" type="button" role="tab" aria-controls="profile" aria-selected="false"><i class="fa-brands fa-whatsapp fa-2x"></i></button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="email-tab-7" data-bs-toggle="tab" data-bs-target="#email-7" type="button" role="tab" aria-controls="contact" aria-selected="false"><i class="fa-solid fa-envelope fa-2x"></i></button>
+                  </li>
+                </ul>
+                <div class="tab-content mt-3" id="myTabContent">
+                  <div class="tab-pane fade show active" id="education-7" role="tabpanel" aria-labelledby="education-tab-7">
+                    <span class=""> B.Tech , M.Tech </span>
+                  </div>
+                  <div class="tab-pane fade" id="whatsapp-7" role="tabpanel" aria-labelledby="whatsapp-tab-7">
+                    <span class=""> <a href="we.me/91" class="text-decoration-none text-dark"></a></span>
+                  </div>
+                  <div class="tab-pane fade" id="email-7" role="tabpanel" aria-labelledby="email-tab-7">
+                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark"></a></span>
+                  </div>
+                </div>
+
+
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+      </div>  
+    <div class="col-11  col-md-6 col-lg-3 my-3 ">
+        <div class="card h-100 shadow-sm rounded-4">
+          <div class="text-center">
+
+
+            <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
+              <img class="shadow" src="./img/faculty/teaching staff/devender_sir-removebg-preview.png"  alt="Another Image zoom-on-hover effect">
+            </div>
+
+          </div>
+
+          <div class="card-body">
+            <div class="clearfix mb-3">
+
+
+            </div>
+
+
+            <div class="my-2 text-center small-font">
+
+              <h3>Mr. Devender Yadav</h3>
+
+            </div>
+            <div class="mb-3">
+
+              <h4 class="text-uppercase text-center role">Guest Faculty</h4>
+
+            </div>
+            <div class="box">
+              <div>
+                <ul class="nav nav-tabs d-flex justify-content-center" id="myTab" role="tablist">
+                  <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="education-tab-11" data-bs-toggle="tab" data-bs-target="#education-11" type="button" role="tab" aria-controls="home" aria-selected="true"><i class="fa-solid fa-graduation-cap fa-2x"></i></button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="whatsapp-tab-11" data-bs-toggle="tab" data-bs-target="#whatsapp-11" type="button" role="tab" aria-controls="profile" aria-selected="false"><i class="fa-brands fa-whatsapp fa-2x"></i></button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="email-tab-11" data-bs-toggle="tab" data-bs-target="#email-11" type="button" role="tab" aria-controls="contact" aria-selected="false"><i class="fa-solid fa-envelope fa-2x"></i></button>
+                  </li>
+                </ul>
+                <div class="tab-content mt-3" id="myTabContent">
+                  <div class="tab-pane fade show active" id="education-11" role="tabpanel" aria-labelledby="education-tab-11">
+                    <span class=""> B.Tech , M.Tech</span>
+                  </div>
+                  <div class="tab-pane fade" id="whatsapp-11" role="tabpanel" aria-labelledby="whatsapp-tab-11">
+                    <span class=""> <a href="we.me/91" class="text-decoration-none text-dark">9780089547</a></span>
+                  </div>
+                  <div class="tab-pane fade" id="email-11" role="tabpanel" aria-labelledby="email-tab-11">
+                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark"></a>devnit120@gmail.com</span>
+                  </div>
+                </div>
+
+
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+      </div>  
+      <div class="col-11  col-md-6 col-lg-3 my-3 ">
+        <div class="card h-100 shadow-sm rounded-4">
+          <div class="text-center">
+
+
+            <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
+              <img class="shadow" src="./img/faculty/teaching staff/mahesh_sir-removebg-preview.png"  alt="Another Image zoom-on-hover effect">
+            </div>
+
+          </div>
+
+          <div class="card-body">
+            <div class="clearfix mb-3">
+
+
+            </div>
+
+
+            <div class="my-2 text-center small-font">
+
+              <h3>Mr. Mahesh Yadav</h3>
+
+            </div>
+            <div class="mb-3">
+
+              <h4 class="text-uppercase text-center role">Guest Faculty</h4>
+
+            </div>
+            <div class="box">
+              <div>
+                <ul class="nav nav-tabs d-flex justify-content-center" id="myTab" role="tablist">
+                  <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="education-tab-14" data-bs-toggle="tab" data-bs-target="#education-14" type="button" role="tab" aria-controls="home" aria-selected="true"><i class="fa-solid fa-graduation-cap fa-2x"></i></button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="whatsapp-tab-14" data-bs-toggle="tab" data-bs-target="#whatsapp-14" type="button" role="tab" aria-controls="profile" aria-selected="false"><i class="fa-brands fa-whatsapp fa-2x"></i></button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="email-tab-14" data-bs-toggle="tab" data-bs-target="#email-14" type="button" role="tab" aria-controls="contact" aria-selected="false"><i class="fa-solid fa-envelope fa-2x"></i></button>
+                  </li>
+                </ul>
+                <div class="tab-content mt-3" id="myTabContent">
+                  <div class="tab-pane fade show active" id="education-14" role="tabpanel" aria-labelledby="education-tab-14">
+                    <span class=""> B.Tech , M.Tech</span>
+                  </div>
+                  <div class="tab-pane fade" id="whatsapp-14" role="tabpanel" aria-labelledby="whatsapp-tab-14">
+                    <span class=""> <a href="we.me/91" class="text-decoration-none text-dark">9992424794</a></span>
+                  </div>
+                  <div class="tab-pane fade" id="email-14" role="tabpanel" aria-labelledby="email-tab-14">
+                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark">yadavmaheshme@gmail.com</a></span>
+                  </div>
+                </div>
+
+
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+      </div> 
+      <div class="col-11  col-md-6 col-lg-3 my-3 ">
+        <div class="card h-100 shadow-sm rounded-4">
+          <div class="text-center">
+
+
+            <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
+              <img class="shadow" src="./img/faculty/teaching staff/Sudesh_kumar-removebg-preview.png"  alt="Another Image zoom-on-hover effect">
+            </div>
+
+          </div>
+
+          <div class="card-body">
+            <div class="clearfix mb-3">
+
+
+            </div>
+
+
+            <div class="my-2 text-center small-font">
+
+              <h3>Dr. Sudesh Kumar</h3>
 
             </div>
             <div class="mb-3">
@@ -79,13 +262,13 @@ include("header.php");
                 </ul>
                 <div class="tab-content mt-3" id="myTabContent">
                   <div class="tab-pane fade show active" id="education-1" role="tabpanel" aria-labelledby="education-tab-1">
-                    <span class=""> M.Tech , PHD</span>
+                    <span class=""> B.Tech , M.Tech , Phd</span>
                   </div>
                   <div class="tab-pane fade" id="whatsapp-1" role="tabpanel" aria-labelledby="whatsapp-tab-1">
-                    <span class=""> <a href="we.me/91987654321" class="text-decoration-none text-dark">+91 987654321</a></span>
+                    <span class=""> <a href="we.me/91" class="text-decoration-none text-dark"></a></span>
                   </div>
                   <div class="tab-pane fade" id="email-1" role="tabpanel" aria-labelledby="email-tab-1">
-                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark">Vimalpandey@gmail.com</a></span>
+                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark">sudeshjakhar@gmail.com</a></span>
                   </div>
                 </div>
 
@@ -97,13 +280,13 @@ include("header.php");
           </div>
         </div>
       </div>  
-    <div class="col-11  col-md-6 col-lg-4 my-3 ">
+      <div class="col-11  col-md-6 col-lg-3 my-3 ">
         <div class="card h-100 shadow-sm rounded-4">
           <div class="text-center">
 
 
-            <div class="img-hover-zoom img-hover-zoom--colorize">
-              <img class="shadow" src="https://source.unsplash.com/B4TjXnI0Y2c/600x600" alt="Another Image zoom-on-hover effect">
+            <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
+              <img class="shadow" src="./img/faculty/teaching staff/wazir_singh_sir-removebg-preview.png"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -115,38 +298,38 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sushma Rani</h3>
+              <h3>Dr. Wazir Singh</h3>
 
             </div>
             <div class="mb-3">
 
-              <h4 class="text-uppercase text-center role">Guest Faculty</h4>
+              <h4 class="text-uppercase text-center role">CE , ME HOD</h4>
 
             </div>
             <div class="box">
               <div>
                 <ul class="nav nav-tabs d-flex justify-content-center" id="myTab" role="tablist">
                   <li class="nav-item" role="presentation">
-                    <button class="nav-link active" id="education-tab-2" data-bs-toggle="tab" data-bs-target="#education-2" type="button" role="tab" aria-controls="home" aria-selected="true"><i class="fa-solid fa-graduation-cap fa-2x"></i></button>
+                    <button class="nav-link active" id="education-tab-9" data-bs-toggle="tab" data-bs-target="#education-9" type="button" role="tab" aria-controls="home" aria-selected="true"><i class="fa-solid fa-graduation-cap fa-2x"></i></button>
                   </li>
                   <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="whatsapp-tab-2" data-bs-toggle="tab" data-bs-target="#whatsapp-2" type="button" role="tab" aria-controls="profile" aria-selected="false"><i class="fa-brands fa-whatsapp fa-2x"></i></button>
+                    <button class="nav-link" id="whatsapp-tab-9" data-bs-toggle="tab" data-bs-target="#whatsapp-9" type="button" role="tab" aria-controls="profile" aria-selected="false"><i class="fa-brands fa-whatsapp fa-2x"></i></button>
                   </li>
                   <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="email-tab-2" data-bs-toggle="tab" data-bs-target="#email-2" type="button" role="tab" aria-controls="contact" aria-selected="false"><i class="fa-solid fa-envelope fa-2x"></i></button>
+                    <button class="nav-link" id="email-tab-9" data-bs-toggle="tab" data-bs-target="#email-9" type="button" role="tab" aria-controls="contact" aria-selected="false"><i class="fa-solid fa-envelope fa-2x"></i></button>
                   </li>
                 </ul>
                 <div class="tab-content mt-3" id="myTabContent">
-                  <div class="tab-pane fade show active" id="education-2" role="tabpanel" aria-labelledby="education-tab-2">
-                    <span class=""> M.Tech , PHD</span>
+                  <div class="tab-pane fade show active" id="education-9" role="tabpanel" aria-labelledby="education-tab-9">
+                    <span class=""> B.Tech , M.Tech</span>
                   </div>
-                  <div class="tab-pane fade" id="whatsapp-2" role="tabpanel" aria-labelledby="whatsapp-tab-2">
-                    <span class=""> <a href="we.me/91987654321" class="text-decoration-none text-dark">+91 987654321</a></span>
+                  <div class="tab-pane fade" id="whatsapp-9" role="tabpanel" aria-labelledby="whatsapp-tab-9">
+                    <span class=""> <a href="we.me/91" class="text-decoration-none text-dark"></a></span>
                   </div>
-                  <div class="tab-pane fade" id="email-2" role="tabpanel" aria-labelledby="email-tab-2">
-                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark">Vimalpandey@gmail.com</a></span>
+                  <div class="tab-pane fade" id="email-9" role="tabpanel" aria-labelledby="email-tab-9">
+                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark"></a></span>
                   </div>
                 </div>
 
@@ -158,13 +341,13 @@ include("header.php");
           </div>
         </div>
       </div>  
-    <div class="col-11  col-md-6 col-lg-4 my-3 ">
+      <div class="col-11  col-md-6 col-lg-3 my-3 ">
         <div class="card h-100 shadow-sm rounded-4">
           <div class="text-center">
 
 
-            <div class="img-hover-zoom img-hover-zoom--colorize">
-              <img class="shadow" src="https://source.unsplash.com/B4TjXnI0Y2c/600x600" alt="Another Image zoom-on-hover effect">
+            <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
+              <img class="shadow" src="./img/faculty/teaching staff/smit_sir-removebg-preview.png"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -176,38 +359,38 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sushma Rani</h3>
+              <h3>Mr.Smit Yadav</h3>
 
             </div>
             <div class="mb-3">
 
-              <h4 class="text-uppercase text-center role">Guest Faculty</h4>
+              <h4 class="text-uppercase text-center role">CSE, ECE HOD</h4>
 
             </div>
             <div class="box">
               <div>
                 <ul class="nav nav-tabs d-flex justify-content-center" id="myTab" role="tablist">
                   <li class="nav-item" role="presentation">
-                    <button class="nav-link active" id="education-tab-3" data-bs-toggle="tab" data-bs-target="#education-3" type="button" role="tab" aria-controls="home" aria-selected="true"><i class="fa-solid fa-graduation-cap fa-2x"></i></button>
+                    <button class="nav-link active" id="education-tab-8" data-bs-toggle="tab" data-bs-target="#education-8" type="button" role="tab" aria-controls="home" aria-selected="true"><i class="fa-solid fa-graduation-cap fa-2x"></i></button>
                   </li>
                   <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="whatsapp-tab-3" data-bs-toggle="tab" data-bs-target="#whatsapp-3" type="button" role="tab" aria-controls="profile" aria-selected="false"><i class="fa-brands fa-whatsapp fa-2x"></i></button>
+                    <button class="nav-link" id="whatsapp-tab-8" data-bs-toggle="tab" data-bs-target="#whatsapp-8" type="button" role="tab" aria-controls="profile" aria-selected="false"><i class="fa-brands fa-whatsapp fa-2x"></i></button>
                   </li>
                   <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="email-tab-3" data-bs-toggle="tab" data-bs-target="#email-3" type="button" role="tab" aria-controls="contact" aria-selected="false"><i class="fa-solid fa-envelope fa-2x"></i></button>
+                    <button class="nav-link" id="email-tab-8" data-bs-toggle="tab" data-bs-target="#email-8" type="button" role="tab" aria-controls="contact" aria-selected="false"><i class="fa-solid fa-envelope fa-2x"></i></button>
                   </li>
                 </ul>
                 <div class="tab-content mt-3" id="myTabContent">
-                  <div class="tab-pane fade show active" id="education-3" role="tabpanel" aria-labelledby="education-tab-3">
-                    <span class=""> M.Tech , PHD</span>
+                  <div class="tab-pane fade show active" id="education-8" role="tabpanel" aria-labelledby="education-tab-8">
+                    <span class=""> B.Tech , M.Tech</span>
                   </div>
-                  <div class="tab-pane fade" id="whatsapp-3" role="tabpanel" aria-labelledby="whatsapp-tab-3">
-                    <span class=""> <a href="we.me/91987654321" class="text-decoration-none text-dark">+91 987654321</a></span>
+                  <div class="tab-pane fade" id="whatsapp-8" role="tabpanel" aria-labelledby="whatsapp-tab-8">
+                    <span class=""> <a href="we.me/91" class="text-decoration-none text-dark"></a></span>
                   </div>
-                  <div class="tab-pane fade" id="email-3" role="tabpanel" aria-labelledby="email-tab-3">
-                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark">Vimalpandey@gmail.com</a></span>
+                  <div class="tab-pane fade" id="email-8" role="tabpanel" aria-labelledby="email-tab-8">
+                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark"></a></span>
                   </div>
                 </div>
 
@@ -219,13 +402,13 @@ include("header.php");
           </div>
         </div>
       </div>  
-    <div class="col-11  col-md-6 col-lg-4 my-3 ">
+      <div class="col-11  col-md-6 col-lg-3 my-3 ">
         <div class="card h-100 shadow-sm rounded-4">
           <div class="text-center">
 
 
             <div class="img-hover-zoom img-hover-zoom--colorize">
-              <img class="shadow" src="https://source.unsplash.com/B4TjXnI0Y2c/600x600" alt="Another Image zoom-on-hover effect">
+              <img class="shadow" src="./img/faculty/teaching staff/ashish_sir-removebg-preview.png" alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -237,131 +420,9 @@ include("header.php");
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Sushma Rani</h3>
-
-            </div>
-            <div class="mb-3">
-
-              <h4 class="text-uppercase text-center role">Guest Faculty</h4>
-
-            </div>
-            <div class="box">
-              <div>
-                <ul class="nav nav-tabs d-flex justify-content-center" id="myTab" role="tablist">
-                  <li class="nav-item" role="presentation">
-                    <button class="nav-link active" id="education-tab-4" data-bs-toggle="tab" data-bs-target="#education-4" type="button" role="tab" aria-controls="home" aria-selected="true"><i class="fa-solid fa-graduation-cap fa-2x"></i></button>
-                  </li>
-                  <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="whatsapp-tab-4" data-bs-toggle="tab" data-bs-target="#whatsapp-4" type="button" role="tab" aria-controls="profile" aria-selected="false"><i class="fa-brands fa-whatsapp fa-2x"></i></button>
-                  </li>
-                  <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="email-tab-4" data-bs-toggle="tab" data-bs-target="#email-4" type="button" role="tab" aria-controls="contact" aria-selected="false"><i class="fa-solid fa-envelope fa-2x"></i></button>
-                  </li>
-                </ul>
-                <div class="tab-content mt-3" id="myTabContent">
-                  <div class="tab-pane fade show active" id="education-4" role="tabpanel" aria-labelledby="education-tab-4">
-                    <span class=""> M.Tech , PHD</span>
-                  </div>
-                  <div class="tab-pane fade" id="whatsapp-4" role="tabpanel" aria-labelledby="whatsapp-tab-4">
-                    <span class=""> <a href="we.me/91987654321" class="text-decoration-none text-dark">+91 987654321</a></span>
-                  </div>
-                  <div class="tab-pane fade" id="email-4" role="tabpanel" aria-labelledby="email-tab-4">
-                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark">Vimalpandey@gmail.com</a></span>
-                  </div>
-                </div>
-
-
-              </div>
-            </div>
-
-
-          </div>
-        </div>
-      </div>  
-    <div class="col-11  col-md-6 col-lg-4 my-3 ">
-        <div class="card h-100 shadow-sm rounded-4">
-          <div class="text-center">
-
-
-            <div class="img-hover-zoom img-hover-zoom--colorize">
-              <img class="shadow" src="https://source.unsplash.com/B4TjXnI0Y2c/600x600" alt="Another Image zoom-on-hover effect">
-            </div>
-
-          </div>
-
-          <div class="card-body">
-            <div class="clearfix mb-3">
-
-
-            </div>
-
-
-            <div class="my-2 text-center">
-
-              <h3>Sushma Rani</h3>
-
-            </div>
-            <div class="mb-3">
-
-              <h4 class="text-uppercase text-center role">Guest Faculty</h4>
-
-            </div>
-            <div class="box">
-              <div>
-                <ul class="nav nav-tabs d-flex justify-content-center" id="myTab" role="tablist">
-                  <li class="nav-item" role="presentation">
-                    <button class="nav-link active" id="education-tab-5" data-bs-toggle="tab" data-bs-target="#education-5" type="button" role="tab" aria-controls="home" aria-selected="true"><i class="fa-solid fa-graduation-cap fa-2x"></i></button>
-                  </li>
-                  <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="whatsapp-tab-5" data-bs-toggle="tab" data-bs-target="#whatsapp-5" type="button" role="tab" aria-controls="profile" aria-selected="false"><i class="fa-brands fa-whatsapp fa-2x"></i></button>
-                  </li>
-                  <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="email-tab-5" data-bs-toggle="tab" data-bs-target="#email-5" type="button" role="tab" aria-controls="contact" aria-selected="false"><i class="fa-solid fa-envelope fa-2x"></i></button>
-                  </li>
-                </ul>
-                <div class="tab-content mt-3" id="myTabContent">
-                  <div class="tab-pane fade show active" id="education-5" role="tabpanel" aria-labelledby="education-tab-5">
-                    <span class=""> M.Tech , PHD</span>
-                  </div>
-                  <div class="tab-pane fade" id="whatsapp-5" role="tabpanel" aria-labelledby="whatsapp-tab-5">
-                    <span class=""> <a href="we.me/91987654321" class="text-decoration-none text-dark">+91 987654321</a></span>
-                  </div>
-                  <div class="tab-pane fade" id="email-5" role="tabpanel" aria-labelledby="email-tab-5">
-                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark">Vimalpandey@gmail.com</a></span>
-                  </div>
-                </div>
-
-
-              </div>
-            </div>
-
-
-          </div>
-        </div>
-      </div>  
-    <div class="col-11  col-md-6 col-lg-4 my-3 ">
-        <div class="card h-100 shadow-sm rounded-4">
-          <div class="text-center">
-
-
-            <div class="img-hover-zoom img-hover-zoom--colorize">
-              <img class="shadow" src="https://source.unsplash.com/B4TjXnI0Y2c/600x600" alt="Another Image zoom-on-hover effect">
-            </div>
-
-          </div>
-
-          <div class="card-body">
-            <div class="clearfix mb-3">
-
-
-            </div>
-
-
-            <div class="my-2 text-center">
-
-              <h3>Sushma Rani</h3>
+              <h3>Mr. Ashish Kumar</h3>
 
             </div>
             <div class="mb-3">
@@ -384,13 +445,13 @@ include("header.php");
                 </ul>
                 <div class="tab-content mt-3" id="myTabContent">
                   <div class="tab-pane fade show active" id="education-6" role="tabpanel" aria-labelledby="education-tab-6">
-                    <span class=""> M.Tech , PHD</span>
+                    <span class=""> B.Tech , M.Tech</span>
                   </div>
                   <div class="tab-pane fade" id="whatsapp-6" role="tabpanel" aria-labelledby="whatsapp-tab-6">
-                    <span class=""> <a href="we.me/91987654321" class="text-decoration-none text-dark">+91 987654321</a></span>
+                    <span class=""> <a href="we.me/" class="text-decoration-none text-dark"></a></span>
                   </div>
                   <div class="tab-pane fade" id="email-6" role="tabpanel" aria-labelledby="email-tab-6">
-                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark">Vimalpandey@gmail.com</a></span>
+                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark">sangwanashi333@gmail.com</a></span>
                   </div>
                 </div>
 
@@ -402,20 +463,13 @@ include("header.php");
           </div>
         </div>
       </div>  
-
-    <!-- 
-    <?php
-$x = 1;
-
-while($x <= 5) {
-  ?>
-    <div class="col-11  col-md-6 col-lg-4 my-3 ">
+      <div class="col-11  col-md-6 col-lg-3 my-3 ">
         <div class="card h-100 shadow-sm rounded-4">
           <div class="text-center">
 
 
-            <div class="img-hover-zoom img-hover-zoom--colorize">
-              <img class="shadow" src="https://source.unsplash.com/B4TjXnI0Y2c/600x600" alt="Another Image zoom-on-hover effect">
+            <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
+              <img class="shadow" src="./img/faculty/teaching staff/sarika_mam-removebg-preview.png"  alt="Another Image zoom-on-hover effect">
             </div>
 
           </div>
@@ -427,9 +481,9 @@ while($x <= 5) {
             </div>
 
 
-            <div class="my-2 text-center">
+            <div class="my-2 text-center small-font">
 
-              <h3>Shusma Rani</h3>
+              <h3>Smt. Sarika yadav</h3>
 
             </div>
             <div class="mb-3">
@@ -441,24 +495,24 @@ while($x <= 5) {
               <div>
                 <ul class="nav nav-tabs d-flex justify-content-center" id="myTab" role="tablist">
                   <li class="nav-item" role="presentation">
-                    <button class="nav-link active" id="education-tab-<?php echo $x ?>" data-bs-toggle="tab" data-bs-target="#education-<?php echo $x ?>" type="button" role="tab" aria-controls="home" aria-selected="true"><i class="fa-solid fa-graduation-cap fa-2x"></i></button>
+                    <button class="nav-link active" id="education-tab-10" data-bs-toggle="tab" data-bs-target="#education-10" type="button" role="tab" aria-controls="home" aria-selected="true"><i class="fa-solid fa-graduation-cap fa-2x"></i></button>
                   </li>
                   <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="whatsapp-tab-<?php echo $x ?>" data-bs-toggle="tab" data-bs-target="#whatsapp-<?php echo $x ?>" type="button" role="tab" aria-controls="profile" aria-selected="false"><i class="fa-brands fa-whatsapp fa-2x"></i></button>
+                    <button class="nav-link" id="whatsapp-tab-10" data-bs-toggle="tab" data-bs-target="#whatsapp-10" type="button" role="tab" aria-controls="profile" aria-selected="false"><i class="fa-brands fa-whatsapp fa-2x"></i></button>
                   </li>
                   <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="email-tab-<?php echo $x ?>" data-bs-toggle="tab" data-bs-target="#email-<?php echo $x ?>" type="button" role="tab" aria-controls="contact" aria-selected="false"><i class="fa-solid fa-envelope fa-2x"></i></button>
+                    <button class="nav-link" id="email-tab-10" data-bs-toggle="tab" data-bs-target="#email-10" type="button" role="tab" aria-controls="contact" aria-selected="false"><i class="fa-solid fa-envelope fa-2x"></i></button>
                   </li>
                 </ul>
                 <div class="tab-content mt-3" id="myTabContent">
-                  <div class="tab-pane fade show active" id="education-<?php echo $x ?>" role="tabpanel" aria-labelledby="education-tab-<?php echo $x ?>">
-                    <span class=""> M.Tech , PHD</span>
+                  <div class="tab-pane fade show active" id="education-10" role="tabpanel" aria-labelledby="education-tab-10">
+                    <span class=""> B.Tech , M.Tech</span>
                   </div>
-                  <div class="tab-pane fade" id="whatsapp-<?php echo $x ?>" role="tabpanel" aria-labelledby="whatsapp-tab-<?php echo $x ?>">
-                    <span class=""> <a href="we.me/91987654321" class="text-decoration-none text-dark">+91 987654321</a></span>
+                  <div class="tab-pane fade" id="whatsapp-10" role="tabpanel" aria-labelledby="whatsapp-tab-10">
+                    <span class=""> <a href="we.me/91" class="text-decoration-none text-dark"></a></span>
                   </div>
-                  <div class="tab-pane fade" id="email-<?php echo $x ?>" role="tabpanel" aria-labelledby="email-tab-<?php echo $x ?>">
-                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark">Vimalpandey@gmail.com</a></span>
+                  <div class="tab-pane fade" id="email-10" role="tabpanel" aria-labelledby="email-tab-10">
+                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark"></a></span>
                   </div>
                 </div>
 
@@ -470,11 +524,68 @@ while($x <= 5) {
           </div>
         </div>
       </div>  
-     <?php 
-     $x++;
-    }
-    ?>
-  -->
+      <div class="col-11  col-md-6 col-lg-3 my-3 ">
+        <div class="card h-100 shadow-sm rounded-4">
+          <div class="text-center">
+
+
+            <div class="img-hover-zoom img-hover-zoom--colorize faculty_img-control">
+              <img class="shadow" src="./img/faculty/teaching staff/hemant_sir-removebg-preview.png"  alt="Another Image zoom-on-hover effect">
+            </div>
+
+          </div>
+
+          <div class="card-body">
+            <div class="clearfix mb-3">
+
+
+            </div>
+
+
+            <div class="my-2 text-center small-font">
+
+              <h3>Mr. Hemant Kumar</h3>
+
+            </div>
+            <div class="mb-3">
+
+              <h4 class="text-uppercase text-center role">Guest Faculty</h4>
+
+            </div>
+            <div class="box">
+              <div>
+                <ul class="nav nav-tabs d-flex justify-content-center" id="myTab" role="tablist">
+                  <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="education-tab-13" data-bs-toggle="tab" data-bs-target="#education-13" type="button" role="tab" aria-controls="home" aria-selected="true"><i class="fa-solid fa-graduation-cap fa-2x"></i></button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="whatsapp-tab-13" data-bs-toggle="tab" data-bs-target="#whatsapp-13" type="button" role="tab" aria-controls="profile" aria-selected="false"><i class="fa-brands fa-whatsapp fa-2x"></i></button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="email-tab-13" data-bs-toggle="tab" data-bs-target="#email-13" type="button" role="tab" aria-controls="contact" aria-selected="false"><i class="fa-solid fa-envelope fa-2x"></i></button>
+                  </li>
+                </ul>
+                <div class="tab-content mt-3" id="myTabContent">
+                  <div class="tab-pane fade show active" id="education-13" role="tabpanel" aria-labelledby="education-tab-13">
+                    <span class=""> B.Tech , M.Tech</span>
+                  </div>
+                  <div class="tab-pane fade" id="whatsapp-13" role="tabpanel" aria-labelledby="whatsapp-tab-13">
+                    <span class=""> <a href="we.me/91" class="text-decoration-none text-dark">9996814765</a></span>
+                  </div>
+                  <div class="tab-pane fade" id="email-13" role="tabpanel" aria-labelledby="email-tab-13">
+                    <span class=""> <a href="mailto:abc@gmail.com" class="text-decoration-none text-dark">hemantsharma902@gmail.com</a></span>
+                  </div>
+                </div>
+
+
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+      </div>  
+      
     </div>
   </div>
 </div>
@@ -525,18 +636,6 @@ while($x <= 5) {
               <!-- <a href="#" class="btn btn-danger rounded-5  my-3 " >Electronics Lab</a> -->
             </div>
           </div>
-          <div class="swiper-slide rounded-4">
-            <div class="card  rounded-4  px-2 pt-2 shadow">
-              <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4" style="height: 250px; object-fit: cover;">
-              <!-- <a href="#" class="btn btn-warning rounded-5  my-3 " >Civil Lab</a> -->
-            </div>
-          </div>
-          <div class="swiper-slide rounded-4">
-            <div class="card  rounded-4  px-2 pt-2 shadow">
-              <img src="img/physicslab1.png" alt="" class="card-img img-fluid rounded-4" style="height: 250px; object-fit: cover;">
-              <!-- <a href="#" class="btn btn-danger rounded-5  my-3 " >Workshop</a> -->
-            </div>
-          </div>
 
         </div>
         <div class="swiper-pagination my-5"></div>
@@ -556,16 +655,13 @@ while($x <= 5) {
       <div class="card rounded-4" >
         <div class="card-body text-center p-0 shadow-md">
           <div class="hod_img ">
-            <img src="./img/faculty/smit sir.png" class=" img-fluid rounded-4 " alt="" >
+            <img src="./img/faculty/wazir singh sir.png" class=" img-fluid rounded-4 " alt="" >
           </div>
         </div>
       </div>
     </div>
     <div class="col-lg-10 col-md-12 px-4">
-      <p style="text-align:justify; " class="my-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum fugiat repudiandae in inventore! Earum officia pariatur, sit quisquam nam corrupti. Aut voluptas accusamus aperiam, voluptatibus beatae eaque officia iure dignissimos distinctio. Atque eaque consequuntur fugit, deserunt mollitia nihil nesciunt praesentium dicta quos expedita recusandae aperiam? Commodi, ab beatae, consequatur sapiente incidunt natus quisquam ea dolor rerum tempore  </p>
-      <div class="text-center my-4">
-        <button type="button" class="btn btn-danger py-2  px-4  "> View More</button>
-      </div>
+      <p style="text-align:justify; " class="my-0"></p>
     </div>
   </div>
 </div>

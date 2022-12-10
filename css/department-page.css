@@ -4,7 +4,7 @@
   height: 150px;
   margin-top: 20px;
   padding: 1px;
-  object-fit:cover;
+  object-fit:contain;
   transition: transform .5s;
 }
 

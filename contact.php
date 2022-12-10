@@ -57,24 +57,24 @@ include("header.php");
                           </div>
                          
                           <div class="col-lg-12 text-center">
-                            <button type="submit" class="bt border-0 rounded-4 my-5">
+                            <button type="submit" class="bt border-0 rounded-4 my-4">
                               Submit Now
-                              <i class="px-2 fa-arrow-right"></i>
                             </button>
                           </div>
                         </div>
                       </form>
                     </div>
                   </div>
-                  <div class="col-lg-4 bg-image rounded-4 shadow" style=" background-image:linear-gradient(to bottom, rgba(6, 38, 22, 0.52), rgba(19, 47, 117, 0.73)),
+                  <div class="col-lg-4 bg-image rounded-4 shadow" style="background-repeat:no-repeat; background-size: cover;background-image:linear-gradient(to bottom, rgba(6, 38, 22, 0.52), rgba(19, 47, 117, 0.73)),
                   url('clg\ img.jpg');">
                     <div class="detail-box p-4">
-                      <h5 class=" text-white font-weight-light mb-3">ADDRESS</h5>
-                      <p class=" text-light op-7">RAO Birender Singh State Institute Of Engineering and Technology,Zainabaad
+                      <h5 class=" text-white font-weight-bold mb-3">ADDRESS</h5>
+                      <p class="  font-weight-bold op-7" style="font-size:19px; text-align:left; color:aqua;">RAO Birender Singh State Institute Of Engineering and Technology,Zainabaad
                         <br> Rewari</p>
-                      <h5 class="text-white font-weight-light mb-3 mt-4">CALL US</h5>
-                      <p class=" text-white op-7">251 546 9442
-                        <br> 630 446 8851</p>
+                      <h5 class="text-white font-weight-bold mb-3 mt-4">Helpline</h5>
+                      <p class=" text-white op-7">01281-260000</p>
+                      <h5 class="text-white font-weight-bold mb-3 mt-4">E-mail</h5>
+                      <p class=" text-white op-7">officerbssiet@gmail.com</p>
                       <!-- <div class="round-social light">
                         <a href="#" ><img src="" </a>
                         <a href="#" class="text-decoration-none text-white border border-white rounded-circle"><i class="fa-duotone fa-phone"></i></a>
